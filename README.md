@@ -14,18 +14,18 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 
 ## 📚 Conteúdo do Curso
 
-### [Seção 1](./Seção%201/README.md)
+### [Seção 1]
 
 - [Aula 01 – Introdução à ISO/IEC 27001](./Seção%201/README.md)
 
-### [Seção 2](./Seção%202/README.md)
+### [Seção 2]
 
 - [Aula 02 – Introdução à ISO/IEC 27001](./Seção%202/README.md)
 
-### [Seção 3](./Seção%203/README.md)
+### [Seção 3]
 
-- - [Aula 03 - Visão Geral da Família ISO/IEC 2700x](./Seção%203/README.md#aula-03--visão-geral-da-família-isoiec-2700x)
-- - [Aula 04 - Estrutura e Nomenclatura das Normas](./Seção%203/README.md#aula-04--estrutura-e-nomenclatura-das-normas)
+- [Aula 03 - Visão Geral da Família ISO/IEC 2700x](./Seção%203/README.md#aula-03--visão-geral-da-família-isoiec-2700x)
+- [Aula 04 - Estrutura e Nomenclatura das Normas](./Seção%203/README.md#aula-04--estrutura-e-nomenclatura-das-normas)
 
 ## 💡 Referências
 
