@@ -1,6 +1,6 @@
 # 📒 Anotações – ISO/IEC 27001
 
-Bem-vindo(a) às anotações da **Seção 1** do curso **EXIN ISO 27001: Fundamentos de Segurança da Informação**!
+Bem-vindo(a) às anotações da ``Seção 1`` do curso **EXIN ISO 27001: Fundamentos de Segurança da Informação**!
 
 Aqui você encontrará um resumo da principal aula desta seção, com explicações e exemplos práticos sobre a norma **ISO/IEC 27001**.
 
