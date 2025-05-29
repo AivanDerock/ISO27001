@@ -1,6 +1,6 @@
 # 📒 Anotações – ISO/IEC 27001
 
-Bem-vindo(a) às anotações da **Seção 2** do curso **EXIN ISO 27001: Fundamentos de Segurança da Informação**!
+Bem-vindo(a) às anotações da ``Seção 2`` do curso **EXIN ISO 27001: Fundamentos de Segurança da Informação**!
 
 Aqui você encontrará um resumo da principal aula desta seção, com explicações e exemplos práticos sobre a norma **ISO/IEC 27001**.
 
@@ -22,13 +22,17 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 
 ### Aula Única – Introdução à ISO/IEC 27001 e 27002
 
-O que devemos entender e compreender oq o curso abrange
+Nesta aula, o curso aborda os principais fundamentos da segurança da informação, incluindo:
 
-infromação e segurança - conceito, valor, importancia e confiabilidade
-ameaças e riscos: conceitos e relacionamneto com confiabilidade
-abordagem e oranização: Politica de segurança, componentes e incidentes
-medidas: importancia da segurança fisica, tecnica e organizacional
-legislção e regulamentação: importancia e impactos
+- ``Informação e Segurança:`` Conceito, valor, importância e confiabilidade da informação.
+
+- ``Ameaças e Riscos:`` Definições, exemplos e a relação desses fatores com a confiabilidade das informações.
+
+- ``Abordagem e Organização:`` Políticas de segurança, principais componentes e gestão de incidentes.
+
+- ``Medidas de Segurança:`` Importância das medidas físicas, técnicas e organizacionais para proteção das informações.
+
+- ``Legislação e Regulamentação:`` Relevância das normas, leis e regulamentações, além de seus impactos no ambiente corporativo.
 
 ---
 
