@@ -29,6 +29,9 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 - [Aula 05 – Valor que a empresa obtém com o uso da ISO 27001/27002](./Seção%203/README.md#aula-05--valor-que-a-empresa-obtém-com-o-uso-da-iso-2700127002)
 - [Aula 06 – Principais normas](./Seção%203/README.md#aula-06--principais-normas)
 
+### Seção 4
+
+- [Aula 07 - Em Breve]()
 
 ## 💡 Referências
 

@@ -34,7 +34,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 
 ## 💡 Considerações Finais
 
-Essas anotações refletem o que considerei mais importante e interessante durante a aula introdutória do curso.  
+Essas anotações refletem o que considerei mais importante e interessante durante as aulas do curso.  
 Organizei os principais conceitos e exemplos para facilitar a revisão e a fixação do conteúdo.
 
 Vamos continuar estudando e evoluindo! 🚀

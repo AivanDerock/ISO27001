@@ -146,9 +146,9 @@ A família ISO/IEC 2700x é composta por mais de 40 normas, cada uma complementa
 
 ## 💡 Considerações Finais
 
-Essas anotações refletem o que considerei mais importante e interessante durante a aula introdutória do curso.  
+Essas anotações refletem o que considerei mais importante e interessante durante as aulas do curso.  
 Organizei os principais conceitos e exemplos para facilitar a revisão e a fixação do conteúdo.
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 30/05/25 por Ivan Rocha_
+> _Última atualização: 03/06/25 por Ivan Rocha_
