@@ -1,6 +1,6 @@
 # 📒 Anotações – ISO/IEC 27001
 
-Bem-vindo(a) às anotações da ``Seção 4`` do curso **EXIN ISO 27001: Fundamentos de Segurança da Informação**!
+Bem-vindo(a) às anotações da ``Seção 5`` do curso **EXIN ISO 27001: Fundamentos de Segurança da Informação**!
 
 Aqui você encontrará um resumo da principal aula desta seção, com explicações e exemplos práticos sobre a norma **ISO/IEC 27001**.
 
@@ -20,13 +20,9 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 
 ## 📚 Conteúdo da Aula
 
-### Seção 4
+### Seção 5
 
-Nesta seção, as aulas foram focadas principalmente na implementação e nos procedimentos necessários para estruturar um SGSI (Sistema de Gestão de Segurança da Informação) em empresas que ainda não possuem esse sistema. O conteúdo foi mais direcionado para gestores e organizações que desejam iniciar a implantação do SGSI.
-
-No meu caso, como já atuo em uma empresa que possui um SGSI consolidado, essas aulas não trouxeram tantos pontos novos ou relevantes para minha rotina. Meu objetivo é aprofundar o conhecimento para atuar com mais qualidade e segurança em ambientes onde o SGSI já está implementado e funcionando adequadamente.
-
-> **Observação:** Para quem já trabalha em empresas com SGSI estabelecido, essa parte pode ser menos relevante, mas é fundamental para quem pretende liderar ou participar da implementação do sistema.
+- [Aula 07 - Em breve]()
 
 ---
 
