@@ -35,7 +35,8 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 
 ### Seção 5
 
-- [Aula 07 - Em Breve](./Seção%205/README.md)
+- [Aula 07 - Definição de Informação](./Seção%205/README.md#aula-07---definição-de-informação)
+- [Aula 08 - Dado e Informação](./Seção%205/README.md#aula-08--dado-e-informação)
 
 ---
 
@@ -43,6 +44,7 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 
 - [ISO/IEC 27001 - Wikipédia](https://pt.wikipedia.org/wiki/ISO/IEC_27001)
 - [Fundamentos de Segurança da Informação baseado na ISO/IEC 27001](https://www.udemy.com/course/exin-iso-27001-information-security-foundation/)
+- [Livro Base "Fundamentos de Segurança da Informação"](https://www.amazon.com.br/Fundamentos-Seguran%C3%A7a-Informa%C3%A7%C3%A3o-27001-27002/dp/8574528609)
 
 ---
 
