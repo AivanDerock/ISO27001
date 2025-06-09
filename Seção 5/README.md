@@ -24,7 +24,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 
 - [Aula 07 - Definição de Informação](#aula-07---definição-de-informação)
 - [Aula 08 - Dado e Informação](#aula-08--dado-e-informação)
-- [Aula 09 - Em breve]()
+- [Aula 09 - Como a Informação é Derivada](#aula-09--como-a-informação-é-derivada)
 - [Aula 10 - Em breve]()
 
 ---
@@ -98,6 +98,23 @@ De acordo com a ITIL,
 Ou seja, informação é aquilo que responde a pelo menos uma dessas perguntas, trazendo significado e utilidade aos dados.
 
 ---
+
+### Aula 09 – Como a Informação é Derivada
+
+De onde surge a informação?
+
+A informação é derivada a partir de dados que, quando organizados e contextualizados, passam a ter significado e utilidade.
+
+**Exemplo prático:**  
+Imagine que seu gestor de TI pergunta quantos chamados foram abertos nesta semana. Para responder, você precisa buscar essa informação com base nos dados isolados que estão armazenados em algum sistema ou planilha.
+
+Ao analisar esses dados, você pode informar ao gestor:  
+"Com base nos números da última semana, foram abertos 30 chamados. Destes, o setor A, o setor B e o setor C estiveram envolvidos. Os chamados trataram de diferentes casos, como instalação de software não homologado, validação de uma extensão, entre outros."
+
+Neste exemplo, a resposta fornecida ao gestor é uma **informação** construída a partir de diversos **dados** (quantidade, setores, tipos de chamados, etc.) que estavam armazenados. Se você tivesse apenas um código solto, sem data, nome ou descrição, isso seria apenas um dado isolado, sem contexto.
+
+**Resumo:**  
+Para obter uma informação, é necessário partir de dados brutos e ir agregando contexto e significado, até que esses dados, juntos, formem uma informação útil e compreensível.
 
 
 
