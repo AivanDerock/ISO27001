@@ -25,7 +25,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 07 - Definição de Informação](#aula-07---definição-de-informação)
 - [Aula 08 - Dado e Informação](#aula-08--dado-e-informação)
 - [Aula 09 - Como a Informação é Derivada](#aula-09--como-a-informação-é-derivada)
-- [Aula 10 - Em breve]()
+- [Aula 10 - Aplicando Contexto aos Dados](#aula-10--aplicando-contexto-aos-dados)
 
 ---
 
@@ -116,7 +116,25 @@ Neste exemplo, a resposta fornecida ao gestor é uma **informação** construíd
 **Resumo:**  
 Para obter uma informação, é necessário partir de dados brutos e ir agregando contexto e significado, até que esses dados, juntos, formem uma informação útil e compreensível.
 
+---
 
+### Aula 10 – Aplicando Contexto aos Dados
+
+Atualmente, vivemos em um mundo digitalizado, onde quase tudo é processado na palma da mão: celulares, computadores, notebooks, tablets e até relógios inteligentes conectados aos nossos dispositivos. É comum pensarmos que o processamento de dados está restrito ao ambiente de TI, mas o conceito vai além.
+
+Um exemplo fora do universo digital é uma delegacia no interior de uma cidade, onde todas as anotações ainda são feitas em papel. O tradicional livro de ocorrências contém tanto dados quanto informações.
+
+**Exemplo prático:**  
+- A **data** registrada em um boletim de ocorrência é um dado isolado.  
+- Já a **descrição** do ocorrido, detalhando o que aconteceu, transforma esse dado em informação ao dar contexto:  
+  "Na data X, ocorreu um assalto na rua Y, onde determinado pertence foi levado, totalizando um prejuízo de Z reais."
+
+O mesmo raciocínio se aplica à área de TI. Imagine um banco de dados com datas de colaboradores. Se você gerar um relatório apenas com datas, elas não terão significado – serão apenas dados soltos. Agora, se essas datas estiverem associadas aos respectivos colaboradores e acompanhadas de uma descrição, como "Colaborador contratado em X" ou "Colaborador desligado em Y", aí sim temos uma informação, pois há contexto e significado.
+
+**Resumo:**  
+O contexto é fundamental para transformar dados em informação. Sem contexto, temos apenas fatos isolados; com contexto, os dados ganham significado e utilidade.
+
+---
 
 ## 💡 Considerações Finais
 
