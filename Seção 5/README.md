@@ -26,6 +26,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 08 - Dado e Informação](#aula-08--dado-e-informação)
 - [Aula 09 - Como a Informação é Derivada](#aula-09--como-a-informação-é-derivada)
 - [Aula 10 - Aplicando Contexto aos Dados](#aula-10--aplicando-contexto-aos-dados)
+- [Aula 11 - Em Breve]()
 
 ---
 
@@ -133,6 +134,10 @@ O mesmo raciocínio se aplica à área de TI. Imagine um banco de dados com data
 
 **Resumo:**  
 O contexto é fundamental para transformar dados em informação. Sem contexto, temos apenas fatos isolados; com contexto, os dados ganham significado e utilidade.
+
+---
+
+### Aula 11 - Em Breve
 
 ---
 
