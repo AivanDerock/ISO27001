@@ -26,7 +26,9 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 08 - Dado e Informação](#aula-08--dado-e-informação)
 - [Aula 09 - Como a Informação é Derivada](#aula-09--como-a-informação-é-derivada)
 - [Aula 10 - Aplicando Contexto aos Dados](#aula-10--aplicando-contexto-aos-dados)
-- [Aula 11 - Em Breve]()
+- [Aula 11 - Modelo DICS/DIKW](#aula-11--modelo-dics--dikw)
+- [Aula 12 - Aplicação do Modelo DICS/DIKW](#aula-12--aplicação-do-modelo-dics--dikw)
+- [Aula 13 - Em Breve]()
 
 ---
 
@@ -137,7 +139,64 @@ O contexto é fundamental para transformar dados em informação. Sem contexto, 
 
 ---
 
-### Aula 11 - Em Breve
+### Aula 11 – Modelo DICS / DIKW
+
+O modelo DICS (ou DIKW, em inglês) representa as etapas de evolução da informação: **Dados, Informação, Conhecimento e Sabedoria**.
+
+Até agora, abordamos apenas os conceitos de dados e informação. Agora, vamos analisar como esses elementos evoluem até se tornarem conhecimento e, por fim, sabedoria, seguindo as boas práticas do mercado.
+
+**Como funciona o modelo DICS/DIKW:**
+
+1. ``Dados:`` É o estado mais bruto, a base de todo o processo. Dados são fatos isolados, sem contexto ou significado.
+
+2. ``Informação:`` Quando os dados são organizados e contextualizados, passam a responder perguntas como "quem?", "o quê?", "quando?" e "onde?". Assim, os dados ganham significado e se tornam informação.
+
+3. ``Conhecimento:`` A partir da informação, surge o conhecimento, que responde à pergunta "como?". É o entendimento de como usar a informação para realizar tarefas ou tomar decisões.
+
+4. ``Sabedoria:`` O estágio mais avançado, que responde à pergunta "por quê?". Sabedoria é a capacidade de aplicar o conhecimento de forma crítica, estratégica e ética, compreendendo as consequências e o propósito das ações.
+
+**Resumo das etapas:**
+
+- ``Etapa 1:`` Dados brutos  
+- ``Etapa 2:`` Informação (quem, o quê, quando, onde)  
+- ``Etapa 3:`` Conhecimento (como)  
+- ``Etapa 4:`` Sabedoria (por quê)
+
+Esse modelo ajuda a entender como evoluímos de simples dados até a tomada de decisões inteligentes e fundamentadas.
+
+---
+
+### Aula 12 – Aplicação do Modelo DICS / DIKW
+
+Um conceito fundamental no processo de gestão do conhecimento é que só é possível alcançar o verdadeiro conhecimento após trabalhar os dados, inseri-los em uma plataforma ou sistema e transformá-los em informações. Informações são conjuntos de dados organizados que já permitem a tomada de decisões.
+
+Vamos entender como percorrer o caminho dos dados até a sabedoria:
+
+1. **Capturar todos os dados necessários:** Coletar dados relevantes para o contexto do negócio ou processo.
+
+2. **Analisar, sintetizar e transformar em informação:** Organizar e contextualizar os dados, tornando-os úteis e compreensíveis.
+
+3. **Identificar os dados relevantes:** Focar na coleta e análise dos dados que realmente agregam valor, otimizando recursos.
+
+4. **Manter a integridade dos dados:** Garantir que os dados sejam precisos, completos e confiáveis durante todo o processo.
+
+5. **Arquivar e eliminar dados desnecessários:** Gerenciar o ciclo de vida dos dados, equilibrando disponibilidade e uso eficiente dos recursos.
+
+**Resumo do modelo:**
+
+- ``D`` – Dados  
+- ``I`` – Informação  
+- ``C`` – Conhecimento  
+- ``S`` – Sabedoria  
+
+**Fluxo:**  
+Dados → Informação → Conhecimento → Sabedoria
+
+Esse processo garante que a organização evolua de simples coleta de dados até a tomada de decisões estratégicas e fundamentadas.
+
+---
+
+### Aula 13 – Em Breve
 
 ---
 
@@ -148,4 +207,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 09/06/25 por Ivan Rocha_
+> _Última atualização: 11/06/25 por Ivan Rocha_
