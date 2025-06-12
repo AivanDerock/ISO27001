@@ -31,6 +31,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 13 - Formas de Informação](#aula-13--formas-de-informação)
 - [Aula 14 – Sistema de Informação](#aula-14--sistema-de-informação)
 - [Aula 15 – Tecnologia da Informação](#aula-15--tecnologia-da-informação)
+- [Aula 16 – Diferença entre Sistema e Tecnologia da Informação](#aula-16--diferença-entre-sistema-e-tecnologia-da-informação)
 
 ---
 
@@ -283,10 +284,26 @@ A tecnologia da informação é fundamental para garantir a eficiência, seguran
 
 ---
 
-### a
+### Aula 16 – Diferença entre Sistema e Tecnologia da Informação
+
+O conceito é simples:
+
+- ``Sistema de Informação:`` Tem como finalidade a transferência e o processamento de informações por meio de um conjunto de elementos integrados. Sempre que conseguimos transferir uma informação de um lado para o outro, já temos um sistema de informação.
+
+  **Exemplos:**
+  - Arquivos de armário (documentos físicos sendo organizados e acessados)
+  - Telefone (uma ligação entre duas pessoas, transmitindo informações de um lado para o outro)
+  - Impressora (ao enviar um documento para impressão, a informação é transmitida do computador para a impressora)
+
+- ``Tecnologia da Informação:`` Refere-se às ferramentas, equipamentos e recursos tecnológicos utilizados para coletar, armazenar, processar e transmitir dados e informações (como computadores, softwares, servidores, redes, etc.).
+
+**Resumo:** A tecnologia da informação fornece os meios e recursos tecnológicos, enquanto o sistema de informação é o conjunto de processos e elementos (tecnológicos ou não) que garantem a transferência, processamento e uso das informações.
 
 ---
 
+### a 
+
+---
 ## 💡 Considerações Finais
 
 Essas anotações refletem o que considerei mais importante e interessante durante as aulas do curso.  
