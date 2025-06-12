@@ -32,6 +32,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 14 – Sistema de Informação](#aula-14--sistema-de-informação)
 - [Aula 15 – Tecnologia da Informação](#aula-15--tecnologia-da-informação)
 - [Aula 16 – Diferença entre Sistema e Tecnologia da Informação](#aula-16--diferença-entre-sistema-e-tecnologia-da-informação)
+- [Aula 17 – Valor da Informação](#aula-17--valor-da-informação)
 
 ---
 
@@ -301,9 +302,26 @@ O conceito é simples:
 
 ---
 
+### Aula 17 – Valor da Informação
+
+A informação possui valor diferente para cada parte interessada, dependendo do contexto e do interesse de quem a recebe.
+
+**Exemplo prático:** Se você fala sobre futebol para alguém que não gosta ou não acompanha o esporte, as informações transmitidas terão pouco ou nenhum valor para essa pessoa. Por outro lado, se você compartilha informações sobre futebol com alguém que é fã do esporte, essas informações passam a ter grande importância e valor.
+
+**Valor da informação no contexto corporativo:** No ambiente empresarial, a informação é fundamental e pode ser considerada um ativo estratégico. Por exemplo, o registro de uma venda tem valor para a empresa, para o cliente e para o funcionário envolvido. Informações como para quem foi vendido, quando, preço, assinatura da nota fiscal, valor cobrado, data de vencimento, entre outros detalhes, são essenciais para o funcionamento e controle dos processos.
+
+- ``Informação como ativo:`` Para a empresa, a informação armazenada é um ativo valioso, pois sustenta os processos operacionais, auxilia na tomada de decisões e pode representar vantagem competitiva.
+
+- ``Informação como fator de produção:`` Assim como máquinas, pessoas e dinheiro, a informação é um recurso indispensável para a produção e operação das organizações.
+
+**Resumo:** A informação ganha valor conforme sua utilidade, relevância e impacto para cada parte interessada. No contexto corporativo, ela é tratada como um ativo estratégico, essencial para o sucesso e a continuidade dos negócios.
+
+---
+
 ### a 
 
 ---
+
 ## 💡 Considerações Finais
 
 Essas anotações refletem o que considerei mais importante e interessante durante as aulas do curso.  
