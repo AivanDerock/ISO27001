@@ -30,6 +30,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 12 - Aplicação do Modelo DICS/DIKW](#aula-12--aplicação-do-modelo-dics--dikw)
 - [Aula 13 - Formas de Informação](#aula-13--formas-de-informação)
 - [Aula 14 – Sistema de Informação](#aula-14--sistema-de-informação)
+- [Aula 15 – Tecnologia da Informação](#aula-15--tecnologia-da-informação)
 
 ---
 
@@ -245,6 +246,44 @@ O sistema de informação é formado pela junção de quatro componentes essenci
 Quando esses quatro elementos trabalham juntos, temos um verdadeiro sistema de informação.
 
 Esses componentes garantem que as informações estejam disponíveis e acessíveis para os processos de negócio da organização, promovendo a integração e o suporte necessário para a tomada de decisões e o funcionamento eficiente da empresa.
+
+---
+
+### Aula 15 – Tecnologia da Informação
+
+Em alguns casos, ainda encontramos sistemas de informação analógicos ou tradicionais, como o bom e velho papel e caneta. No entanto, atualmente, a tecnologia da informação (TI) predomina nas empresas, trazendo modernização e agilidade para os processos.
+
+Hoje, é raro encontrar organizações que utilizam apenas métodos tradicionais. A TI está presente em praticamente todos os ambientes corporativos, sendo responsável por processar, armazenar e coletar dados de forma rápida e eficiente. Isso permite transformar dados em informação, gerar conhecimento e aplicar a sabedoria em poucos minutos ou até segundos.
+
+**Exemplos de tecnologias da informação:**
+- Celulares e smartphones
+- Aplicativos e sites
+- Computadores e notebooks
+- Relógios inteligentes
+- Softwares corporativos
+- Servidores
+- Inteligência Artificial (IA)
+
+Essas tecnologias são utilizadas para coletar, armazenar e processar dados.
+
+> Tudo que segue esses três passos – coletar, armazenar e processar dados – pode ser considerado tecnologia da informação.
+
+**Meios de armazenamento de dados:**
+- Pen drives
+- Disquetes
+- Fitas magnéticas (fitas cassete)
+- Data centers
+- Equipamentos próprios com HDs (celulares, computadores, notebooks)
+- CDs e DVDs
+- SSDs
+- Storages corporativos
+- Servidores
+
+A tecnologia da informação é fundamental para garantir a eficiência, segurança e disponibilidade das informações nas organizações modernas.
+
+---
+
+### a
 
 ---
 

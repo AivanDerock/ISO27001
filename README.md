@@ -43,6 +43,7 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 - [Aula 12 - Aplicação do Modelo DICS/DIKW](./Seção%205/README.md#aula-12--aplicação-do-modelo-dics--dikw)
 - [Aula 13 – Formas de Informação](./Seção%205/README.md#aula-13--formas-de-informação)
 - [Aula 14 – Sistema de Informação](./Seção%205/README.md#aula-14--sistema-de-informação)
+- [Aula 15 – Tecnologia da Informação](./Seção%205/README.md#aula-15--tecnologia-da-informação)
 
 ---
 
