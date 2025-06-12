@@ -28,7 +28,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 10 - Aplicando Contexto aos Dados](#aula-10--aplicando-contexto-aos-dados)
 - [Aula 11 - Modelo DICS/DIKW](#aula-11--modelo-dics--dikw)
 - [Aula 12 - Aplicação do Modelo DICS/DIKW](#aula-12--aplicação-do-modelo-dics--dikw)
-- [Aula 13 - Em Breve]()
+- [Aula 13 - Formas de Informação](#aula-13--formas-de-informação)
 
 ---
 
@@ -196,7 +196,41 @@ Esse processo garante que a organização evolua de simples coleta de dados até
 
 ---
 
-### Aula 13 – Em Breve
+### Aula 13 – Formas de Informação
+
+Nesta aula, vamos explorar as diferentes formas que a informação pode assumir e como ela pode ser transmitida, armazenada e protegida.
+
+Como já vimos, a informação é o resultado da soma e organização dos dados. Ela pode ser transmitida e armazenada de diversas maneiras:
+
+**Formas de transmissão:**
+- **Meios físicos:** Envio de cartas pelos correios, documentos impressos, etc.
+- **Meios eletrônicos:** E-mails, mensagens instantâneas, sistemas de informação, etc.
+- **Forma verbal:** Comunicação oral, reuniões, telefonemas, etc.
+
+**Formas de armazenamento eletrônico:**
+- Discos ópticos (CD, DVD)
+- Bancos de dados
+- Planilhas eletrônicas
+- Disquetes
+- Pen drives
+- Servidores e nuvens
+
+**Informação em mídias visuais:**
+- Filmes e fotos, como imagens captadas por câmeras de segurança.  
+  Exemplo: Em um caso de assalto, as imagens gravadas podem ser usadas pela polícia para investigação, sendo uma informação armazenada e transmitida por meio eletrônico.
+
+Cada tipo de informação exige medidas específicas de controle e proteção.
+
+**Exemplo prático:**  
+Ao enviar uma carta pelos correios, espera-se que ela não seja violada ou lida por pessoas não autorizadas. Para garantir a confidencialidade, podem ser adotadas medidas como criptografia (mesmo em comunicações físicas, como códigos ou linguagens secretas, por exemplo, o código Morse).
+
+O objetivo é sempre manter as informações seguras e acessíveis apenas a pessoas autorizadas.  
+Por exemplo, ao fornecer seu CPF em uma loja, espera-se que essa informação seja armazenada de forma sigilosa e não fique disponível ao público.
+
+**Resumo:**  
+A informação pode ser transmitida, armazenada e apresentada de várias formas, e cada uma delas requer cuidados específicos para garantir sua segurança, confidencialidade e integridade.
+
+---
 
 ---
 
