@@ -36,6 +36,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 18 – Quem determina o valor da informação](#aula-18--quem-determina-o-valor-da-informação)
 - [Aula 19 – Informação como Ativo](#aula-19--informação-como-ativo)
 - [Aula 20 – Tipos de Ativos](#aula-20--tipos-de-ativos)
+- [Aula 21 – Em Breve]()
 
 ---
 
@@ -389,7 +390,7 @@ A empresa sabe o valor tangível que paga para um funcionário, mas não consegu
 
 ---
 
-
+### Aula 21 - Em breve
 
 ---
 
