@@ -29,6 +29,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 11 - Modelo DICS/DIKW](#aula-11--modelo-dics--dikw)
 - [Aula 12 - Aplicação do Modelo DICS/DIKW](#aula-12--aplicação-do-modelo-dics--dikw)
 - [Aula 13 - Formas de Informação](#aula-13--formas-de-informação)
+- [Aula 14 – Sistema de Informação](#aula-14--sistema-de-informação)
 
 ---
 
@@ -232,6 +233,19 @@ A informação pode ser transmitida, armazenada e apresentada de várias formas,
 
 ---
 
+### Aula 14 – Sistema de Informação
+
+O sistema de informação é formado pela junção de quatro componentes essenciais:
+
+- ``Meios``
+- ``Procedimentos``
+- ``Regras``
+- ``Pessoas``
+
+Quando esses quatro elementos trabalham juntos, temos um verdadeiro sistema de informação.
+
+Esses componentes garantem que as informações estejam disponíveis e acessíveis para os processos de negócio da organização, promovendo a integração e o suporte necessário para a tomada de decisões e o funcionamento eficiente da empresa.
+
 ---
 
 ## 💡 Considerações Finais
@@ -241,4 +255,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 11/06/25 por Ivan Rocha_
+> _Última atualização: 12/06/25 por Ivan Rocha_
