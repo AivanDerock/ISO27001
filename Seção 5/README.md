@@ -33,6 +33,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 15 – Tecnologia da Informação](#aula-15--tecnologia-da-informação)
 - [Aula 16 – Diferença entre Sistema e Tecnologia da Informação](#aula-16--diferença-entre-sistema-e-tecnologia-da-informação)
 - [Aula 17 – Valor da Informação](#aula-17--valor-da-informação)
+- [Aula 18 – Quem determina o valor da informação](#aula-18--quem-determina-o-valor-da-informação)
 
 ---
 
@@ -318,7 +319,20 @@ A informação possui valor diferente para cada parte interessada, dependendo do
 
 ---
 
-### a 
+### Aula 18 – Quem determina o valor da informação
+
+É importante entender que quem determina o valor da informação é sempre o receptor final ou destinatário.
+
+**Exemplo prático:** Você é um vendedor e insere a informação de uma venda no sistema. Essa informação será útil para o dono da loja, pois permitirá saber quanto foi vendido, quanto rendeu ou até mesmo identificar prejuízos. Ou seja, o valor da informação depende de quem a recebe e de como ela será utilizada.
+
+Além disso, as informações precisam estar sempre contextualizadas em relação aos processos de negócio.  
+Processos de negócio são as etapas e atividades que fazem a empresa funcionar e existir, sendo a razão de ser da organização.
+
+**Resumo:** O valor da informação é definido pelo destinatário e pelo contexto em que ela é aplicada dentro dos processos de negócio.
+
+---
+
+### a
 
 ---
 
