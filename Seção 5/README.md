@@ -35,6 +35,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 17 – Valor da Informação](#aula-17--valor-da-informação)
 - [Aula 18 – Quem determina o valor da informação](#aula-18--quem-determina-o-valor-da-informação)
 - [Aula 19 – Informação como Ativo](#aula-19--informação-como-ativo)
+- [Aula 20 – Tipos de Ativos](#aula-20--tipos-de-ativos)
 
 ---
 
@@ -347,7 +348,48 @@ No contexto empresarial, por exemplo, uma pessoa que detém o conhecimento de um
 
 ---
 
-### a
+### Aula 20 – Tipos de Ativos
+
+Existem dois tipos principais de ativos: ``ativos tangíveis`` e ``ativos intangíveis``.
+
+#### Ativos Tangíveis
+
+São aqueles que possuem um valor financeiro facilmente identificado e mensurável. Ou seja, é possível saber exatamente quanto foi pago ou investido naquele bem.
+
+**Exemplos de ativos tangíveis:**
+- Prédios
+- Estoques
+- Computadores
+- Pessoas (força de trabalho)
+- Casas
+- Motos
+- Carros
+
+Esses ativos são chamados de tangíveis porque a empresa ou o indivíduo sabe o valor financeiro de cada um, pois foi pago ou investido diretamente.
+
+#### Ativos Intangíveis
+
+São aqueles cujo valor não pode ser mensurado de forma exata, sendo estimado de acordo com sua importância ou impacto para a organização.
+
+**Exemplos de ativos intangíveis:**
+- Informação
+- Reputação
+- Marca
+- Conhecimento dos funcionários
+
+Por exemplo, empresas como Amazon, Microsoft ou Google não valem bilhões ou trilhões de dólares apenas pelos seus computadores, escritórios ou pessoas, mas sim pelos seus ativos intangíveis, como reputação e imagem no mercado.
+
+A informação é um ativo intangível, pois gera valor para a organização, mesmo que não seja possível calcular seu valor exato.
+
+A empresa sabe o valor tangível que paga para um funcionário, mas não consegue mensurar o valor intangível do conhecimento que esse funcionário leva consigo. Por isso, o conhecimento dos colaboradores é um ativo estratégico: quando um funcionário encerra o expediente, a empresa espera que ele retorne, pois só ele detém o conhecimento necessário para fazer o negócio funcionar.
+
+**Resumo:**  
+- ``Ativos tangíveis:`` valor financeiro claro e mensurável.
+- ``Ativos intangíveis:`` valor estimado, muitas vezes relacionado à informação, reputação e conhecimento, fundamentais para o sucesso e a continuidade da organização.
+
+---
+
+
 
 ---
 
