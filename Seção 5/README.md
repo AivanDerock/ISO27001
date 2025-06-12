@@ -34,6 +34,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 16 – Diferença entre Sistema e Tecnologia da Informação](#aula-16--diferença-entre-sistema-e-tecnologia-da-informação)
 - [Aula 17 – Valor da Informação](#aula-17--valor-da-informação)
 - [Aula 18 – Quem determina o valor da informação](#aula-18--quem-determina-o-valor-da-informação)
+- [Aula 19 – Informação como Ativo](#aula-19--informação-como-ativo)
 
 ---
 
@@ -329,6 +330,20 @@ Além disso, as informações precisam estar sempre contextualizadas em relaçã
 Processos de negócio são as etapas e atividades que fazem a empresa funcionar e existir, sendo a razão de ser da organização.
 
 **Resumo:** O valor da informação é definido pelo destinatário e pelo contexto em que ela é aplicada dentro dos processos de negócio.
+
+---
+
+### Aula 19 – Informação como Ativo
+
+Com base na ISO 27002:2013, em um mundo interconectado, a informação e todos os processos relacionados, sistemas, redes e pessoas envolvidas em suas operações são considerados ativos importantes para a organização. Assim como outros ativos, a informação tem valor para o negócio e, por isso, requer proteção contra diversos riscos.
+
+``O que é um ativo?`` Um ativo é qualquer coisa que pertence a um indivíduo ou organização e que possui valor. Pode ser algo utilizado para produzir bens ou serviços, ou ainda algo que pode ser vendido para gerar receita.
+
+No contexto empresarial, por exemplo, uma pessoa que detém o conhecimento de um processo essencial dentro da empresa pode ser considerada um ativo, pois seu conhecimento é fundamental para o funcionamento do negócio. Da mesma forma, informações, procedimentos e instruções sobre como realizar determinado processo também são ativos, pois agregam valor à organização.
+
+``Ativo que gera receita:`` Quando falamos em receita, estamos nos referindo ao dinheiro e aos lucros que a empresa pode obter a partir do uso, venda ou proteção adequada desses ativos.
+
+**Resumo:** A informação é um ativo estratégico, pois pode gerar valor, receita e vantagem competitiva para a organização. Por isso, deve ser protegida com o mesmo cuidado dedicado a outros ativos importantes do negócio.
 
 ---
 

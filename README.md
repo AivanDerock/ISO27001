@@ -47,6 +47,7 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 - [Aula 16 – Diferença entre Sistema e Tecnologia da Informação](./Seção%205/README.md#aula-16--diferença-entre-sistema-e-tecnologia-da-informação)
 - [Aula 17 – Valor da Informação](./Seção%205/README.md#aula-17--valor-da-informação)
 - [Aula 18 – Quem determina o valor da informação](./Seção%205/README.md#aula-18--quem-determina-o-valor-da-informação)
+- [Aula 19 – Informação como Ativo](./Seção%205/README.md#aula-19--informação-como-ativo)
 
 ---
 
