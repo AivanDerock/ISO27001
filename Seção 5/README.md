@@ -39,6 +39,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 21 – Ciclo de Vida das Informações](#aula-21--ciclo-de-vida-das-informações)
 - [Aula 22 – Informação como Fator Estratégico](#aula-22--informação-como-fator-estratégico)
 - [Aula 23 – Processo de Negócio](#aula-23--processo-de-negócio)
+- [Aula 24 – Tipos de Processos de Negócios](#aula-24--tipos-de-processos-de-negócios)
 
 ---
 
@@ -481,6 +482,43 @@ A saída é a transformação das entradas, após a realização das atividades,
 Toda organização precisa de processos de negócio, pois são eles que fazem a empresa operar e funcionar.
 
 **Definição:** Processo de negócio é um processo estruturado que a empresa realiza para produzir algo ou entregar algum serviço
+
+---
+
+### Aula 24 – Tipos de Processos de Negócios
+
+Em uma organização, existem diferentes níveis hierárquicos: diretoria/donos (nível estratégico), gerência/intermediários (nível de suporte), coordenação e, na base, o pessoal operacional.
+
+O ciclo de um processo de negócio geralmente segue:  
+``Entrada do processo → Atividade 1 → Atividade 2 → Atividade 3 → Saída do processo``
+
+Os processos de negócio podem ser classificados em três tipos principais:
+
+#### 1. Processos Primários (Operacionais)
+São os processos que fazem parte da cadeia de valor e geram receita para a organização. Estão ligados diretamente à produção do produto final ou à entrega do serviço ao cliente.
+
+- **Exemplo:** Produção de veículos em uma fábrica, atendimento ao cliente, vendas.
+
+#### 2. Processos Estratégicos
+Envolvem o nível mais alto da organização (diretoria), responsável por definir estratégias, automatizar processos, reduzir custos, aumentar a produção e expandir o alcance da empresa.
+
+- **Exemplo:** Decidir como aumentar a produção de carros para atender uma região maior, definir novas metas de mercado.
+
+#### 3. Processos de Suporte
+São processos que dão suporte aos processos primários e estratégicos, geralmente realizados pela gerência e departamentos de apoio (RH, TI, financeiro, etc.).
+
+- **Exemplo:** Gerência solicitando ao RH a contratação de novos funcionários para atender uma demanda da diretoria.
+
+#### Pirâmide dos Processos de Negócio
+
+1. ``Diretoria`` — Estratégico  
+2. ``Gerência`` — Suporte  
+3. ``Equipes Técnicas/Operacionais`` — Primário/Operacional
+
+**Resumo:**  
+- ``Primário:`` Produção do produto final, geração de receita (nível operacional)
+- ``Estratégico:`` Definição de metas e estratégias (nível diretoria)
+- ``Suporte:`` Apoio aos demais processos, garantindo que a organização alcance seus objetivos (nível
 
 ---
 

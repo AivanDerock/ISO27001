@@ -52,6 +52,7 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 - [Aula 21 – Ciclo de Vida das Informações](./Seção%205/README.md#aula-21--ciclo-de-vida-das-informações)
 - [Aula 22 – Informação como Fator Estratégico](./Seção%205/README.md#aula-22--informação-como-fator-estratégico)
 - [Aula 23 – Processo de Negócio](./Seção%205/README.md#aula-23--processo-de-negócio)
+- [Aula 24 – Tipos de Processos de Negócios](./Seção%205/README.md#aula-24--tipos-de-processos-de-negócios)
 
 ---
 
