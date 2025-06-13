@@ -38,6 +38,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 20 – Tipos de Ativos](#aula-20--tipos-de-ativos)
 - [Aula 21 – Ciclo de Vida das Informações](#aula-21--ciclo-de-vida-das-informações)
 - [Aula 22 – Informação como Fator Estratégico](#aula-22--informação-como-fator-estratégico)
+- [Aula 23 – Processo de Negócio](#aula-23--processo-de-negócio)
 
 ---
 
@@ -456,6 +457,30 @@ A informação é essencial para a tomada de decisões estratégicas.
 
 **Resumo:**  
 O bem mais importante que uma empresa possui são suas informações. Elas são fundamentais para a sobrevivência, inovação e sucesso no mercado.
+
+---
+
+### Aula 23 – Processo de Negócio
+
+No nosso dia a dia, estamos acostumados a resolver vários processos, muitos dos quais passam despercebidos. A informação faz parte de um processo de negócio, pois toda empresa possui uma sequência de atividades e saídas que resultam na produção de um bem ou serviço para o mercado.
+
+**Exemplo: Fábrica de veículos**
+
+- ``Entradas:``  
+  - Pedido de compra do veículo
+  - Solicitação de peças aos fornecedores (pneu, motor, vidro, etc.)
+
+- ``Atividades:``  
+  - Montagem do veículo, integração das peças e componentes
+
+- ``Saída:``  
+  - Veículo pronto para entrega ao cliente
+
+A saída é a transformação das entradas, após a realização das atividades, em um bem final.
+
+Toda organização precisa de processos de negócio, pois são eles que fazem a empresa operar e funcionar.
+
+**Definição:** Processo de negócio é um processo estruturado que a empresa realiza para produzir algo ou entregar algum serviço
 
 ---
 
