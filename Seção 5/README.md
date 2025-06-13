@@ -40,6 +40,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 22 – Informação como Fator Estratégico](#aula-22--informação-como-fator-estratégico)
 - [Aula 23 – Processo de Negócio](#aula-23--processo-de-negócio)
 - [Aula 24 – Tipos de Processos de Negócios](#aula-24--tipos-de-processos-de-negócios)
+- [Aula 25 – Em Breve](#)
 
 ---
 
@@ -519,6 +520,10 @@ São processos que dão suporte aos processos primários e estratégicos, geralm
 - ``Primário:`` Produção do produto final, geração de receita (nível operacional)
 - ``Estratégico:`` Definição de metas e estratégias (nível diretoria)
 - ``Suporte:`` Apoio aos demais processos, garantindo que a organização alcance seus objetivos (nível
+
+---
+
+### Aula 245 – Em Breve
 
 ---
 
