@@ -37,6 +37,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 19 – Informação como Ativo](#aula-19--informação-como-ativo)
 - [Aula 20 – Tipos de Ativos](#aula-20--tipos-de-ativos)
 - [Aula 21 – Ciclo de Vida das Informações](#aula-21--ciclo-de-vida-das-informações)
+- [Aula 22 – Informação como Fator Estratégico](#aula-22--informação-como-fator-estratégico)
 
 ---
 
@@ -421,6 +422,40 @@ Cada estágio do ciclo de vida da informação envolve riscos. Por isso, é fund
 Criada → Armazenada → Usada → Compartilhada → Arquivada → Destruída
 
 Cada etapa exige cuidados específicos para garantir a segurança, confidencialidade e integridade das informações.
+
+---
+
+### Aula 22 – Informação como Fator Estratégico
+
+Toda empresa precisa de recursos, ativos e produtos para gerar bens ou serviços e entregá-los ao mercado.
+
+Segundo o livro base:  
+``Fator de produção`` é um recurso necessário para gerar produtos ou serviços.
+
+Dentro desse conceito, temos:
+- Capital
+- Capital financeiro
+- Capital intelectual
+- Mão de obra
+- Matéria-prima
+
+Atualmente, vivemos na era digital, onde a produção e o uso de informações são essenciais. Todas as organizações dependem de informações para sobreviver e competir no mercado. Por isso, a informação passou a ser considerada um fator de produção fundamental.
+
+Se a empresa não fizer uso adequado da informação, não conseguirá produzir bens ou recursos para oferecer ao mercado.
+
+**Exemplo:**  
+Uma empresa que deseja entrar no ramo de panelas precisa de informações como:
+- Como fabricar uma panela
+- Quem são os concorrentes
+- Preços de venda praticados no mercado
+- Despesas envolvidas
+- Design inovador (para se diferenciar)
+- Entre outros dados
+
+A informação é essencial para a tomada de decisões estratégicas.
+
+**Resumo:**  
+O bem mais importante que uma empresa possui são suas informações. Elas são fundamentais para a sobrevivência, inovação e sucesso no mercado.
 
 ---
 
