@@ -36,7 +36,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 18 – Quem determina o valor da informação](#aula-18--quem-determina-o-valor-da-informação)
 - [Aula 19 – Informação como Ativo](#aula-19--informação-como-ativo)
 - [Aula 20 – Tipos de Ativos](#aula-20--tipos-de-ativos)
-- [Aula 21 – Em Breve]()
+- [Aula 21 – Ciclo de Vida das Informações](#aula-21--ciclo-de-vida-das-informações)
 
 ---
 
@@ -390,7 +390,37 @@ A empresa sabe o valor tangível que paga para um funcionário, mas não consegu
 
 ---
 
-### Aula 21 - Em breve
+### Aula 21 – Ciclo de Vida das Informações
+
+Na vida, tudo tem início, meio e fim: uma carreira, uma formação, a própria vida. Com as informações não é diferente – elas também possuem um ciclo de vida.
+
+Segundo a norma ISO 27002, a informação tem um ciclo natural:  
+**criação/origem → armazenamento → processamento/uso → transmissão/compartilhamento → arquivamento → destruição/obsolescência**
+
+A própria norma reconhece que a informação pode se tornar obsoleta. Nesse caso, podemos armazená-la para consulta futura (histórico) ou simplesmente destruí-la.
+
+#### Controles e Medidas
+
+De acordo com a ISO 27002, a informação deve passar por etapas bem definidas:
+
+1. **Criação:** Surgimento da informação, seja por meios analógicos ou digitais.
+2. **Armazenamento:** Guardar a informação em meios físicos ou digitais (TI).
+3. **Uso:** Utilização da informação como ativo intangível, gerando valor ou recursos.
+4. **Compartilhamento:** A informação pode ser compartilhada, gerando conhecimento e sabedoria para outras pessoas ou para a organização (relacionando ao modelo DICS/DIKW).
+5. **Arquivamento:** Após o uso, a informação pode ser arquivada para consultas futuras, mesmo que não seja mais tão útil.
+6. **Destruição:** Quando a informação se torna totalmente obsoleta, pode ser destruída para evitar riscos desnecessários.
+
+**Exemplo:**  
+Você compra um livro para estudar para uma certificação. Se a certificação deixa de existir, o livro se torna obsoleto, mas pode ser guardado para consulta ou descartado.
+
+Outro exemplo é a receita secreta da Coca-Cola. Em vez de patentear (o que limitaria a proteção a 10 anos), a empresa mantém a fórmula em segredo absoluto, prolongando o ciclo de vida da informação indefinidamente e evitando o compartilhamento.
+
+Cada estágio do ciclo de vida da informação envolve riscos. Por isso, é fundamental aplicar controles e medidas de segurança para minimizar esses riscos e proteger a informação enquanto ela for um ativo valioso para a organização.
+
+**Resumo do ciclo de vida da informação:**  
+Criada → Armazenada → Usada → Compartilhada → Arquivada → Destruída
+
+Cada etapa exige cuidados específicos para garantir a segurança, confidencialidade e integridade das informações.
 
 ---
 
@@ -401,4 +431,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 12/06/25 por Ivan Rocha_
+> _Última atualização: 13/06/25 por Ivan Rocha_
