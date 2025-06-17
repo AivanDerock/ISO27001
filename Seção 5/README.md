@@ -41,6 +41,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 23 – Processo de Negócio](#aula-23--processo-de-negócio)
 - [Aula 24 – Tipos de Processos de Negócios](#aula-24--tipos-de-processos-de-negócios)
 - [Aula 25 – Valor da Informação para o Processo de Negócio de uma Organização](#aula-25--valor-da-informação-para-o-processo-de-negócio-de-uma-organização)
+- [Aula 26 – Confiabilidade da Informação](#aula-26--confiabilidade-da-informação)
 
 ---
 
@@ -565,6 +566,32 @@ Cada processo exige controles específicos de acordo com o seu nível e importâ
 
 **Resumo:**  
 O valor da informação para o processo de negócio depende do contexto em que ela está inserida e dos controles de segurança aplicados. É fundamental garantir que cada informação tenha o nível adequado de confidencialidade, integridade e disponibilidade, conforme o tipo de processo e a necessidade
+
+---
+
+### Aula 26 – Confiabilidade da Informação
+
+Quando falamos de confiabilidade, muitas pessoas pensam que é um pilar separado dentro dos princípios da Segurança da Informação (SI). Na verdade, confiabilidade está diretamente relacionada aos três pilares clássicos da SI, conhecidos como CID:
+
+- ``C`` – Confidencialidade
+- ``I`` – Integridade
+- ``D`` – Disponibilidade
+
+Para que uma informação seja considerada confiável, é necessário que esses três princípios sejam aplicados de forma adequada.
+
+#### Exemplo prático: Hospital
+
+Imagine que você é gerente de TI em um hospital, responsável pelo sistema que armazena informações dos pacientes, incluindo o controle de medicação. Se você não garante que apenas pessoas autorizadas (como enfermeiras específicas) tenham acesso a essas informações, está comprometendo a confidencialidade.
+
+Se alguém não autorizado altera o medicamento de um paciente, a integridade da informação é quebrada, colocando o tratamento em risco.
+
+No caso de pacientes importantes (presidente, celebridades, etc.), se a mídia tem acesso e divulga informações confidenciais sobre o tratamento, novamente a confidencialidade é violada.
+
+#### Resumindo
+
+Quando falamos de confiabilidade da informação, estamos falando da aplicação dos três pilares do CID. Segurança da informação é garantir a confiabilidade da informação, e isso só é possível por meio da confidencialidade, integridade e disponibilidade.
+
+> **Observação:** Existem outros princípios além do CID, que serão abordados mais adiante no curso.
 
 ---
 
