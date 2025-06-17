@@ -595,6 +595,10 @@ Quando falamos de confiabilidade da informação, estamos falando da aplicação
 
 ---
 
+### Aula 27 – Em Breve
+
+---
+
 ## 💡 Considerações Finais
 
 Essas anotações refletem o que considerei mais importante e interessante durante as aulas do curso.  
