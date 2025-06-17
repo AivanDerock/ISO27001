@@ -40,7 +40,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 22 – Informação como Fator Estratégico](#aula-22--informação-como-fator-estratégico)
 - [Aula 23 – Processo de Negócio](#aula-23--processo-de-negócio)
 - [Aula 24 – Tipos de Processos de Negócios](#aula-24--tipos-de-processos-de-negócios)
-- [Aula 25 – Em Breve](#)
+- [Aula 25 – Valor da Informação para o Processo de Negócio de uma Organização](#aula-25--valor-da-informação-para-o-processo-de-negócio-de-uma-organização)
 
 ---
 
@@ -523,7 +523,48 @@ São processos que dão suporte aos processos primários e estratégicos, geralm
 
 ---
 
-### Aula 245 – Em Breve
+### Aula 25 – Valor da Informação para o Processo de Negócio de uma Organização
+
+Nesta aula, vamos analisar o valor da informação considerando os três tipos de processos de negócios:
+
+- ``Estratégico``
+- ``Suporte``
+- ``Primário``
+
+Em cada um desses processos, a informação é produzida, passa por seu ciclo de vida e precisa de controles e medidas para garantir sua confiabilidade e segurança.
+
+#### Determinando o valor da informação
+
+Segundo o livro base, um dos métodos para determinar o valor da informação é analisar o papel que ela desempenha nos diferentes processos de negócio. É fundamental identificar se a informação está em um processo primário, de suporte ou estratégico, pois isso influencia diretamente nos controles de segurança que devem ser aplicados.
+
+#### Exemplo prático: Montadora de carros
+
+Se você trabalha na montagem de motores, a informação sobre o passo a passo do processo precisa ser ``confiável``. Isso garante que, ao seguir as instruções, o motor será montado corretamente, sem retrabalho, desperdício ou acidentes. Aqui, a informação deve ser:
+
+- ``Disponível:`` Para que todos os funcionários possam acessar e executar as tarefas corretamente, inclusive novos colaboradores em treinamento.
+- ``Íntegra:`` Para evitar alterações indevidas, como trocar o tipo de peça, o que pode causar falhas e prejuízos.
+- ``Confidencial:`` Nem sempre é necessária nesse contexto, pois a informação precisa estar acessível aos operadores.
+
+#### Exemplo prático: Estratégia empresarial
+
+No nível estratégico, como um plano de expansão para novos produtos, a informação precisa ser ``confidencial``. O vazamento desse tipo de informação pode comprometer a competitividade da empresa. Portanto, o controle de acesso deve ser restrito à diretoria e pessoas envolvidas.
+
+#### Princípios de Segurança da Informação
+
+Os três pilares fundamentais são:
+
+- ``Confidencialidade:`` Garantir que apenas pessoas autorizadas tenham acesso à informação.
+- ``Integridade:`` Assegurar que a informação não seja alterada de forma indevida.
+- ``Disponibilidade:`` Garantir que a informação esteja acessível quando necessário.
+
+Cada processo exige controles específicos de acordo com o seu nível e importância para o negócio. Por exemplo:
+
+- Informações de RH devem ser restritas ao setor responsável.
+- Manuais de produtos devem ser íntegros e claros para o cliente.
+- Planos estratégicos devem ser confidenciais.
+
+**Resumo:**  
+O valor da informação para o processo de negócio depende do contexto em que ela está inserida e dos controles de segurança aplicados. É fundamental garantir que cada informação tenha o nível adequado de confidencialidade, integridade e disponibilidade, conforme o tipo de processo e a necessidade
 
 ---
 
@@ -534,4 +575,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 13/06/25 por Ivan Rocha_
+> _Última atualização: 17/06/25 por Ivan Rocha_
