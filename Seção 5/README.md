@@ -43,6 +43,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 25 – Valor da Informação para o Processo de Negócio de uma Organização](#aula-25--valor-da-informação-para-o-processo-de-negócio-de-uma-organização)
 - [Aula 26 – Confiabilidade da Informação](#aula-26--confiabilidade-da-informação)
 - [Aula 27 – O que é Segurança da Informação](#aula-27--o-que-é-segurança-da-informação)
+- [Aula 28 – Em Breve](#aula-28--em-breve)
 
 ---
 
@@ -635,6 +636,10 @@ Ao usar a biometria para uma transferência bancária, você garante:
 
 **Resumo:**  
 Segurança da informação é garantir, por meio de controles e políticas, que a informação seja protegida em todos os seus aspectos, principalmente confidencialidade, integridade, disponibilidade, autenticidade, responsabilidade e não-repúdio.
+
+---
+
+### Aula 28 – Em Breve
 
 ---
 
