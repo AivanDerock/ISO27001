@@ -42,6 +42,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 24 – Tipos de Processos de Negócios](#aula-24--tipos-de-processos-de-negócios)
 - [Aula 25 – Valor da Informação para o Processo de Negócio de uma Organização](#aula-25--valor-da-informação-para-o-processo-de-negócio-de-uma-organização)
 - [Aula 26 – Confiabilidade da Informação](#aula-26--confiabilidade-da-informação)
+- [Aula 27 – O que é Segurança da Informação](#aula-27--o-que-é-segurança-da-informação)
 
 ---
 
@@ -595,7 +596,45 @@ Quando falamos de confiabilidade da informação, estamos falando da aplicação
 
 ---
 
-### Aula 27 – Em Breve
+### Aula 27 – O que é Segurança da Informação
+
+Nesta aula, vamos entender o que é segurança da informação, tanto pela visão das boas práticas do livro base quanto pela definição das normas ISO 27001/27002.
+
+#### Definição segundo o livro base
+
+Segurança da informação envolve a definição, implementação, manutenção e avaliação de um sistema coerente de medidas que garantam a ``disponibilidade``, ``integridade`` e ``confidencialidade`` das informações.
+
+Ou seja, segurança da informação é garantir, por meio de controles, processos, regras e políticas, que a informação, durante todo o seu ciclo de vida, esteja protegida sob a tríade CID (Confidencialidade, Integridade e Disponibilidade).  
+Isso vale tanto para informações em papel quanto digitais.
+
+Essas medidas podem ser implementadas por meio de um SGSI (Sistema de Gestão de Segurança da Informação), que reúne todos os controles necessários para garantir a certificação da empresa e a melhoria contínua dos processos de segurança.
+
+#### Definição segundo a ISO 27001/27002
+
+De acordo com as normas, segurança da informação é:
+
+> **Preservação da confidencialidade, integridade e disponibilidade da informação; além de outras propriedades que também podem estar envolvidas.**
+
+Além da tríade CID, a norma inclui outros princípios importantes:
+
+- ``Autenticidade``
+- ``Responsabilidade``
+- ``Não repúdio``
+
+#### Exemplos práticos
+
+Hoje, bancos exigem biometria (digital ou palma da mão) para autorizar transações.  
+Ao usar a biometria para uma transferência bancária, você garante:
+
+- ``Autenticidade:`` É realmente você realizando a operação.
+- ``Responsabilidade:`` Você assume que está fazendo aquela transação.
+- ``Não repúdio:`` Não é possível negar posteriormente que foi você quem realizou a operação, pois a biometria comprova a autoria.
+
+> **Observação:**  
+> Com o avanço dessas tecnologias, em casos de assalto ou sequestro, pode ser impossível recorrer ou pedir reembolso, pois a biometria prova que foi o titular da conta quem realizou a transação. Isso levanta discussões e críticas, mas é um ponto importante a ser considerado.
+
+**Resumo:**  
+Segurança da informação é garantir, por meio de controles e políticas, que a informação seja protegida em todos os seus aspectos, principalmente confidencialidade, integridade, disponibilidade, autenticidade, responsabilidade e não-repúdio.
 
 ---
 
@@ -606,4 +645,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 17/06/25 por Ivan Rocha_
+> _Última atualização: 18/06/25 por Ivan Rocha_
