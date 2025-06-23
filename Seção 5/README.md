@@ -43,7 +43,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 25 – Valor da Informação para o Processo de Negócio de uma Organização](#aula-25--valor-da-informação-para-o-processo-de-negócio-de-uma-organização)
 - [Aula 26 – Confiabilidade da Informação](#aula-26--confiabilidade-da-informação)
 - [Aula 27 – O que é Segurança da Informação](#aula-27--o-que-é-segurança-da-informação)
-- [Aula 28 – Em Breve](#aula-28--em-breve)
+- [Aula 28 – Como Obter a Segurança da Informação](#aula-28--como-obter-a-segurança-da-informação)
 
 ---
 
@@ -639,7 +639,56 @@ Segurança da informação é garantir, por meio de controles e políticas, que 
 
 ---
 
-### Aula 28 – Em Breve
+### Aula 28 – Como Obter a Segurança da Informação
+
+Nesta aula, vamos explorar, seguindo as boas práticas do livro base, como podemos obter a segurança da informação na prática.
+
+#### Medidas e Controles
+
+A segurança da informação é alcançada pela implementação de um conjunto adequado de ``controles``, que podem incluir:
+
+- Políticas
+- Processos
+- Procedimentos
+- Estrutura organizacional
+- Software
+- Hardware
+
+Entre esses controles, os mais próximos do nosso dia a dia costumam ser o software e o hardware. Por exemplo, uma impressora que só pode ser usada por um funcionário específico, ou um computador que só aceita pendrive de um usuário autorizado. Outros exemplos incluem backups automáticos, sistemas que impedem alteração indevida em bancos de dados, firewalls, antivírus e sistemas de proteção contra malware.
+
+#### Controles do SGSI
+
+Além dos controles técnicos, o SGSI (Sistema de Gestão de Segurança da Informação) envolve:
+
+- ``Políticas:``  
+  Exemplo: Proibição do uso da internet corporativa para acessar conteúdos impróprios. Todos os colaboradores devem estar cientes dessas regras.
+
+- ``Processos:``  
+  Exemplo: Processo de inclusão de um novo colaborador, desde a contratação até a criação de usuário e e-mail corporativo.
+
+- ``Procedimentos:``  
+  Exemplo: Passo a passo para criar um usuário no sistema, gerar senha temporária, solicitar troca de senha, etc.
+
+- ``Estrutura organizacional:``  
+  Não adianta ter políticas, processos e procedimentos se não houver uma estrutura organizacional que garanta o cumprimento dessas regras. É preciso ter pessoas responsáveis por supervisionar e garantir a aplicação dos controles.
+
+#### Anéis de Proteção
+
+A segurança da informação pode ser vista em diferentes camadas (anéis de proteção):
+
+- ``Segurança lógica:``  
+  Exemplo: Login com usuário e senha, restrição de acesso à rede, controle de IPs.
+
+- ``Segurança física:``  
+  Exemplo: Controle de acesso ao prédio, catracas, câmeras, crachás de identificação.
+
+- ``Segurança organizacional:``  
+  Exemplo: Distribuição de funções e responsabilidades dentro das equipes, como profissionais de TI dedicados à segurança, banco de dados, etc.
+
+---
+
+**Resumo:**  
+Obter a segurança da informação exige a implementação de controles adequados em todos os níveis: técnico, físico, lógico, organizacional e humano. É a soma de políticas, processos, procedimentos, estrutura e tecnologia que garante a proteção das informações e o cumprimento dos princípios de segurança.
 
 ---
 
