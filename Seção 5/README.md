@@ -45,7 +45,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 27 – O que é Segurança da Informação](#aula-27--o-que-é-segurança-da-informação)
 - [Aula 28 – Como Obter a Segurança da Informação](#aula-28--como-obter-a-segurança-da-informação)
 - [Aula 29 – Por que você deve investir na Segurança da Informação](#aula-29--por-que-você-deve-investir-na-segurança-da-informação)
-- [Aula 30 – Em Breve](#)
+- [Aula 30 – Classificando o que se deve proteger](#aula-30--classificando-o-que-se-deve-proteger)
 
 ---
 
@@ -718,7 +718,24 @@ A melhor justificativa para o investimento depende do cenário e das necessidade
 
 ---
 
-### Aula 30 – Em Breve
+### Aula 30 – Classificando o que se deve proteger
+
+A classificação das informações deve ser feita com base na importância que elas têm para o negócio ou organização.
+
+A maneira mais adequada de realizar essa classificação é analisando os dados e informações que estão sendo tratados no momento e identificando quais produzem mais valor para a organização.
+
+**Exemplo:** Um projeto revolucionário, que não pode ser conhecido pelos concorrentes, possui informações de alto valor para o negócio e deve ser protegido com rigor.
+
+Outro critério importante é pensar no impacto que a perda ou dano dessas informações pode causar ao negócio.  
+
+**Exemplo:** Se você trabalha em uma empresa que armazena cartões de crédito de clientes, o vazamento dessas informações pode gerar processos judiciais, danos à reputação e grandes prejuízos financeiros.
+
+Também é possível classificar as informações conforme sua importância para os processos de negócio (primário, estratégico e de suporte). Cada nível possui informações com diferentes graus de criticidade.
+
+Outro ponto a considerar é a capacidade de recuperação caso a informação seja danificada ou perdida.
+
+**Resumo:** A classificação da informação depende do contexto da empresa, do cenário, do negócio, do processo e da importância de cada informação para a organização.  
+O objetivo é garantir que as informações mais críticas recebam o nível de proteção adequado ao seu valor e impacto para o negócio.
 
 ---
 
@@ -729,4 +746,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 23/06/25 por Ivan Rocha_
+> _Última atualização: 24/06/25 por Ivan Rocha_
