@@ -44,6 +44,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 26 – Confiabilidade da Informação](#aula-26--confiabilidade-da-informação)
 - [Aula 27 – O que é Segurança da Informação](#aula-27--o-que-é-segurança-da-informação)
 - [Aula 28 – Como Obter a Segurança da Informação](#aula-28--como-obter-a-segurança-da-informação)
+- [Aula 29 – Por que você deve investir na Segurança da Informação](#aula-29--por-que-você-deve-investir-na-segurança-da-informação)
 
 ---
 
@@ -660,35 +661,59 @@ Entre esses controles, os mais próximos do nosso dia a dia costumam ser o softw
 
 Além dos controles técnicos, o SGSI (Sistema de Gestão de Segurança da Informação) envolve:
 
-- ``Políticas:``  
-  Exemplo: Proibição do uso da internet corporativa para acessar conteúdos impróprios. Todos os colaboradores devem estar cientes dessas regras.
+- ``Políticas:`` Exemplo: Proibição do uso da internet corporativa para acessar conteúdos impróprios. Todos os colaboradores devem estar cientes dessas regras.
 
-- ``Processos:``  
-  Exemplo: Processo de inclusão de um novo colaborador, desde a contratação até a criação de usuário e e-mail corporativo.
+- ``Processos:`` Exemplo: Processo de inclusão de um novo colaborador, desde a contratação até a criação de usuário e e-mail corporativo.
 
-- ``Procedimentos:``  
-  Exemplo: Passo a passo para criar um usuário no sistema, gerar senha temporária, solicitar troca de senha, etc.
+- ``Procedimentos:`` Exemplo: Passo a passo para criar um usuário no sistema, gerar senha temporária, solicitar troca de senha, etc.
 
-- ``Estrutura organizacional:``  
-  Não adianta ter políticas, processos e procedimentos se não houver uma estrutura organizacional que garanta o cumprimento dessas regras. É preciso ter pessoas responsáveis por supervisionar e garantir a aplicação dos controles.
+- ``Estrutura organizacional:`` Não adianta ter políticas, processos e procedimentos se não houver uma estrutura organizacional que garanta o cumprimento dessas regras. É preciso ter pessoas responsáveis por supervisionar e garantir a aplicação dos controles.
 
 #### Anéis de Proteção
 
 A segurança da informação pode ser vista em diferentes camadas (anéis de proteção):
 
-- ``Segurança lógica:``  
-  Exemplo: Login com usuário e senha, restrição de acesso à rede, controle de IPs.
+- ``Segurança lógica:`` Exemplo: Login com usuário e senha, restrição de acesso à rede, controle de IPs.
 
-- ``Segurança física:``  
-  Exemplo: Controle de acesso ao prédio, catracas, câmeras, crachás de identificação.
+- ``Segurança física:`` Exemplo: Controle de acesso ao prédio, catracas, câmeras, crachás de identificação.
 
-- ``Segurança organizacional:``  
-  Exemplo: Distribuição de funções e responsabilidades dentro das equipes, como profissionais de TI dedicados à segurança, banco de dados, etc.
+- ``Segurança organizacional:`` Exemplo: Distribuição de funções e responsabilidades dentro das equipes, como profissionais de TI dedicados à segurança, banco de dados, etc.
 
 ---
 
-**Resumo:**  
-Obter a segurança da informação exige a implementação de controles adequados em todos os níveis: técnico, físico, lógico, organizacional e humano. É a soma de políticas, processos, procedimentos, estrutura e tecnologia que garante a proteção das informações e o cumprimento dos princípios de segurança.
+**Resumo:** Obter a segurança da informação exige a implementação de controles adequados em todos os níveis: técnico, físico, lógico, organizacional e humano. É a soma de políticas, processos, procedimentos, estrutura e tecnologia que garante a proteção das informações e o cumprimento dos princípios de segurança.
+
+---
+
+### Aula 29 – Por que você deve investir na Segurança da Informação
+
+Por que investir em segurança da informação?  
+A resposta está no contexto da organização e nos riscos que a ausência de proteção pode trazer, como:
+
+- **Prejuízos financeiros**
+- **Danos à imagem e reputação**
+- **Problemas na entrega de produtos e serviços**
+- **Perda de credibilidade**
+- **Riscos à continuidade do negócio**
+
+#### Principais motivos para investir em segurança da informação:
+
+1. ``Prevenção de perda de dados:`` Medidas de segurança, como planos de backup, evitam a perda de informações essenciais, mesmo em casos de falhas de hardware ou desastres.
+
+2. ``Assegurar a privacidade das informações:`` Garante que apenas pessoas autorizadas tenham acesso aos dados, protegendo tanto informações digitais quanto analógicas. Até uma conversa de elevador pode vazar informações estratégicas.
+
+3. ``Proteção da propriedade intelectual:`` Exemplo: A fórmula secreta da Coca-Cola é protegida rigorosamente. Se vazar, a empresa perde sua vantagem competitiva.
+
+4. ``Minimização de perdas financeiras:`` Vazamentos ou corrupção de dados podem gerar processos judiciais e prejuízos financeiros, como no caso de informações de pacientes em hospitais.
+
+5. ``Garantia da continuidade do negócio:`` A disponibilidade da informação é fundamental. Em casos de desastres (como incêndios ou ataques), ter um plano de continuidade e backups seguros garante que a empresa continue operando.
+
+   - Exemplo: Após o 11 de setembro, empresas que perderam seus backups por estarem no mesmo local do desastre tiveram grandes dificuldades para se recuperar.
+
+---
+
+**Resumo:** Investir em segurança da informação é essencial para proteger a organização contra perdas, garantir a privacidade, proteger a propriedade intelectual, evitar prejuízos financeiros e assegurar a continuidade do negócio.  
+A melhor justificativa para o investimento depende do cenário e das necessidades específicas de cada organização.
 
 ---
 
@@ -699,4 +724,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 18/06/25 por Ivan Rocha_
+> _Última atualização: 23/06/25 por Ivan Rocha_

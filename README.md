@@ -57,6 +57,7 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 - [Aula 26 – Confiabilidade da Informação](./Seção%205/README.md#aula-26--confiabilidade-da-informação)
 - [Aula 27 – O que é Segurança da Informação](./Seção%205/README.md#aula-27--o-que-é-segurança-da-informação)
 - [Aula 28 – Como Obter a Segurança da Informação](./Seção%205/README.md#aula-28--como-obter-a-segurança-da-informação)
+- [Aula 29 – Por que você deve investir na Segurança da Informação](./Seção%205/README.md#aula-29--por-que-você-deve-investir-na-segurança-da-informação)
 
 ---
 
