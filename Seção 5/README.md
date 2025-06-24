@@ -46,6 +46,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 28 – Como Obter a Segurança da Informação](#aula-28--como-obter-a-segurança-da-informação)
 - [Aula 29 – Por que você deve investir na Segurança da Informação](#aula-29--por-que-você-deve-investir-na-segurança-da-informação)
 - [Aula 30 – Classificando o que se deve proteger](#aula-30--classificando-o-que-se-deve-proteger)
+- [Aula 30 – Em Breve](#)
 
 ---
 
@@ -736,6 +737,10 @@ Outro ponto a considerar é a capacidade de recuperação caso a informação se
 
 **Resumo:** A classificação da informação depende do contexto da empresa, do cenário, do negócio, do processo e da importância de cada informação para a organização.  
 O objetivo é garantir que as informações mais críticas recebam o nível de proteção adequado ao seu valor e impacto para o negócio.
+
+---
+
+### Aula 31 – Em Breve
 
 ---
 
