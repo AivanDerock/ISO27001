@@ -45,6 +45,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 27 – O que é Segurança da Informação](#aula-27--o-que-é-segurança-da-informação)
 - [Aula 28 – Como Obter a Segurança da Informação](#aula-28--como-obter-a-segurança-da-informação)
 - [Aula 29 – Por que você deve investir na Segurança da Informação](#aula-29--por-que-você-deve-investir-na-segurança-da-informação)
+- [Aula 30 – Em Breve](#)
 
 ---
 
@@ -714,6 +715,10 @@ A resposta está no contexto da organização e nos riscos que a ausência de pr
 
 **Resumo:** Investir em segurança da informação é essencial para proteger a organização contra perdas, garantir a privacidade, proteger a propriedade intelectual, evitar prejuízos financeiros e assegurar a continuidade do negócio.  
 A melhor justificativa para o investimento depende do cenário e das necessidades específicas de cada organização.
+
+---
+
+### Aula 30 – Em Breve
 
 ---
 
