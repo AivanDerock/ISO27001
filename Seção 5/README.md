@@ -47,6 +47,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 29 – Por que você deve investir na Segurança da Informação](#aula-29--por-que-você-deve-investir-na-segurança-da-informação)
 - [Aula 30 – Classificando o que se deve proteger](#aula-30--classificando-o-que-se-deve-proteger)
 - [Aula 31 – Confidencialidade](#aula-31--confidencialidade)
+- [Aula 32 – Integridade](#aula-32--integridade)
 
 ---
 
@@ -778,6 +779,43 @@ De acordo com as boas práticas do livro base:
 - **Uso correto de e-mails:** Evitar copiar pessoas desnecessárias em e-mails confidenciais e não utilizar cópia oculta de forma inadequada.
 
 **Resumo:** A confidencialidade é garantir que a informação seja acessada apenas por quem realmente precisa, protegendo dados sensíveis e evitando vazamentos. Isso é feito por meio de políticas, controles de acesso, conscientização dos funcionários e boas práticas no ambiente de trabalho.
+
+---
+
+### Aula 32 – Integridade
+
+Nesta aula, vamos abordar as definições e os principais aspectos do princípio da integridade da informação.
+
+#### Definição segundo a ISO 27001
+
+- ``Integridade:`` Propriedade da exatidão e completeza da informação.
+
+#### Definição segundo o livro base / boas práticas
+
+- ``Completeza:`` Garante que os dados estejam inteiros, sem perdas ou alterações indevidas.
+- ``Corretude:`` Garante que os dados são corretos e verdadeiros.
+- ``Precisão:`` Garante que os dados podem ser conduzidos de forma consistente.
+- ``Validade:`` Relaciona-se à exatidão, precisão e tempo de vida dos dados.
+- ``Verificação:`` Possibilidade de analisar se os dados foram armazenados, cadastrados, recuperados, transferidos e exibidos corretamente.
+
+#### Exemplos práticos
+
+- **Transações bancárias:** Imagine que você é assistente de TI em um banco. Quando um usuário faz uma transação (depósito ou saque), é fundamental garantir que a informação seja íntegra do início ao fim. Isso pode ser validado por logs, gravações de câmeras, sistemas de dupla checagem, entre outros. Se houver uma falha ou queda no sistema, o processo precisa ser concluído corretamente, garantindo a completeza da informação.
+
+- **Uso de cartão ou biometria:** Ao utilizar cartão ou biometria, garante-se que a transação é verdadeira e foi realizada de forma exata, do início ao fim.
+
+#### Medidas de proteção (boas práticas)
+
+- **Autorização para mudanças:** Controlar quem pode alterar sistemas e dados, garantindo que todas as mudanças sejam registradas e autorizadas.
+
+- **Registro de ações dos usuários:** Manter logs detalhados para identificar quem fez cada alteração, quando e como. Isso permite rastrear ações como baixas em contas a pagar, vendas, etc.
+
+- **Criptografia dos dados:** Utilizar técnicas de criptografia para proteger a integridade dos dados durante o armazenamento e a transmissão.  
+  Exemplo:  
+  - HTTP (sem segurança): Dados trafegam em texto claro, sujeitos a interceptação e alteração.
+  - HTTPS (com segurança): Dados trafegam criptografados, protegendo contra alterações e garantindo integridade.
+
+**Resumo:** A integridade garante que a informação seja exata, completa, verdadeira e possa ser verificada em todas as etapas do seu ciclo de vida. Medidas como controle de acesso, registro de ações e criptografia são essenciais para proteger a integridade dos dados.
 
 ---
 
