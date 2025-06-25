@@ -46,7 +46,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 28 – Como Obter a Segurança da Informação](#aula-28--como-obter-a-segurança-da-informação)
 - [Aula 29 – Por que você deve investir na Segurança da Informação](#aula-29--por-que-você-deve-investir-na-segurança-da-informação)
 - [Aula 30 – Classificando o que se deve proteger](#aula-30--classificando-o-que-se-deve-proteger)
-- [Aula 30 – Em Breve](#)
+- [Aula 31 – Confidencialidade](#aula-31--confidencialidade)
 
 ---
 
@@ -740,7 +740,44 @@ O objetivo é garantir que as informações mais críticas recebam o nível de p
 
 ---
 
-### Aula 31 – Em Breve
+### Aula 31 – Confidencialidade
+
+A confidencialidade é um aspecto fundamental para que a informação seja confiável e para garantir a confiabilidade da informação.
+
+#### Definições
+
+- ``ISO 27001:`` Propriedade que a informação não é disponibilizada ou divulgada a indivíduos, entidades ou processos não autorizados.
+
+- ``Livro base (boas práticas):`` Características como exclusividade e privacidade.
+
+  - ``Exclusividade:`` Apenas usuários autorizados podem acessar determinada informação.
+  - ``Privacidade:`` Limita o acesso de pessoas às informações, protegendo dados sensíveis.
+
+Seguindo essas definições, a confidencialidade garante que informações restritas sejam acessadas apenas por quem realmente precisa, até que eventualmente se tornem públicas.
+
+#### Como ocorre a quebra de confidencialidade?
+
+- Quando uma pessoa com acesso repassa informações confidenciais para quem não deveria receber.
+- Quando alguém obtém uma senha ou invade um sistema e acessa dados restritos.
+- Quando informações são deixadas expostas em ambientes públicos ou acessíveis a pessoas não autorizadas.
+
+#### Medidas para garantir a confidencialidade das informações
+
+De acordo com as boas práticas do livro base:
+
+- **Acesso condicionado à necessidade:** Apenas quem realmente precisa deve ter acesso à informação. Sistemas devem restringir o acesso conforme o perfil do usuário.
+
+- **Política de mesa limpa:** Não deixar papéis com informações sensíveis expostos na mesa ou no lixo. Utilizar trituradores para descartar documentos sigilosos.
+
+- **Evitar exposição de informações:** Não exibir informações sensíveis em áreas comuns, como mesas, corredores ou janelas. Evitar conversas sobre projetos sigilosos em locais públicos, como elevadores.
+
+- **Gerenciamento de acesso lógico:** Utilizar controles de acesso em sistemas, bancos de dados e aplicativos corporativos, garantindo que apenas pessoas autorizadas possam acessar informações sensíveis.
+
+- **Configuração do ambiente:** Evitar posicionar computadores de forma que telas fiquem visíveis para pessoas em corredores ou prédios vizinhos, prevenindo vazamentos acidentais.
+
+- **Uso correto de e-mails:** Evitar copiar pessoas desnecessárias em e-mails confidenciais e não utilizar cópia oculta de forma inadequada.
+
+**Resumo:** A confidencialidade é garantir que a informação seja acessada apenas por quem realmente precisa, protegendo dados sensíveis e evitando vazamentos. Isso é feito por meio de políticas, controles de acesso, conscientização dos funcionários e boas práticas no ambiente de trabalho.
 
 ---
 
@@ -751,4 +788,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 24/06/25 por Ivan Rocha_
+> _Última atualização: 25/06/25 por Ivan Rocha_
