@@ -48,6 +48,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 30 – Classificando o que se deve proteger](#aula-30--classificando-o-que-se-deve-proteger)
 - [Aula 31 – Confidencialidade](#aula-31--confidencialidade)
 - [Aula 32 – Integridade](#aula-32--integridade)
+- [Aula 33 – Em Breve](#)
 
 ---
 
@@ -816,6 +817,10 @@ Nesta aula, vamos abordar as definições e os principais aspectos do princípio
   - HTTPS (com segurança): Dados trafegam criptografados, protegendo contra alterações e garantindo integridade.
 
 **Resumo:** A integridade garante que a informação seja exata, completa, verdadeira e possa ser verificada em todas as etapas do seu ciclo de vida. Medidas como controle de acesso, registro de ações e criptografia são essenciais para proteger a integridade dos dados.
+
+---
+
+### Aula 33 – Em Breve
 
 ---
 
