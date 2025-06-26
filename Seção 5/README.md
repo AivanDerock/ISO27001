@@ -48,7 +48,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 30 – Classificando o que se deve proteger](#aula-30--classificando-o-que-se-deve-proteger)
 - [Aula 31 – Confidencialidade](#aula-31--confidencialidade)
 - [Aula 32 – Integridade](#aula-32--integridade)
-- [Aula 33 – Em Breve](#)
+- [Aula 33 – Disponibilidade](#aula-33--disponibilidade)
 
 ---
 
@@ -820,7 +820,39 @@ Nesta aula, vamos abordar as definições e os principais aspectos do princípio
 
 ---
 
-### Aula 33 – Em Breve
+### Aula 33 – Disponibilidade
+
+Nesta aula, vamos abordar o conceito de ``disponibilidade`` segundo a norma ISO 27001 e os fundamentos do livro base.
+
+#### Definição segundo a ISO 27001
+
+- ``Disponibilidade:`` Propriedade de ser acessível e utilizável sob demanda por uma entidade autorizada.
+
+#### Definição segundo o livro base
+
+- ``Prontidão:`` Os sistemas de informação devem estar disponíveis quando necessário, permitindo que os usuários autorizados acessem a informação no local, hora e formato adequados.
+- ``Continuidade:`` Capacidade de manter as operações mesmo diante de falhas, desastres ou interrupções, garantindo que os colaboradores possam continuar trabalhando.
+- ``Robustez:`` Capacidade dos sistemas de resistirem a falhas, ataques ou sobrecargas, mantendo o acesso à informação para quem precisa.
+
+Ambas as definições reforçam que a informação deve estar disponível para quem precisa, sempre que necessário, e permanecer acessível durante todo o tempo de uso.
+
+#### Exemplos práticos
+
+- ``Prontidão:`` Um colaborador precisa acessar um sistema para realizar seu trabalho. A informação deve estar disponível imediatamente, sem atrasos.
+- ``Continuidade:`` Em caso de incêndio ou desastre, a empresa deve ter meios de recuperar as informações e retomar as operações rapidamente.
+- ``Robustez:`` Sistemas que enfrentam ataques hackers devem ser capazes de resistir e continuar funcionando, garantindo o acesso à informação.
+
+#### Medidas de proteção para disponibilidade (livro base)
+
+- ``Gerenciamento e armazenamento de dados:`` Implementar soluções que minimizem a probabilidade de perda de informação, como sistemas redundantes e armazenamento seguro.
+- ``Procedimentos de backup:`` Realizar backups regulares, considerando o tempo de retenção dos dados e testando periodicamente a restauração para garantir que as informações possam ser recuperadas quando necessário.
+- ``Procedimentos de emergência:`` Criar planos de contingência para garantir que as atividades possam ser retomadas rapidamente após uma interrupção de larga escala.
+
+**Exemplo:** Se uma aplicação web sofre um ataque e sai do ar, deve haver um plano para restaurar o serviço em outra plataforma ou ambiente, garantindo a continuidade do negócio.
+
+---
+
+**Resumo:** A disponibilidade garante que a informação esteja acessível e utilizável sempre que necessário, mesmo diante de falhas ou ataques. Medidas como backup, redundância, planos de contingência e robustez dos sistemas são essenciais para assegurar a continuidade das operações e o acesso à informação.
 
 ---
 
@@ -831,4 +863,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 25/06/25 por Ivan Rocha_
+> _Última atualização: 26/06/25 por Ivan Rocha_
