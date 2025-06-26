@@ -49,6 +49,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 31 – Confidencialidade](#aula-31--confidencialidade)
 - [Aula 32 – Integridade](#aula-32--integridade)
 - [Aula 33 – Disponibilidade](#aula-33--disponibilidade)
+- [Aula 34 – Autenticidade e Não Repúdio](#aula-34--autenticidade-e-não-repúdio)
 
 ---
 
@@ -853,6 +854,31 @@ Ambas as definições reforçam que a informação deve estar disponível para q
 ---
 
 **Resumo:** A disponibilidade garante que a informação esteja acessível e utilizável sempre que necessário, mesmo diante de falhas ou ataques. Medidas como backup, redundância, planos de contingência e robustez dos sistemas são essenciais para assegurar a continuidade das operações e o acesso à informação.
+
+---
+
+### Aula 34 – Autenticidade e Não Repúdio
+
+``Autenticidade`` e ``não repúdio`` são duas características fundamentais que reforçam a confiabilidade da informação.
+
+#### Autenticidade
+
+A autenticidade é a propriedade que garante que a informação foi criada, enviada ou recebida por uma fonte confiável e legítima, sem ter sofrido alterações indevidas ao longo do processo. Ou seja, é possível comprovar a identidade de quem originou a informação.
+
+#### Não Repúdio
+
+O não repúdio é a propriedade que assegura que uma pessoa não pode negar a autoria de uma ação ou transação realizada anteriormente. Isso impede que alguém negue, posteriormente, ter realizado determinada operação.
+
+#### Exemplo prático
+
+Um exemplo comum é o uso de biometria em transações bancárias. Ao utilizar a digital ou reconhecimento facial para autorizar uma operação, garante-se:
+
+- ``Autenticidade:`` Só o titular pode realizar a transação, pois a biometria comprova sua identidade.
+- ``Não repúdio:`` O titular não pode negar que realizou a operação, pois há uma prova inequívoca de autoria.
+
+---
+
+**Resumo:** Autenticidade garante a origem legítima da informação, enquanto o não repúdio impede a negação da autoria de uma ação. Ambas são essenciais para a segurança e confiabilidade das informações em ambientes digitais e transacionais.
 
 ---
 
