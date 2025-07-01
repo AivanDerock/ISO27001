@@ -69,6 +69,7 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 - [Aula 35 - Visão Geral da Seção 2](./Seção%206/README.md#aula-35--visão-geral-da-seção-2)
 - [Aula 36 - O que é uma ameaça](./Seção%206/README.md#aula-36--o-que-é-uma-ameaça)
 - [Aula 37 - O que é um risco](./Seção%206/README.md#aula-37--o-que-é-um-risco)
+- [Aula 38 - Em Breve](./Seção%206/README.md#)
 
 ---
 

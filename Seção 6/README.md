@@ -25,6 +25,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 35 - Visão Geral da Seção 2](#aula-35--visão-geral-da-seção-2)
 - [Aula 36 - O que é uma ameaça](#aula-36--o-que-é-uma-ameaça)
 - [Aula 37 - O que é um risco](#aula-37--o-que-é-um-risco)
+- [Aula 38 - Em Breve](#)
 
 ---
 
@@ -127,6 +128,10 @@ Ou seja, risco é a composição de vulnerabilidade, ameaça e impacto.
 ---
 
 **Resumo:** Risco pode ser positivo ou negativo, dependendo do resultado. Avaliar riscos envolve entender as ameaças, vulnerabilidades, a probabilidade de ocorrência e o impacto potencial para o negócio ou para você.
+
+---
+
+### Aula 38 – Em Breve
 
 ---
 
