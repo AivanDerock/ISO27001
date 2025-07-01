@@ -24,6 +24,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 
 - [Aula 35 - Visão Geral da Seção 2](#aula-35--visão-geral-da-seção-2)
 - [Aula 36 - O que é uma ameaça](#aula-36--o-que-é-uma-ameaça)
+- [Aula 37 - O que é um risco](#aula-37--o-que-é-um-risco)
 
 ---
 
@@ -85,6 +86,47 @@ A ameaça é a possibilidade de algo ruim acontecer. Por exemplo:
 - ``Agente de ameaça:`` Quem ou o que explora a vulnerabilidade.
 
 Entender esses conceitos é fundamental para identificar riscos e proteger os ativos de informação da organização.
+
+---
+
+### Aula 37 – O que é um risco
+
+Vamos entender o conceito de risco, trazendo exemplos do dia a dia e do ambiente de gerenciamento de projetos.
+
+Quando falamos de riscos, temos duas possibilidades:
+
+- ``Risco negativo:`` Sempre traz um impacto negativo.
+- ``Risco positivo:`` É uma situação em que, ao tomar uma decisão, você pode tanto perder quanto ganhar. Se der certo, você obtém um benefício inesperado.
+
+#### Exemplo prático
+
+Imagine que você vai investir mil reais na bolsa de valores. Ao dormir, você corre o risco de acordar com 10 mil reais (risco positivo) ou com apenas 1 centavo (risco negativo).  
+Aqui, você aceitou correr o risco, e o resultado pode ser bom ou ruim, dependendo do que acontecer no mercado.
+
+No mundo dos investimentos, ouvimos muito que risco pode ser positivo ou negativo. Investidores correm o risco das ações subirem (ganho) ou caírem (perda).
+
+#### Avaliando um risco
+
+Para avaliar um risco, precisamos considerar:
+
+> **Risco = ameaça + vulnerabilidade + probabilidade + potencial de impacto**
+
+- ``Vulnerabilidade:`` No exemplo do investimento, é a possibilidade de ganhar ou perder dinheiro.
+- ``Ameaça:`` É o evento que pode explorar essa vulnerabilidade, como a variação do mercado.
+- ``Probabilidade:`` A chance de o evento acontecer.
+- ``Potencial de impacto:`` O quanto você pode ganhar ou perder. Se você investe todo o seu dinheiro e perde, o impacto é alto.
+
+Assim, é importante avaliar se você tem estrutura para assumir o risco.
+
+#### Definição de risco (livro base)
+
+> Risco é a probabilidade de um agente de ameaça tirar proveito de uma vulnerabilidade e do impacto correspondente no negócio.
+
+Ou seja, risco é a composição de vulnerabilidade, ameaça e impacto.
+
+---
+
+**Resumo:** Risco pode ser positivo ou negativo, dependendo do resultado. Avaliar riscos envolve entender as ameaças, vulnerabilidades, a probabilidade de ocorrência e o impacto potencial para o negócio ou para você.
 
 ---
 
