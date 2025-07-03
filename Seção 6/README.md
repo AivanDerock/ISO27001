@@ -25,7 +25,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 35 - Visão Geral da Seção 2](#aula-35--visão-geral-da-seção-2)
 - [Aula 36 - O que é uma ameaça](#aula-36--o-que-é-uma-ameaça)
 - [Aula 37 - O que é um risco](#aula-37--o-que-é-um-risco)
-- [Aula 38 - Em Breve](#)
+- [Aula 38 - O que é vulnerabilidade](#aula-39--o-que-é-vulnerabilidade)
 
 ---
 
@@ -131,7 +131,45 @@ Ou seja, risco é a composição de vulnerabilidade, ameaça e impacto.
 
 ---
 
-### Aula 38 – Em Breve
+### Aula 39 – O que é vulnerabilidade
+
+Todos possuem algum tipo de fraqueza, seja um animal selvagem, uma rede de computadores, um bebê ou um adulto. Essas fraquezas podem ser doenças, vícios ou comportamentos compulsivos. Cada pessoa ou sistema pode ter uma vulnerabilidade que pode ser explorada por uma ameaça.
+
+No contexto de serviços de TI, para que um serviço gere valor ao cliente, ele precisa de processos de garantia bem definidos:
+
+- ``Capacidade``
+- ``Disponibilidade``
+- ``Continuidade``
+- ``Segurança``
+
+Quando esses quatro processos estão bem arquitetados, dizemos que o serviço possui garantia.
+
+#### Definição segundo a ISO 27001
+
+> Vulnerabilidade é a fraqueza de um ativo ou controle que pode ser explorada por uma ou mais ameaças.  
+> A vulnerabilidade caracteriza a ausência ou fraqueza de uma garantia que pode ser explorada.
+
+**Exemplo:** Se um serviço de TI não possui um sistema de segurança, já existe uma vulnerabilidade: a falta de segurança.  
+Se o serviço tem alta segurança, mas não possui controle de capacidade, pode ficar indisponível a qualquer momento — aqui, a garantia do serviço está comprometida.
+
+A vulnerabilidade sempre estará ligada à ausência ou fraqueza de um desses componentes da garantia.
+
+#### Relação com Segurança da Informação
+
+Quando falamos de segurança da informação (integridade, disponibilidade, confidencialidade), estamos tratando do processo de segurança e também do processo de disponibilidade do serviço.
+
+#### Para memorizar
+
+Qualquer serviço que tenha ausência ou fraqueza em um dos quatro princípios da garantia (disponibilidade, capacidade, continuidade e segurança) já está sujeito a sofrer uma ameaça. Ou seja, já possui uma vulnerabilidade pronta para ser explorada.
+
+Sempre que pensar em vulnerabilidade, pergunte-se:
+
+- A disponibilidade está comprometida?
+- A continuidade está comprometida?
+- A capacidade está comprometida?
+- A segurança está comprometida?
+
+Se a resposta for sim para qualquer um desses pontos, o serviço tem uma vulnerabilidade — uma fraqueza que pode ser explorada por uma ameaça.
 
 ---
 
@@ -142,4 +180,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 01/07/25 por Ivan Rocha_
+> _Última atualização: 03/07/25 por Ivan Rocha_
