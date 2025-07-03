@@ -27,6 +27,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 37 - O que é um risco](#aula-37--o-que-é-um-risco)
 - [Aula 38 - O que é vulnerabilidade](#aula-38--o-que-é-vulnerabilidade)
 - [Aula 39 - Diferença entre Acidente, Incidente e Desastre](#aula-39--diferença-entre-acidente-incidente-e-desastre)
+- [Aula 40 - Incidente e Desastre em Segurança da Informação](#aula-40--incidente-e-desastre-em-segurança-da-informação)
 
 ---
 
@@ -216,6 +217,33 @@ A partir da análise de vulnerabilidades, ameaças, probabilidade e impacto — 
 - ``Incidente``: evento secundário, geralmente de menor impacto.
 - ``Desastre``: pior cenário possível, catástrofe total.
 - Esteja sempre preparado com planos de continuidade para enfrentar ``desastres`` na área de TI e segurança da informação.
+
+---
+
+### Aula 40 – Incidente e Desastre em Segurança da Informação
+
+Segundo a norma ISO 27001:
+
+#### Incidente
+
+Um ``incidente`` é indicado por um simples evento ou por uma série de eventos de segurança da informação indesejados ou inesperados, que tenham grande probabilidade de comprometer as operações do negócio e ameaçar a segurança da informação.
+
+- **Exemplo:** Um ataque de ransomware, acesso não autorizado, vazamento de dados, ou qualquer situação que coloque em risco a confidencialidade, integridade ou disponibilidade das informações.
+
+#### Desastre
+
+Um ``desastre`` é um grande incidente que ameaça a continuidade do negócio, se manifestado.
+
+- **Exemplo:** Incêndio em data center, enchente que destrói servidores, falha total de infraestrutura, ou qualquer evento de grande escala que pode paralisar as operações da organização.
+
+---
+
+**Resumo:**  
+
+- ``Incidente:`` Evento (ou série de eventos) que compromete a segurança da informação e pode afetar as operações do negócio.
+- ``Desastre:`` Incidente de grande proporção, capaz de ameaçar a continuidade do negócio, exigindo planos de recuperação e contingência.
+
+A preparação para incidentes e desastres é fundamental para garantir a resiliência e a continuidade das operações em segurança da informação.
 
 ---
 
