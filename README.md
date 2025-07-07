@@ -73,6 +73,7 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 - [Aula 39 - Diferença entre Acidente, Incidente e Desastre](./Seção%206/README.md#aula-39--diferença-entre-acidente-incidente-e-desastre)
 - [Aula 40 - Incidente e Desastre em Segurança da Informação](./Seção%206/README.md#aula-40--incidente-e-desastre-em-segurança-da-informação)
 - [Aula 41 - Tipos de Ameaças de Segurança](./Seção%206/README.md#aula-41--tipos-de-ameaças-de-segurança)
+- [Aula 42 - Tipos de Danos](./Seção%206/README.md#aula-42--tipos-de-danos)
 
 ---
 
