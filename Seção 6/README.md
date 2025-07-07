@@ -28,6 +28,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 38 - O que é vulnerabilidade](#aula-38--o-que-é-vulnerabilidade)
 - [Aula 39 - Diferença entre Acidente, Incidente e Desastre](#aula-39--diferença-entre-acidente-incidente-e-desastre)
 - [Aula 40 - Incidente e Desastre em Segurança da Informação](#aula-40--incidente-e-desastre-em-segurança-da-informação)
+- [Aula 41 - Tipos de Ameaças de Segurança](#aula-41--tipos-de-ameaças-de-segurança)
 
 ---
 
@@ -247,6 +248,32 @@ A preparação para incidentes e desastres é fundamental para garantir a resili
 
 ---
 
+### Aula 41 – Tipos de Ameaças de Segurança
+
+Quando falamos em ameaças à segurança da informação, podemos classificá-las em dois grandes grupos: ``humanas`` e ``não humanas``. Além disso, as ameaças humanas podem ser ``intencionais`` ou ``não intencionais``.
+
+#### Tipos de ameaças
+
+- ``Humanas``
+  - **Intencionais:** São aquelas em que a pessoa tem a intenção de causar dano.  
+    - *Exemplo:* Um colaborador apaga propositalmente arquivos importantes da empresa, sabendo que isso pode gerar prejuízo.
+    - *Engenharia social:* Quando alguém tenta manipular outra pessoa, usando a famosa "lábia", para induzi-la a tomar uma ação desejada pelo atacante.
+  - **Não intencionais:** Ocorrem sem a intenção de causar dano.  
+    - *Exemplo:* Uma pessoa da limpeza esbarra e desliga acidentalmente o cabo de energia do data center. Não foi proposital, mas ainda assim representa uma ameaça.
+
+- ``Não humanas``
+  - São ameaças originadas por eventos naturais ou fatores externos.
+    - *Exemplo:* Rompimento de uma barragem, enchentes, incêndios, terremotos, entre outros.
+
+---
+
+**Importante:**  
+Independentemente do tipo de ameaça (humana, não humana, intencional ou não intencional), é fundamental aplicar medidas de segurança para assegurar a confiabilidade da informação.
+
+Compreender os diferentes níveis e tipos de ameaças é essencial para definir as melhores estratégias de proteção e resposta, garantindo a segurança dos ativos
+
+---
+
 ## 💡 Considerações Finais
 
 Essas anotações refletem o que considerei mais importante e interessante durante as aulas do curso.  
@@ -254,4 +281,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 03/07/25 por Ivan Rocha_
+> _Última atualização: 07/07/25 por Ivan Rocha_
