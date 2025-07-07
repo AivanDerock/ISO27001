@@ -30,6 +30,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 40 - Incidente e Desastre em Segurança da Informação](#aula-40--incidente-e-desastre-em-segurança-da-informação)
 - [Aula 41 - Tipos de Ameaças de Segurança](#aula-41--tipos-de-ameaças-de-segurança)
 - [Aula 42 - Tipos de Danos](#aula-42--tipos-de-danos)
+- [Aula 42 - Requisitos de SI (Segurança da Informação)](#aula-43--requisitos-de-si-segurança-da-informação)
 
 ---
 
@@ -299,6 +300,31 @@ Danos indiretos são comuns em situações que envolvem a imagem corporativa. Po
 
 - **Dano direto:** Impacto imediato e mensurável.
 - **Dano indireto:** Consequências secundárias, geralmente relacionadas à imagem, confiança e continuidade do negócio.
+
+---
+
+### Aula 43 – Requisitos de SI (Segurança da Informação)
+
+Algumas empresas não têm a opção de abrir mão da Segurança da Informação (SI).  
+Muitas vezes, o segmento de mercado em que atuam exige a implementação de um Sistema de Gestão de Segurança da Informação (SGSI) e controles específicos.
+
+Quando falamos de requisitos de SI, temos três pilares principais:
+
+1. ``Avaliação dos riscos para a organização``
+   - Identificar, analisar e tratar os riscos que podem afetar os ativos de informação.
+
+2. ``Conjunto de princípios, objetivos e requisitos de negócios``
+   - Alinhar a segurança da informação com as metas e necessidades estratégicas da empresa.
+
+3. ``Questões legais, estatutárias, regulatórias e contratuais``
+   - Atender às exigências de leis, normas, regulamentos e contratos aplicáveis ao negócio.
+
+Independente do pilar, a empresa precisa possuir controles e medidas de proteção adequados.  
+Essas medidas devem preparar a organização para lidar com perdas, ameaças e desastres.
+
+> **Importante:**  
+> As medidas de segurança a serem aplicadas dependem do cenário de cada empresa, serviço ou perfil de risco.  
+> É fundamental entender o contexto para definir os controles e proteções mais adequados.
 
 ---
 
