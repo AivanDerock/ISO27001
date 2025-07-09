@@ -30,7 +30,11 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 40 - Incidente e Desastre em Segurança da Informação](#aula-40--incidente-e-desastre-em-segurança-da-informação)
 - [Aula 41 - Tipos de Ameaças de Segurança](#aula-41--tipos-de-ameaças-de-segurança)
 - [Aula 42 - Tipos de Danos](#aula-42--tipos-de-danos)
-- [Aula 42 - Requisitos de SI (Segurança da Informação)](#aula-43--requisitos-de-si-segurança-da-informação)
+- [Aula 43 - Requisitos de SI (Segurança da Informação)](#aula-43--requisitos-de-si-segurança-da-informação)
+- [Aula 44 - Gerenciamento de Risco de SI](#aula-44--gerenciamento-de-risco-de-si)
+- [Aula 45 - Avaliação dos Riscos de SI](#aula-45--avaliação-dos-riscos-de-si)
+- [Aula 46 - Análise de Riscos de SI](#aula-46--análise-de-riscos-de-si)
+- [Aula 47 - Tratamento dos Riscos de SI](#aula-47--tratamento-dos-riscos-de-si)
 
 ---
 
