@@ -446,14 +446,21 @@ A escolha entre análise qualitativa ou quantitativa depende do contexto, dos da
 
 ---
 
-### Aula 43 – Requisitos de SI (Segurança da Informação)
+### Aula 47 – Tratamento dos Riscos de SI
+
+Independente da análise utilizada (qualitativa ou quantitativa), ao final teremos uma lista de riscos identificados. O mais importante é aplicar o **tratamento adequado para cada tipo de risco**.
+
+Após a análise, começamos a identificar, de cima para baixo, aqueles riscos que são mais críticos e graves. A partir desse ponto, o foco é trabalhar para resolver ou mitigar esses riscos prioritários.
+
+Quando falamos de ``tratamento de riscos``, estamos falando de **aplicar medidas**: medidas para reduzir, minimizar ou até eliminar a ocorrência dos riscos.
+
+A fase de tratamento só ocorre depois que você já passou pela análise, avaliou as consequências e categorizou os riscos (quantitativos e qualitativos), priorizando o que é mais crítico. A partir daí, são definidas e implementadas as medidas necessárias para garantir o menor impacto possível, caso o risco venha a se concretizar.
 
 ---
 
-### Aula 43 – Requisitos de SI (Segurança da Informação)
+**Resumo:** O tratamento de riscos consiste em priorizar os riscos mais críticos e aplicar medidas para reduzir a probabilidade de ocorrência ou minimizar o impacto, protegendo a organização de possíveis prejuízos.
 
 ---
-
 
 ## 💡 Considerações Finais
 
