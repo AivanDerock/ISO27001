@@ -423,7 +423,26 @@ Ou seja, a avaliação de risco consiste em ``identificar, analisar e avaliar os
 
 ---
 
-### Aula 43 – Requisitos de SI (Segurança da Informação)
+### Aula 46 – Análise de Riscos de SI
+
+Para realizar uma análise de riscos, o primeiro passo é ``identificar o risco``.
+
+Durante a análise, é fundamental compreender a natureza do risco e determinar o seu nível. Para isso, podem ser aplicadas duas metodologias principais:
+
+#### Classificações de Análise de Risco
+
+- ``Qualitativa:`` Trabalha com a **probabilidade** de algo ocorrer e o impacto associado, geralmente utilizando escalas subjetivas (baixo, médio, alto). É útil quando não há dados numéricos precisos, baseando-se em percepções, experiências e julgamentos.
+
+- ``Quantitativa:`` Baseia-se em **números e dados concretos** para calcular o risco. Utiliza métricas financeiras, estatísticas e valores mensuráveis para chegar a um fator determinante do risco.
+
+---
+
+**Resumo:**  
+
+- **Análise qualitativa:** Probabilidade e impacto subjetivos.
+- **Análise quantitativa:** Cálculos e dados objetivos.
+
+A escolha entre análise qualitativa ou quantitativa depende do contexto, dos dados disponíveis e dos objetivos da organização ao avaliar os riscos de segurança da informação.
 
 ---
 
