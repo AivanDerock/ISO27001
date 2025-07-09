@@ -389,7 +389,37 @@ Para a certificação ``ISO 27001``, é necessário analisar os pré-requisitos 
 
 ---
 
-### Aula 43 – Requisitos de SI (Segurança da Informação)
+### Aula 45 – Avaliação dos Riscos de SI
+
+A primeira fase do gerenciamento de risco é a ``avaliação``, ou seja, identificar e analisar os riscos.  
+Somente após essa etapa é que partimos para o gerenciamento propriamente dito, tratando e monitorando os riscos identificados.
+
+#### Definições
+
+**Segundo a norma ISO 27001:**
+
+> Avaliação de risco é o processo de identificação, análise e avaliação de riscos.  
+> O objetivo é esclarecer quais ameaças são relevantes para os processos operacionais e identificar os riscos associados.
+
+A norma orienta que devemos olhar para o ambiente de TI, analisar os serviços entregues ao negócio, entender os processos primários, de suporte e estratégicos.  
+É preciso avaliar todos os processos, ambientes e níveis para garantir que a organização possa seguir adiante com segurança e lucratividade.
+
+A preocupação principal da avaliação de risco é **identificar o máximo possível de ameaças e vulnerabilidades** presentes no ambiente.
+
+A avaliação de risco serve para garantir que as medidas de segurança sejam implementadas de forma ``rentável e oportuna``, fornecendo uma resposta eficaz às ameaças.
+
+**Segundo o livro base:**
+
+- Identificar ativos de informação e seu valor
+- Determinar ameaças e vulnerabilidades
+- Determinar o risco de que as ameaças se tornem realidade e interrompam o processo operacional
+- Determinar o equilíbrio entre os custos de um incidente e os custos de uma medida de segurança
+
+Ou seja, a avaliação de risco consiste em ``identificar, analisar e avaliar os riscos`` relacionados aos ativos da organização.
+
+---
+
+**Resumo:** A avaliação de riscos é fundamental para mapear ameaças e vulnerabilidades, permitindo que a empresa implemente controles de segurança de forma eficiente e alinhada ao seu contexto operacional.
 
 ---
 
