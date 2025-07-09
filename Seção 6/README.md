@@ -328,6 +328,84 @@ Essas medidas devem preparar a organização para lidar com perdas, ameaças e d
 
 ---
 
+### Aula 44 – Gerenciamento de Risco de SI
+
+Gerenciar significa "acompanhar".  
+A função de um gerente é dar direcionamento para que a equipe conduza o trabalho da melhor forma possível.
+
+Quando falamos de ``gerenciamento de risco``, estamos tratando de um processo, que é composto por ``entradas``, ``atividades`` e ``saídas``:
+
+- **Entradas:** Análises, identificação, cruzamento de informações e avaliação do impacto que uma vulnerabilidade pode trazer.
+- **Atividades:** Monitorar, mitigar, reduzir o impacto, aplicar contramedidas.
+- **Saída:** Manter os riscos sob controle.
+
+Dentro desse processo, existem duas vertentes principais:
+
+- ``Análise de risco``
+- ``Gerenciamento de risco``
+
+O gerenciamento só acontece após a análise do risco.  
+É como se "risco" fosse um grande grupo, e dentro dele tivéssemos essas duas áreas.
+
+#### Definições
+
+- **ISO 27001:**  
+  > Atividades coordenadas para dirigir e controlar uma organização em relação aos riscos.
+
+- **Livro base:**  
+  > Processo de planejar, organizar, liderar e controlar as atividades de uma organização a fim de minimizar os efeitos dos riscos sobre o lucro e o capital.
+
+O gerenciamento de riscos é uma ``atividade cíclica``, nunca acaba. Sempre que houver riscos, será necessário gerenciá-los.  
+Não podemos ignorar um risco: é preciso identificar, mapear, analisar probabilidades e impactos, e acompanhar as medidas de evolução. O risco pode desaparecer, aumentar ou exigir novas contramedidas. Por isso, é fundamental reavaliar periodicamente.
+
+**Independente do cenário ou nível, é necessário:**
+
+- Tratar o risco
+- Identificar, analisar, liderar e controlar as atividades
+- Garantir que tudo esteja sob controle
+
+O objetivo é ``mitigar os riscos``, diminuindo a possibilidade de ocorrência e, caso ocorram, que tragam o menor impacto possível para a organização.
+
+**Resumindo, o gerenciamento de risco envolve:**
+
+- Planejar
+- Organizar
+- Liderar
+- Controlar
+
+#### ISO 27005
+
+A norma ``ISO 27005`` fornece orientações para o gerenciamento de risco em SI, incluindo:
+
+- Identificação
+- Análise
+- Avaliação
+- Tratamento
+- Aceitação
+- Comunicação
+- Monitoramento e revisão de riscos
+
+Para a certificação ``ISO 27001``, é necessário analisar os pré-requisitos de gerenciamento de riscos, baseando-se na ``ISO 27005``, que serve como referência para a implementação desses controles.
+
+---
+
+### Aula 43 – Requisitos de SI (Segurança da Informação)
+
+---
+
+### Aula 43 – Requisitos de SI (Segurança da Informação)
+
+---
+
+### Aula 43 – Requisitos de SI (Segurança da Informação)
+
+---
+
+### Aula 43 – Requisitos de SI (Segurança da Informação)
+
+---
+
+
 ## 💡 Considerações Finais
 
 Essas anotações refletem o que considerei mais importante e interessante durante as aulas do curso.  
@@ -335,4 +413,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 07/07/25 por Ivan Rocha_
+> _Última atualização: 09/07/25 por Ivan Rocha_
