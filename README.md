@@ -79,6 +79,10 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 - [Aula 45 - Avaliação dos Riscos de SI](./Seção%206/README.md#aula-45--avaliação-dos-riscos-de-si)
 - [Aula 46 - Análise de Riscos de SI](./Seção%206/README.md#aula-46--análise-de-riscos-de-si)
 - [Aula 47 - Tratamento dos Riscos de SI](./Seção%206/README.md#aula-47--tratamento-dos-riscos-de-si)
+- [Aula 48 - Medidas de SI](./Seção%206/README.md#aula-48--medidas-de-si)
+- [Aula 49 - ISO/IEC 27002 como referência para tratamento de ameaças e riscos](./Seção%206/README.md#aula-49--isoiec-27002-como-referência-para-tratamento-de-ameaças-e-riscos)
+- [Aula 50 - Tipos de Estratégias para Lidar com Riscos](./Seção%206/README.md#aula-50--tipos-de-estratégias-para-lidar-com-riscos)
+- [Aula 51 - ISO/IEC 27005 como referência estratégica para lidar com ameaças e riscos](./Seção%206/README.md#aula-51--isoiec-27005-como-referência-estratégica-para-lidar-com-ameaças-e-riscos)
 
 ---
 
