@@ -527,7 +527,53 @@ A ISO/IEC 27002 serve como guia para definir objetivos e controles de segurança
 
 ---
 
-### Aula 47 – Tratamento dos Riscos de SI
+### Aula 50 – Tipos de Estratégias para Lidar com Riscos
+
+Já vimos que o risco é composto por ameaça, vulnerabilidade, probabilidade e potencial de dano. Agora, precisamos entender **como lidar com esses riscos**. Existem quatro principais estratégias:
+
+#### 1. Evitar
+
+- ``Evitar`` (prevenir ou eliminar riscos):  
+  Consiste em não assumir o risco ou eliminá-lo completamente do ambiente.  
+  Exemplo: Deixar de realizar uma atividade que apresenta alto risco.  
+  Nem sempre é possível eliminar todos os riscos, então muitas vezes só conseguimos prevenir e nos preparar para agir caso a ameaça se concretize.
+
+#### 2. Neutralizar
+
+- ``Neutralizar`` (reduzir ou mitigar riscos):  
+  Busca diminuir o impacto ou a probabilidade do risco.  
+  Para isso, aplicamos ações:
+  - ``Preventivas:`` Atuam antes do risco se manifestar.  
+    *Exemplo:* Instalar antivírus para evitar infecção.
+  - ``Detectivas:`` Identificam o risco quando ele ocorre.  
+    *Exemplo:* Monitoramento de logs para detectar invasões.
+  - ``Repressivas:`` Atuam após o risco se manifestar.  
+    *Exemplo:* Bloquear usuário após tentativa de acesso indevido.
+
+#### 3. Transferir
+
+- ``Transferir`` (terceirizar ou compartilhar o risco):  
+  Consiste em passar o risco para outra parte.  
+  Exemplo: Contratar um seguro para o carro. Se ocorrer um acidente, o prejuízo é coberto pela seguradora.
+
+#### 4. Aceitar
+
+- ``Aceitar`` (suportar ou reter o risco):  
+  Significa assumir o risco, sabendo que pode ocorrer um problema e, se acontecer, a organização irá lidar com as consequências.  
+  Exemplo: Decidir não investir em controles adicionais para um risco considerado baixo.
+
+---
+
+**Resumo das estratégias:**
+
+- Evitar
+- Neutralizar
+- Transferir
+- Aceitar
+
+Cada estratégia deve ser escolhida conforme o contexto e a análise dos riscos da organização.
+
+---
 
 ### Aula 47 – Tratamento dos Riscos de SI
 
