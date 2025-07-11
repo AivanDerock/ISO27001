@@ -466,6 +466,43 @@ A fase de tratamento só ocorre depois que você já passou pela análise, avali
 
 ---
 
+### Aula 48 – Medidas de SI
+
+Medidas de segurança são os ``controles`` aplicados para garantir que um risco não seja explorado.
+
+**Exemplo prático:**  
+Na nossa residência, dormimos com portas e janelas fechadas, usamos chaves e cadeados. Essas são medidas de segurança, pois sabemos que existe a vulnerabilidade de alguém entrar na casa.
+
+A medida de segurança sempre faz parte do **gerenciamento de risco**.  
+Lembrando: primeiro fazemos a análise, depois o gerenciamento.
+
+O tipo de medida depende do cenário.  
+Por exemplo, se você mora no 50º andar de um prédio, não faz sentido se preocupar em dormir com a janela aberta. As medidas variam conforme o contexto.
+
+As ``contramedidas`` podem ser:
+
+- Baseadas em códigos (software)
+- Configurações de hardware (cabos, dispositivos)
+- Procedimentos administrativos (políticas, treinamentos)
+
+O objetivo é ``eliminar a vulnerabilidade`` ou ``reduzir a probabilidade`` de que um agente de ameaça explore essa vulnerabilidade.
+
+Após aplicar as medidas, o risco pode ter sua probabilidade **aumentada ou diminuída**, dependendo da eficácia das ações tomadas.
+
+---
+
+**Resumo:**  
+
+Medidas de segurança são controles implementados para proteger ativos, reduzir vulnerabilidades e minimizar a probabilidade de ocorrência de riscos, sempre adaptadas ao cenári``
+
+---
+
+### Aula 47 – Tratamento dos Riscos de SI
+
+### Aula 47 – Tratamento dos Riscos de SI
+
+### Aula 47 – Tratamento dos Riscos de SI
+
 ## 💡 Considerações Finais
 
 Essas anotações refletem o que considerei mais importante e interessante durante as aulas do curso.  
@@ -473,4 +510,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 09/07/25 por Ivan Rocha_
+> _Última atualização: 10/07/25 por Ivan Rocha_
