@@ -575,7 +575,32 @@ Cada estratégia deve ser escolhida conforme o contexto e a análise dos riscos 
 
 ---
 
-### Aula 47 – Tratamento dos Riscos de SI
+### Aula 51 – ISO/IEC 27005 como referência estratégica para lidar com ameaças e riscos
+
+A norma **ISO/IEC 27005** é dedicada ao gerenciamento de riscos em segurança da informação, abordando controles e medidas para lidar com riscos.
+
+#### Abordagens segundo a ISO/IEC 27005:
+
+- **Evitar:** Decisão de não se envolver ou agir para se retirar de uma situação de risco.
+- **Modificação:** Ações para reduzir a probabilidade, as consequências negativas, ou ambas, associadas ao risco.
+- **Compartilhamento:** Divisão do ônus da perda ou do benefício do ganho com outra entidade.
+- **Retenção:** Aceitação do ônus da perda ou do benefício do ganho associado ao risco.
+
+Segundo a norma e o livro base, as estratégias são as mesmas, mudando apenas a nomenclatura:
+
+- **Evitar** (evitar o risco)
+- **Modificação/Neutralizar** (reduzir ou mitigar o risco)
+- **Compartilhamento/Transferir** (passar o risco para outro)
+- **Retenção/Aceitar** (assumir a responsabilidade pelo risco)
+
+Essas estratégias podem ser aplicadas tanto para riscos negativos quanto positivos.
+
+---
+
+**Resumo:**  
+A ISO/IEC 27005 orienta sobre as principais estratégias para lidar com riscos: evitar, neutralizar, transferir e aceitar, sendo possível aplicar essas abordagens conforme o contexto e o tipo de risco identificado.
+
+---
 
 ## 💡 Considerações Finais
 
