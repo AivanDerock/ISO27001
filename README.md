@@ -84,6 +84,14 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 - [Aula 50 - Tipos de Estratégias para Lidar com Riscos](./Seção%206/README.md#aula-50--tipos-de-estratégias-para-lidar-com-riscos)
 - [Aula 51 - ISO/IEC 27005 como referência estratégica para lidar com ameaças e riscos](./Seção%206/README.md#aula-51--isoiec-27005-como-referência-estratégica-para-lidar-com-ameaças-e-riscos)
 
+### Seção 7
+
+- [Aula 52 - Em Breve](./Seção%207/README.md)
+- [Aula 53 - Em Breve](./Seção%207/README.md)
+- [Aula 54 - Em Breve](./Seção%207/README.md)
+- [Aula 55 - Em Breve](./Seção%207/README.md)
+- [Aula 56 - Em Breve](./Seção%207/README.md)
+
 ---
 
 ## 💡 Referências
@@ -93,6 +101,5 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 - [Livro Base "Fundamentos de Segurança da Informação"](https://www.amazon.com.br/Fundamentos-Seguran%C3%A7a-Informa%C3%A7%C3%A3o-27001-27002/dp/8574528609)
 
 ---
-
 
 > ⚠️ _Essas anotações são de uso pessoal e educativo. Se encontrar algo errado, sinta-se à vontade para abrir uma issue ou PR!_
