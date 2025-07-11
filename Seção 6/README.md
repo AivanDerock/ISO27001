@@ -497,7 +497,35 @@ Medidas de segurança são controles implementados para proteger ativos, reduzir
 
 ---
 
-### Aula 47 – Tratamento dos Riscos de SI
+### Aula 49 – ISO/IEC 27002 como referência para tratamento de ameaças e riscos
+
+A norma ``ISO/IEC 27002`` é utilizada como referência para definir os objetivos e controles de segurança da informação.  
+Esses objetivos e controles são as ``medidas`` que devemos implementar para o tratamento dos riscos identificados.
+
+#### Estrutura da ISO/IEC 27002
+
+- **Objetivo de controle:** O que se espera alcançar.
+- **Controle:** O que deve ser feito para atingir o objetivo.
+- **Diretrizes para implementação:** Como implementar o controle.
+- **Informações adicionais:** Apoio extra para a implementação do controle.
+
+#### Exemplo – Controle de Acesso
+
+- **Objetivo de controle:** Limitar o acesso à informação e aos recursos de processamento.
+- **Controle:** Estabelecer políticas de controle de acesso, documentadas e analisadas criticamente, baseadas nos requisitos de segurança da informação e do negócio.
+- **Diretriz para implementação:** Os proprietários dos ativos devem definir regras apropriadas de controle de acesso, direitos e restrições para papéis específicos, com o nível de detalhe e rigor dos controles refletindo os riscos associados.
+- **Informações adicionais:** Recomenda-se que as regras sejam baseadas na premissa de que tudo é proibido, a menos que expressamente permitido, ao invés de tudo ser permitido, a menos que proibido.
+
+A ISO/IEC 27002 apresenta ``o que implementar`` e ``onde ter cuidado``, mas não detalha ``como implementar`` cada controle.  
+Para saber como aplicar na prática, é necessário buscar literaturas externas, guias técnicos ou frameworks complementares.
+
+---
+
+**Resumo:**  
+
+A ISO/IEC 27002 serve como guia para definir objetivos e controles de segurança, mas a implementação prática depende de outras referências e adaptações ao contexto da organização
+
+---
 
 ### Aula 47 – Tratamento dos Riscos de SI
 
