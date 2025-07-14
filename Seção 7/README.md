@@ -22,7 +22,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 
 ### Seção 7
 
-- [Aula 52 - Em Breve]()
+- [Aula 52 - Visão geral da seção](#aula-52---visão-geral-da-seção)
 - [Aula 53 - Em Breve]()
 - [Aula 54 - Em Breve]()
 - [Aula 55 - Em Breve]()
@@ -30,7 +30,19 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 
 ---
 
-### Aula 52 - Em Breve
+### Aula 52 - Visão geral da seção
+
+Nesta seção, vamos abordar a ``abordagem organizacional`` dentro do contexto da ISO/IEC 27001.
+
+Aqui, trataremos dos outros 10% do exame, que correspondem a cerca de 4 questões na prova.
+
+Os principais temas desta seção são:
+
+- **Política de segurança e organização de segurança**
+- **Componentes da organização de segurança**
+- **Gerenciamento de incidentes**
+
+Lembre-se: apesar de representar uma parte menor da prova, esses tópicos são fundamentais para entender como a segurança da informação é estruturada e mantida dentro de uma organização.
 
 ---
 
@@ -57,4 +69,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 11/06/25 por Ivan Rocha_
+> _Última atualização: 14/06/25 por Ivan Rocha_
