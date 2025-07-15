@@ -46,7 +46,31 @@ Lembre-se: apesar de representar uma parte menor da prova, esses tópicos são f
 
 ---
 
-### Aula 53 - Em Breve
+### Aula 53 - O que é uma política de SI
+
+As políticas fazem parte da ``abordagem organizacional``. A empresa cria políticas para evitar, mitigar ou neutralizar riscos.
+
+Para criar uma política, é necessário entender o risco, sua composição e decidir se ele deve ser evitado, neutralizado, transferido ou aceito. Em último caso, aceita-se o risco, mas normalmente busca-se neutralizá-lo antes.
+
+``Política`` é um documento formal, que representa um compromisso entre colaboradores, liderança e diretoria para respeitar as regras estabelecidas.
+
+#### Bases para criar uma política de SI:
+
+- ``Regulamentos:`` Mais detalhados que as políticas e obrigatórios.  
+  *Exemplo:* Regulamento interno de uso de recursos de TI.
+
+- ``Procedimentos:`` Detalham as medidas específicas a serem tomadas.  
+  *Exemplo:* Procedimento para solicitação de acesso a sistemas.
+
+- ``Diretrizes:`` Servem como referência e consulta.  
+  *Exemplo:* Diretriz para uso seguro de senhas.
+
+Para criar políticas, há dois caminhos:
+
+- Criar políticas sem um sistema de SI, apenas com base nas necessidades da empresa.
+- Criar políticas como pré-requisito para a certificação ISO 27001 (neste caso, é obrigatório).
+
+É importante consultar a ``ISO 27001`` para conhecer os pré-requisitos de certificação e a ``ISO 27002`` para orientações sobre como elaborar essas políticas.
 
 ---
 
