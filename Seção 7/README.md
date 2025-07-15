@@ -23,10 +23,11 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 ### Seção 7
 
 - [Aula 52 - Visão geral da seção](#aula-52---visão-geral-da-seção)
-- [Aula 53 - Em Breve]()
-- [Aula 54 - Em Breve]()
-- [Aula 55 - Em Breve]()
-- [Aula 56 - Em Breve]()
+- [Aula 53 - O que é uma política de SI](#aula-53---o-que-é-uma-política-de-si)
+- [Aula 54 - Tipos de políticas de SI](#aula-54---tipos-de-políticas-de-si)
+- [Aula 55 - Criação de uma política de SI](#aula-55---criação-de-uma-política-de-si)
+- [Aula 56 - Política de SI segundo a ISO/IEC 27002](#aula-56---política-de-si-segundo-a-isoiec-27002)
+- [Aula 57 - Em Breve]()
 
 ---
 
