@@ -150,7 +150,34 @@ O importante é garantir que todos conheçam, entendam e sigam a política, util
 
 ---
 
-### Aula 56 - Em Breve
+### Aula 56 - Política de SI segundo a ISO/IEC 27002
+
+Se você consultar a norma ``ISO/IEC 27001``, verá que o item 5 trata das políticas de segurança da informação, mais especificamente:
+
+- **5.1 Orientação da direção para segurança da informação**
+  - **5.1.1 Política para segurança da informação**
+    - Diretrizes para implementação
+
+A ideia é criar uma ``política superior`` (abrangente, geral sobre determinado assunto) e, a partir dela, desenvolver ``subpolíticas`` mais específicas e direcionadas. Funciona como um tópico central com subtemas, onde cada subpolítica trata de um aspecto mais focado.
+
+**Exemplos de subpolíticas:**
+
+- Controle de acesso
+- Classificação e tratamento da informação
+- Segurança física e do ambiente
+- Backup
+- Entre outras
+
+A própria ISO/IEC 27001 traz exemplos de políticas que podem ser adotadas.
+
+#### Como aplicar essas políticas segundo a norma
+
+Para aplicar as políticas, você deve consultar a ``ISO/IEC 27002``, que faz a conexão com as políticas da 27001. Na 27002, você encontrará os controles, diretrizes e informações adicionais para implementação.
+
+> **Importante:**  
+> A norma traz recomendações e orientações, mas **não detalha linha por linha** como a política deve ser escrita. Ela indica o que deve ser feito, mas a elaboração detalhada fica a cargo da organização.
+
+Se você busca um guia prático e detalhado, existe o livro [Políticas e Normas para a Segurança da Informação](https://www.amazon.com.br/Pol%C3%ADticas-Normas-Para-Seguran%C3%A7a-Informa%C3%A7%C3%A3o/dp/8574525154), que mostra passo a passo como criar uma política, detalhando o processo de elaboração.
 
 ---
 
@@ -161,4 +188,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 14/06/25 por Ivan Rocha_
+> _Última atualização: 15/06/25 por Ivan Rocha_
