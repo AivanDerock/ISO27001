@@ -74,7 +74,42 @@ Para criar políticas, há dois caminhos:
 
 ---
 
-### Aula 54 - Em Breve
+### Aula 54 - Tipos de políticas de SI
+
+Nesta aula, vamos detalhar os tipos de políticas de segurança da informação (SI).
+
+Se cair uma questão sobre quem deve ter acesso às políticas de informação, a resposta é: ``todos``. A política precisa ser aplicada a todas as pessoas que trabalham com aquela informação, independentemente da área de atuação. A tríade ``CID`` (Confidencialidade, Integridade e Disponibilidade) deve ser garantida para toda informação.
+
+**Segundo o livro base:**  
+Política de SI é um documento que registra os princípios e diretrizes de segurança adotados pela organização, a serem observados por todos os integrantes e colaboradores, e aplicados a todos os sistemas de informação e processos corporativos.
+
+Todos que acessam serviços, aplicações ou informações precisam conhecer a política.
+
+#### Como a política de SI deve ser escrita:
+
+- Deve ser um resumo de fatos-chave.
+- Precisa ser específica para cada assunto (ex: política de acesso à internet, política de dados, política de cloud, etc).
+- Para cada política, devem ser criadas diretrizes e padrões, deixando claros os limites, obrigações e deveres dos envolvidos.
+
+A política **não deve ficar restrita à TI**. A ISO 27001 é aplicada a todas as áreas da empresa.
+
+#### Estrutura de uma política de SI
+
+- Definição de segurança da informação e sua importância
+- Declaração do comprometimento da alta administração com a PSI
+- Objetivos de segurança da organização
+- Definição de responsabilidades gerais na gestão de SI
+- Orientação sobre análise e gerenciamento de riscos
+- Princípios de conformidade dos sistemas com a PSI
+- Padrões mínimos de qualidade dos sistemas
+- Princípios de supervisão constante das tentativas de violação
+- Consequências de violação das normas estabelecidas
+- Princípios de gestão da continuidade do negócio
+- Plano de treinamento em segurança da informação
+
+Ao criar uma política, é importante garantir que todos que precisam dela saibam de sua existência e tenham acesso ao documento.
+
+**Resumo:** Política de SI é como uma lei interna da empresa. Deve ser clara, específica, acessível a todos e aplicada a qualquer pessoa que tenha contato com informações ou sistemas da organização.
 
 ---
 
