@@ -113,7 +113,40 @@ Ao criar uma política, é importante garantir que todos que precisam dela saiba
 
 ---
 
-### Aula 55 - Em Breve
+### Aula 55 - Criação de uma política de SI
+
+Como deve ser uma política de Segurança da Informação?
+
+- ``Linguagem de negócio:``  
+  A política deve ser redigida em linguagem clara, acessível e alinhada aos requisitos do negócio, evitando termos excessivamente técnicos.
+
+- ``Alinhamento com legislações:``  
+  Sempre que necessário, correlacione a política com leis ou normas externas relevantes (ex: LGPD, Marco Civil da Internet).
+
+- ``Aprovação da alta direção:``  
+  Após ser redigida, a política deve ser submetida à aprovação da diretoria ou conselho da empresa. É fundamental que a alta gestão esteja ciente e dê o aval para sua aplicação.
+
+- ``Divulgação:``  
+  A política deve ser publicada e comunicada a todos os funcionários e partes externas relevantes.  
+  Exemplos de divulgação:
+  - Folhetos entregues aos colaboradores
+  - Publicação na intranet ou rede interna da empresa
+  - Comunicados em murais ou áreas comuns
+  - Treinamentos e reuniões de conscientização
+
+- ``Treinamento:``  
+  Todos que terão acesso à informação devem ser treinados sobre o conteúdo da política, entendendo claramente o que podem ou não fazer.
+
+**Resumo:**  
+A criação de uma política de SI envolve: 
+
+- Redigir em linguagem de negócio
+- Alinhar com legislações externas  
+- Aprovação da alta direção  
+- Divulgação ampla e acessível  
+- Treinamento dos envolvidos
+
+O importante é garantir que todos conheçam, entendam e sigam a política, utilizando os meios de comunicação mais adequados para o público-alvo.
 
 ---
 
