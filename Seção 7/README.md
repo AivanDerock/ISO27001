@@ -211,7 +211,46 @@ Revisar e atualizar as políticas de segurança da informação é essencial par
 
 ---
 
-### Aula 56 - Política de SI segundo a ISO/IEC 27002
+### Aula 58 - Código de conduta
+
+O que é um código de conduta?  
+É um conjunto de recomendações, políticas, normas ou procedimentos que servem como referência para o comportamento do colaborador dentro da organização.
+
+Resumindo, o código de conduta funciona como um guia de boas maneiras para que o colaborador conviva de forma adequada no ambiente corporativo.
+
+**Segundo a norma ISO/IEC 27002:**
+
+- **7. Segurança de recursos humanos**
+  - **7.1 Antes da contratação**
+  - **7.1.2 Termos e condições de contratação**
+    - Informações adicionais
+
+O código de conduta pode ser utilizado para estabelecer as responsabilidades de segurança da informação do funcionário ou parte externa, incluindo:
+
+- Confidencialidade
+- Proteção de dados
+- Ética
+- Uso apropriado dos equipamentos e recursos da organização
+- Práticas respeitosas esperadas pela empresa
+
+Partes externas, como fornecedores, também podem ser solicitadas a aderir ao código de conduta por meio de acordos contratuais.
+
+``Sanções:`` O código de conduta pode prever medidas disciplinares caso seja violado.
+
+**Exemplos de regras em um código de conduta:**
+
+- E-mails pessoais não são permitidos
+- Para uso de e-mail, o colaborador deve observar a legislação e aderir ao acordo de confidencialidade
+- Campanhas de conscientização sobre ameaças como malware, phishing e spam
+- É permitido usar telefone, e-mail e internet para fins pessoais, desde que não interfira no trabalho
+- Sites de download e de conteúdo sexual são proibidos
+
+Ao adotar o código de conduta, o colaborador já sabe, desde o início, o que pode ou não fazer na empresa.
+
+**Diferença entre política e código de conduta:**
+
+- ``Política:`` Documento formal, linguagem de negócio, define regras e diretrizes gerais da organização.
+- ``Código de conduta:`` Focado no colaborador, orienta comportamentos e práticas diárias.
 
 ---
 
