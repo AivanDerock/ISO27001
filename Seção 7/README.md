@@ -254,7 +254,41 @@ Ao adotar o código de conduta, o colaborador já sabe, desde o início, o que p
 
 ---
 
-### Aula 56 - Política de SI segundo a ISO/IEC 27002
+### Aula 59 - Gerenciamento de ativos
+
+A norma ``ISO/IEC 27002`` orienta que devemos gerenciar os ativos de TI da organização.
+
+**Segundo a norma:**
+
+- Convém que regras para o uso aceitável das informações, dos ativos associados e dos recursos de processamento sejam identificadas, documentadas e implementadas.
+- Convém que todos os funcionários e partes externas devolvam todos os ativos da organização que estejam em sua posse após o encerramento das atividades, contrato ou acordo.
+
+**Segundo o livro base:**
+
+Os ativos de negócio são essenciais para uma organização, pois custam dinheiro ou possuem valor estratégico. Exemplos de ativos:
+
+- Informações
+- Programas de computador
+- Equipamentos
+- Instalações
+- Pessoas e seus conhecimentos
+- Imagem e reputação
+
+**Classificações de propriedade:**
+
+- Ativos de negócio devem ser classificados para definir os níveis de segurança necessários.
+- O proprietário é responsável pelo processo, subprocesso ou atividade de negócio, cuidando de todos os aspectos do ativo, incluindo segurança, gerenciamento, produção e desenvolvimento.
+
+**Principais informações a serem registradas:**
+
+- Tipos de ativos de negócio
+- Proprietário
+- Localização
+- Formato
+- Classificação
+- Valor para o negócio
+
+**Resumo:** Gerenciar os ativos de uma organização é fundamental, pois eles podem ser essenciais para o funcionamento ou crescimento da empresa. O controle adequado garante segurança, conformidade e proteção dos interesses do negócio.
 
 ---
 
