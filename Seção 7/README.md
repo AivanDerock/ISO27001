@@ -292,7 +292,52 @@ Os ativos de negócio são essenciais para uma organização, pois custam dinhei
 
 ---
 
-### Aula 56 - Política de SI segundo a ISO/IEC 27002
+### Aula 60 - Papéis e responsabilidades
+
+É fundamental que cada colaborador siga seu papel e cumpra suas responsabilidades dentro da organização, pois isso contribui diretamente para a segurança da informação.
+
+#### Matriz RACI de um processo qualquer
+
+| Atividade      | Dono do processo | Analista 1 | Técnico | Analista de qualidade|
+|----------------|------------------|------------|---------|----------------------|
+| Atividade 1    | A/R              | C          | I       | C                    |
+| Atividade 2    | A                | R          | I       | C                    |
+| Atividade 3    | A                | R          | I       | I                    |
+| Atividade 4    | A                | C          | I       | R                    |
+| Atividade 5    | A                | R          | I       | I                    |
+
+- ``A`` = Aprova
+- ``R`` = Responsável
+- ``C`` = Consulta
+- ``I`` = Informa
+
+Na matriz RACI, apenas uma pessoa pode ser proprietária de um serviço, processo ou atividade.
+
+#### O que diz o livro base sobre papéis e responsabilidades
+
+- É necessário ter um sistema documentado em que os ativos e processos de segurança da informação estejam identificados e descritos.
+- Cada ativo ou processo de SI deve ser atribuído a um indivíduo competente para a função.
+- A coordenação e supervisão dos aspectos de segurança no relacionamento com fornecedores devem ser identificadas e documentadas.
+- É aconselhável integrar os papéis e responsabilidades de segurança na organização e nomear um proprietário para cada ativo, tornando-o responsável pela operação diária.
+
+#### Papéis e responsabilidades segundo o livro base
+
+- ``Chief Information Security Officer (CISO):``  
+  Responsável pelo mais alto nível gerencial da segurança da informação, desenvolve a estratégia geral de SI para toda a empresa.
+
+- ``Information Security Officer (ISO):``  
+  Desenvolve a política de SI de uma unidade de negócio com base na política da empresa e garante sua aplicação.
+
+- ``Information Security Manager (ISM):``  
+  Desenvolve a política de SI dentro da área de TI e assegura que ela seja seguida.
+
+Após o gerente, temos:
+
+- Encarregado da política de SI
+- Encarregado da proteção de dados
+
+**Resumo:**  
+Definir claramente os papéis e responsabilidades é essencial para garantir a segurança da informação, facilitar a gestão dos ativos e assegurar que todos saibam suas atribuições dentro da organização.
 
 ---
 
