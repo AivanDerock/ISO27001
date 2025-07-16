@@ -28,6 +28,9 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 55 - Criação de uma política de SI](#aula-55---criação-de-uma-política-de-si)
 - [Aula 56 - Política de SI segundo a ISO/IEC 27002](#aula-56---política-de-si-segundo-a-isoiec-27002)
 - [Aula 57 - Em Breve]()
+- [Aula 57 - Em Breve]()
+- [Aula 57 - Em Breve]()
+- [Aula 57 - Em Breve]()
 
 ---
 
@@ -182,6 +185,44 @@ Se você busca um guia prático e detalhado, existe o livro [Políticas e Normas
 
 ---
 
+### Aula 57 - Revisões das políticas de segurança da informação
+
+Nada é estático, tudo precisa passar por revisões e atualizações. Assim como o curso e este repositório precisam ser atualizados, o mesmo vale para as políticas de segurança da informação.
+
+Ao criar políticas com base em recomendações ou outras políticas, é possível que surjam novas necessidades ou pontos que não estavam contemplados inicialmente. Por isso, é fundamental realizar revisões periódicas, promovendo a ``melhoria contínua``.
+
+#### Como a ISO/IEC 27001 trata esse quesito
+
+Na norma, o item 5 aborda as políticas de segurança da informação:
+
+- **5.1 Orientação da direção para segurança da informação**
+- **5.1.2 Análise crítica das políticas para segurança da informação**
+  - Informações adicionais
+
+**Recomendação da norma:**  
+Convém que as políticas para a segurança da informação sejam analisadas criticamente em intervalos planejados ou quando mudanças significativas ocorrerem, para garantir sua contínua pertinência, adequação e eficácia.
+
+Além disso, cada política de segurança da informação deve ter um gestor responsável pelo desenvolvimento, análise crítica e avaliação dessas políticas.
+
+---
+
+**Resumo:**  
+Revisar e atualizar as políticas de segurança da informação é essencial para garantir que estejam sempre alinhadas às necessidades da organização, às mudanças do ambiente e às melhores práticas do mercado.
+
+---
+
+### Aula 56 - Política de SI segundo a ISO/IEC 27002
+
+---
+
+### Aula 56 - Política de SI segundo a ISO/IEC 27002
+
+---
+
+### Aula 56 - Política de SI segundo a ISO/IEC 27002
+
+---
+
 ## 💡 Considerações Finais
 
 Essas anotações refletem o que considerei mais importante e interessante durante as aulas do curso.  
@@ -189,4 +230,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 15/06/25 por Ivan Rocha_
+> _Última atualização: 16/07/25 por Ivan Rocha_
