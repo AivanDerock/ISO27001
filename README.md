@@ -95,11 +95,9 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 - [Aula 58 - Código de conduta](./Seção%207/README.md#aula-58---código-de-conduta)
 - [Aula 59 - Gerenciamento de ativos](./Seção%207/README.md#aula-59---gerenciamento-de-ativos)
 - [Aula 60 - Papéis e responsabilidades](./Seção%207/README.md#aula-60---papéis-e-responsabilidades)
-- [Aula 61 - em breve](./Seção%207/README.md)
-- [Aula 62 - em breve](./Seção%207/README.md)
-- [Aula 63 - em breve](./Seção%207/README.md)
-- [Aula 64 - Em Breve](./Seção%207/README.md)
-- [Aula 65 - Em Breve](./Seção%207/README.md)
+- [Aula 61 - Gerenciando incidentes de segurança da informação](./Seção%207/README.md#aula-61---gerenciando-incidentes-de-segurança-da-informação)
+- [Aula 62 - Tipos de incidentes de segurança da informação](./Seção%207/README.md#aula-62---tipos-de-incidentes-de-segurança-da-informação)
+- [Aula 63 - Processo de gerenciamento de segurança da informação](./Seção%207/README.md#aula-63---processo-de-gerenciamento-de-segurança-da-informação)
 
 ---
 
