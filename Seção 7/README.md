@@ -378,7 +378,34 @@ Gerenciar incidentes de segurança da informação é essencial para proteger os
 
 ---
 
-### Aula 60 - Papéis e responsabilidades
+### Aula 62 - Tipos de incidentes de segurança da informação
+
+É importante qualificar colaboradores de todas as áreas, não apenas de SI, para que possam analisar, identificar e relatar incidentes.
+
+**Exemplo:**  
+Um colaborador usa o crachá de outro para entrar na empresa. Mesmo sem alguém da segurança monitorando, é fundamental que qualquer funcionário (como o Joãozinho da contabilidade) saiba identificar e relatar esse incidente.
+
+A ``ISO/IEC 27001`` não se limita à área de TI, mas abrange toda a organização.  
+Exemplo prático: a política de mesa limpa, que evita deixar papéis ou objetos com dados importantes expostos, deve ser seguida por todos — TI, contabilidade, gerência, CEO, finanças, etc.
+
+**Aprendizado com incidentes:**  
+O profissional de segurança deve aprender com erros passados para prevenir futuros.  
+Exemplo: alguém sem acesso ao data center entra, acende um cigarro e dispara o sistema de incêndio. Esse incidente mostra a necessidade de limitar acessos e reforçar regras sobre comportamentos inadequados.
+
+**Treinamento e comunicação:**  
+É essencial treinar todos os colaboradores, mostrando como notificar incidentes e quais são os tipos mais comuns.  
+Crie canais de comunicação (anônimos ou identificados) para relatar incidentes, mas proteja quem reporta para evitar retaliações ou constrangimentos internos.
+
+**Cuidados ao lidar com denúncias:**  
+Evite expor quem relatou o incidente para não criar desconforto, apelidos ou rivalidades internas (ex: "dedo duro", "X9").  
+O objetivo é promover uma cultura de segurança, onde todos se sintam responsáveis e protegidos ao contribuir para a proteção da informação.
+
+**Resumo:**  
+
+- Todos devem saber identificar e relatar incidentes
+- Aprenda com erros para melhorar processos
+- Treine e comunique os tipos de incidentes
+- Proteja quem reporta para evitar retaliações
 
 ---
 
