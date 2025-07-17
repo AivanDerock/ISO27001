@@ -409,7 +409,22 @@ O objetivo é promover uma cultura de segurança, onde todos se sintam responsá
 
 ---
 
-### Aula 60 - Papéis e responsabilidades
+### Aula 63 - Processo de gerenciamento de segurança da informação
+
+O processo de gerenciamento de incidentes, segundo o framework ``ITIL``, é responsável por identificar e tratar incidentes que causam impacto nas operações de TI.
+
+**Visão da ITIL:**
+
+O propósito do gerenciamento de incidentes é restaurar a operação normal do serviço o mais rápido possível e minimizar o impacto adverso nas operações da empresa, garantindo que os níveis acordados de qualidade do serviço sejam mantidos.
+
+Apesar de ser um processo genérico, o gerenciamento de incidentes da ITIL pode ser utilizado para tratar incidentes de segurança da informação, servindo como um excelente ponto de partida para estruturar o processo de SI com base nas melhores práticas da biblioteca ITIL.
+
+**Resumo:**  
+
+- Restaurar rapidamente a operação normal do serviço
+- Minimizar impactos negativos nas operações
+- Manter a qualidade dos serviços conforme acordado
+- Utilizar o processo ITIL como referência para incidentes de SI
 
 ---
 
