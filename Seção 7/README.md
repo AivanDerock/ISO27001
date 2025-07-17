@@ -31,6 +31,11 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 58 - Código de conduta](#aula-58---código-de-conduta)
 - [Aula 59 - Gerenciamento de ativos](#aula-59---gerenciamento-de-ativos)
 - [Aula 60 - Papéis e responsabilidades](#aula-60---papéis-e-responsabilidades)
+- [Aula 61 - em breve]()
+- [Aula 62 - em breve]()
+- [Aula 63 - em breve]()
+- [Aula 64 - em breve]()
+- [Aula 65 - em breve]()
 
 ---
 
@@ -341,6 +346,54 @@ Definir claramente os papéis e responsabilidades é essencial para garantir a s
 
 ---
 
+### Aula 61 - Gerenciando incidentes de segurança da informação
+
+É recomendado que as empresas tenham um processo estruturado de gerenciamento de incidentes de segurança da informação.
+
+**Exemplo:**  
+Se um colaborador pede sua senha e usuário emprestado, caso aprovado, ele estará se passando por você dentro da organização, quebrando a confidencialidade.
+
+**Segundo a norma ISO/IEC 27001:**  
+Um incidente é caracterizado por um ou uma série de eventos de segurança da informação indesejados ou inesperados, que têm grande probabilidade de comprometer as operações do negócio e ameaçar a segurança da informação.
+
+Incidentes podem impactar diretamente a integridade, confidencialidade e disponibilidade da informação (tríade CID).
+
+#### Objetivo do processo de gerenciamento de incidentes
+
+O processo deve permitir:
+
+- Detectar
+- Relatar
+- Avaliar
+- Responder
+- Tratar
+- Aprender
+
+É fundamental que, mesmo colaboradores que não sejam da área de tecnologia, saibam identificar e relatar incidentes.
+
+O processo precisa garantir que todos os eventos e fragilidades associados às informações sejam comunicados. Assim que um incidente é relatado, é essencial que alguém tome uma ação corretiva imediatamente.
+
+**Resumo:**  
+Gerenciar incidentes de segurança da informação é essencial para proteger os ativos da empresa, garantir a continuidade do negócio e promover a melhoria contínua dos processos de segurança.
+
+---
+
+### Aula 60 - Papéis e responsabilidades
+
+---
+
+### Aula 60 - Papéis e responsabilidades
+
+---
+
+### Aula 60 - Papéis e responsabilidades
+
+---
+
+### Aula 60 - Papéis e responsabilidades
+
+---
+
 ## 💡 Considerações Finais
 
 Essas anotações refletem o que considerei mais importante e interessante durante as aulas do curso.  
@@ -348,4 +401,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 16/07/25 por Ivan Rocha_
+> _Última atualização: 17/07/25 por Ivan Rocha_
