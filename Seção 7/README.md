@@ -34,8 +34,8 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 61 - em breve]()
 - [Aula 62 - em breve]()
 - [Aula 63 - em breve]()
-- [Aula 64 - em breve]()
-- [Aula 65 - em breve]()
+- [Aula 64 - Em Breve]()
+- [Aula 65 - Em Breve]()
 
 ---
 
@@ -425,14 +425,6 @@ Apesar de ser um processo genérico, o gerenciamento de incidentes da ITIL pode 
 - Minimizar impactos negativos nas operações
 - Manter a qualidade dos serviços conforme acordado
 - Utilizar o processo ITIL como referência para incidentes de SI
-
----
-
-### Aula 60 - Papéis e responsabilidades
-
----
-
-### Aula 60 - Papéis e responsabilidades
 
 ---
 
