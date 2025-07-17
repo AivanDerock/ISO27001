@@ -91,10 +91,10 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 - [Aula 54 - Tipos de políticas de SI](./Seção%207/README.md#aula-54---tipos-de-políticas-de-si)
 - [Aula 55 - Criação de uma política de SI](./Seção%207/README.md#aula-55---criação-de-uma-política-de-si)
 - [Aula 56 - Política de SI segundo a ISO/IEC 27002](./Seção%207/README.md#aula-56---política-de-si-segundo-a-isoiec-27002)
-- [Aula 57 - Em Breve](./Seção%207/README.md)
-- [Aula 57 - Em Breve](./Seção%207/README.md)
-- [Aula 57 - Em Breve](./Seção%207/README.md)
-- [Aula 57 - Em Breve](./Seção%207/README.md)
+- [Aula 57 - Revisões das políticas de segurança da informação](./Seção%207/README.md#aula-57---revisões-das-políticas-de-segurança-da-informação)
+- [Aula 58 - Código de conduta](./Seção%207/README.md#aula-58---código-de-conduta)
+- [Aula 59 - Gerenciamento de ativos](./Seção%207/README.md#aula-59---gerenciamento-de-ativos)
+- [Aula 60 - Papéis e responsabilidades](./Seção%207/README.md#aula-60---papéis-e-responsabilidades)
 
 ---
 
