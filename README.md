@@ -98,6 +98,12 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 - [Aula 61 - Gerenciando incidentes de segurança da informação](./Seção%207/README.md#aula-61---gerenciando-incidentes-de-segurança-da-informação)
 - [Aula 62 - Tipos de incidentes de segurança da informação](./Seção%207/README.md#aula-62---tipos-de-incidentes-de-segurança-da-informação)
 - [Aula 63 - Processo de gerenciamento de segurança da informação](./Seção%207/README.md#aula-63---processo-de-gerenciamento-de-segurança-da-informação)
+- [Aula 64 - Em Breve](./Seção%207/README.md)
+- [Aula 65 - Em Breve](./Seção%207/README.md)
+- [Aula 66 - Em Breve](./Seção%207/README.md)
+- [Aula 67 - Em Breve](./Seção%207/README.md)
+- [Aula 68 - Em Breve](./Seção%207/README.md)
+- [Aula 69 - Em Breve](./Seção%207/README.md)
 
 ---
 

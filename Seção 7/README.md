@@ -34,6 +34,12 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 61 - Gerenciando incidentes de segurança da informação](#aula-61---gerenciando-incidentes-de-segurança-da-informação)
 - [Aula 62 - Tipos de incidentes de segurança da informação](#aula-62---tipos-de-incidentes-de-segurança-da-informação)
 - [Aula 63 - Processo de gerenciamento de segurança da informação](#aula-63---processo-de-gerenciamento-de-segurança-da-informação)
+- [Aula 64 - Em Breve]()
+- [Aula 65 - Em Breve]()
+- [Aula 66 - Em Breve]()
+- [Aula 67 - Em Breve]()
+- [Aula 68 - Em Breve]()
+- [Aula 69 - Em Breve]()
 
 ---
 
@@ -426,6 +432,30 @@ Apesar de ser um processo genérico, o gerenciamento de incidentes da ITIL pode 
 
 ---
 
+### Aula 64 - Em Breve
+
+---
+
+### Aula 65 - Em Breve
+
+---
+
+### Aula 66 - Em Breve
+
+---
+
+### Aula 67 - Em Breve
+
+---
+
+### Aula 68 - Em Breve
+
+---
+
+### Aula 69 - Em Breve
+
+---
+
 ## 💡 Considerações Finais
 
 Essas anotações refletem o que considerei mais importante e interessante durante as aulas do curso.  
@@ -433,4 +463,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 17/07/25 por Ivan Rocha_
+> _Última atualização: 18/07/25 por Ivan Rocha_
