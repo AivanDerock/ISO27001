@@ -525,7 +525,39 @@ A escalação garante que incidentes críticos sejam tratados com a devida prior
 
 ---
 
-### Aula 68 - Em Breve
+### Aula 68 - O ciclo de vida do incidente
+
+Durante o ciclo de vida de um incidente, estamos falando de um evento que ocorreu e que precisa passar por algumas etapas até ser totalmente resolvido. Essas etapas são conhecidas como o ``ciclo de vida do incidente``.
+
+De acordo com o livro base, as fases do ciclo de vida de um incidente são:
+
+1. **Ameaça**
+2. **Incidente**
+3. **Dano**
+4. **Recuperação**
+
+#### Explicação das fases:
+
+- **Ameaça:**  
+  É o momento em que se percebe que algo pode acontecer. Normalmente, a ameaça é identificada durante a análise de risco. Se a análise de risco não for feita, a ameaça pode passar despercebida e ser explorada.
+
+- **Incidente:**  
+  Caso a ameaça seja explorada, ocorre o incidente. É o momento em que o evento negativo realmente acontece.
+
+- **Dano:**  
+  Após o incidente, é necessário avaliar o dano causado. Nem todo incidente gera dano, mas quando ocorre, é preciso mensurar o impacto.
+
+- **Recuperação:**  
+  Dependendo do dano, pode ser possível partir para a fase de recuperação. Exemplo: se um data center é destruído por um furacão, mas existe um backup em outro local, é possível recuperar as informações.
+
+#### Pontos importantes segundo o livro base:
+
+- As medidas de segurança devem ser aplicadas em cada etapa do ciclo do incidente, visando garantir a disponibilidade, integridade e confiabilidade das informações.
+- Após o incidente, é necessário recolher provas conforme procedimentos internos.
+- Todas as ações tomadas devem ser registradas para ajudar na análise do incidente e no aprendizado para respostas futuras.
+
+**Resumo:**  
+Para cada etapa do ciclo de vida de um incidente, é necessário agir com medidas específicas, e todos os envolvidos devem conhecer suas responsabilidades em cada fase do processo.
 
 ---
 
