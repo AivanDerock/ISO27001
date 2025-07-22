@@ -275,7 +275,39 @@ Essas medidas devem ser aplicadas conforme a criticidade, valor e sensibilidade 
 
 ---
 
-### Aula 78 - Em Breve
+### Aula 78 - Medidas técnicas
+
+Existem três tipos principais de medidas de segurança: ``físicas``, ``técnicas`` e ``organizacionais``.  
+Nesta aula, o foco é nas **medidas técnicas**.
+
+As medidas técnicas são implementadas diretamente no ambiente tecnológico, visando proteger sistemas, redes e informações. Entre as principais, destacam-se o **controle de acesso** e a **criptografia de dados**.
+
+Segundo a norma ISO/IEC 27002:
+
+#### 9. Controle de acesso
+
+- **9.1 Requisitos comerciais do controle de acesso**  
+  *Objetivo:* Limitar o acesso a informações e recursos de processamento de informações.
+
+- **9.2 Gerenciamento de acesso do usuário**  
+  *Objetivo:* Garantir o acesso de usuários autorizados e impedir o acesso não autorizado a sistemas e serviços.
+
+- **9.3 Responsabilidades do usuário**  
+  *Objetivo:* Tornar os usuários responsáveis pela proteção de suas informações de autenticação.
+
+- **9.4 Controle de acesso ao sistema e aplicativos**  
+  *Objetivo:* Impedir o acesso não autorizado a sistemas e aplicativos.
+
+#### 10. Criptografia
+
+- **10.1 Controles criptográficos**  
+  *Objetivo:* Assegurar o uso adequado e efetivo da criptografia para proteger a confidencialidade, autenticidade e integridade das informações.
+
+---
+
+**Resumo:**  
+Medidas técnicas são essenciais para proteger o ambiente tecnológico da organização. Os principais exemplos são o controle de acesso (quem pode acessar o quê) e a criptografia (proteger dados em trânsito e em repouso).  
+A ISO/IEC 27002 detalha boas práticas e controles para garantir a segurança das informações por meio dessas medidas.
 
 ---
 
