@@ -173,7 +173,33 @@ Cada tipo de medida deve ser escolhido conforme a necessidade e o contexto da or
 
 ---
 
-### Aula 75 - Em Breve
+### Aula 75 - Classificação das informações
+
+Não adianta criar barreiras e proteções para todas as informações da mesma forma. Algumas informações são de domínio público e, por isso, precisam de uma classificação adequada.
+
+#### **Classificação Pública**
+
+Por exemplo, existe uma lei de transparência que obriga a divulgação do salário de agentes públicos. Mesmo sendo uma informação pública, ela ainda deve ser tratada com certo rigor, pois pode ser considerada sensível em alguns contextos.
+
+Toda informação deve ter um tipo de classificação para garantir um nível adequado de proteção, de acordo com sua importância para a organização.
+
+Um exemplo clássico de classificação aparece em filmes policiais, onde vemos pastas com etiquetas como "secreto", "ultra secreto" ou "estritamente secreto".
+
+#### **Como criar uma classificação de informação?**
+
+Devemos considerar:
+
+- A sensibilidade da informação
+- O valor que ela tem para a organização
+- Os requisitos legais aplicáveis (em caso de vazamento)
+- A importância estratégica para o negócio
+
+Essas quatro características ajudam a definir a classificação da informação e os níveis de sensibilidade.
+
+- **Classificar** é atribuir um nível de sensibilidade apropriado a uma informação.
+- **Designação** é uma forma especial de categorização da informação.
+
+Ao classificar uma informação, também é necessário definir quem é o proprietário dessa informação, ou seja, quem será responsável por sua proteção e uso adequado.
 
 ---
 
