@@ -242,7 +242,36 @@ A segurança física deve ser planejada em camadas, protegendo desde o perímetr
 
 ---
 
-### Aula 77 - Em Breve
+### Aula 77 - Medidas físicas para equipamentos
+
+Hoje em dia, existem armários resistentes ao fogo e armários de segurança para proteger equipamentos e mídias importantes.
+
+Se você faz backup das suas informações (especialmente em empresas), é recomendado armazenar as cópias em um armário cofre, onde apenas pessoas autorizadas (com senha ou chave) possam acessar.
+
+Muitas empresas armazenam backups no próprio data center, mas esse local pode ser considerado hostil para esse tipo de armazenamento. Por isso, algumas medidas físicas podem ser adotadas para aumentar a segurança:
+
+- Leitores de biometria nas portas
+- Acesso restrito por cartão magnético cadastrado
+- Evitar paredes de gesso em ambientes sensíveis (ex: data center, cofres)
+- Controle de umidade
+- Proteção contra incêndios
+- Boa sinalização
+- Equipamentos de energia de emergência
+- Refrigeração adequada
+- Segurança do cabeamento de rede e elétrico
+- Manutenção regular dos equipamentos
+
+Além disso, é fundamental planejar:
+
+- Remoção segura de ativos
+- Segurança física dos ativos
+- Eliminação segura dos ativos
+- Reutilização de equipamentos
+- Controle de equipamentos desacompanhados
+
+Essas medidas devem ser aplicadas conforme a criticidade, valor e sensibilidade dos ativos, sempre alinhadas à necessidade do negócio e à legislação vigente.
+
+> Para mais detalhes e recomendações sobre essas medidas, consulte a norma ISO/IEC 27002.
 
 ---
 
