@@ -27,12 +27,22 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 72 - Seleção de medidas de segurança](#aula-72---seleção-de-medidas-de-segurança)
 - [Aula 73 - Categorias de medidas de segurança](#aula-73---categorias-de-medidas-de-segurança)
 - [Aula 74 - Tipos de medidas de segurança](#aula-74---tipos-de-medidas-de-segurança)
-- [Aula 75 - Em Breve]()
-- [Aula 76 - Em Breve]()
-- [Aula 77 - Em Breve]()
-- [Aula 78 - Em Breve]()
-- [Aula 79 - Em Breve]()
+- [Aula 75 - Classificação das informações](#aula-75---classificação-das-informações)
+- [Aula 76 - Medidas físicas para manter áreas seguras](#aula-76---medidas-físicas-para-manter-áreas-seguras)
+- [Aula 77 - Medidas físicas para equipamentos](#aula-77---medidas-físicas-para-equipamentos)
+- [Aula 78 - Medidas técnicas](#aula-78---medidas-técnicas)
+- [Aula 79 - Conceitos de criptografia](#aula-79---conceitos-de-criptografia)
 - [Aula 80 - Em Breve]()
+- [Aula 81 - Em Breve]()
+- [Aula 82 - Em Breve]()
+- [Aula 83 - Em Breve]()
+- [Aula 84 - Em Breve]()
+- [Aula 85 - Em Breve]()
+- [Aula 86 - Em Breve]()
+- [Aula 87 - Em Breve]()
+- [Aula 88 - Em Breve]()
+- [Aula 89 - Em Breve]()
+- [Aula 90 - Em Breve]()
 
 ---
 
@@ -340,6 +350,46 @@ A criptografia simétrica é mais simples e rápida, mas depende do segredo da c
 
 ---
 
+### Aula 81 - Em Breve
+
+---
+
+### Aula 82 - Em Breve
+
+---
+
+### Aula 83 - Em Breve
+
+---
+
+### Aula 84 - Em Breve
+
+---
+
+### Aula 85 - Em Breve
+
+---
+
+### Aula 86 - Em Breve
+
+---
+
+### Aula 87 - Em Breve
+
+---
+
+### Aula 88 - Em Breve
+
+---
+
+### Aula 89 - Em Breve
+
+---
+
+### Aula 90 - Em Breve
+
+---
+
 ## 💡 Considerações Finais
 
 Essas anotações refletem o que considerei mais importante e interessante durante as aulas do curso.  
@@ -347,4 +397,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 21/07/25 por Ivan Rocha_
+> _Última atualização: 22/07/25 por Ivan Rocha_
