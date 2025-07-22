@@ -36,7 +36,13 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 
 ---
 
-### Aula 70 - Em Breve
+### Aula 70 - Visão geral da seção
+
+Nesta seção, vamos abordar as ``medidas de segurança``, tema que representa cerca de 10% da prova de certificação.
+
+Serão apresentadas as principais práticas, controles e recomendações para proteger as informações e os ativos da organização, conforme orientações da norma ISO/IEC 27001.
+
+Prepare-se para entender como as medidas de segurança são aplicadas no contexto do SGSI e como elas impactam a proteção dos dados e processos da empresa.
 
 ---
 ### Aula 71 - Em Breve
