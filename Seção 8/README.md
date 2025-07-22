@@ -311,7 +311,28 @@ A ISO/IEC 27002 detalha boas práticas e controles para garantir a segurança da
 
 ---
 
-### Aula 79 - Em Breve
+### Aula 79 - Conceitos de criptografia
+
+Atualmente, existem basicamente dois tipos de criptografia:
+
+- **Criptografia simétrica**
+- **Criptografia assimétrica**
+
+#### **Criptografia simétrica**
+
+- Utiliza um único algoritmo e uma **chave secreta** compartilhada entre remetente e destinatário.
+- Ambos usam a mesma chave para criptografar e descriptografar a mensagem.
+- **Problema:** Se alguém obtiver acesso à chave, poderá ler todas as mensagens.
+
+#### **Criptografia assimétrica**
+
+- Utiliza **duas chaves diferentes**: uma chave pública e uma chave privada.
+- A chave pública geralmente é usada para criptografar, e a chave privada para descriptografar.
+- Também pode ser usada para assinatura digital: o remetente assina com a chave privada e o destinatário verifica com a chave pública.
+- **Vantagem:** Se uma chave for comprometida, é possível gerar um novo par de chaves.
+
+**Resumo:**  
+A criptografia simétrica é mais simples e rápida, mas depende do segredo da chave compartilhada. Já a criptografia assimétrica é mais segura para troca de informações, pois utiliza pares de chaves diferentes para criptografia e autenticação.
 
 ---
 
