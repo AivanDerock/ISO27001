@@ -141,9 +141,38 @@ Cada categoria deve ser escolhida de acordo com o contexto, o risco e a necessid
 
 ---
 
-### Aula 74 - Em Breve
+### Aula 74 - Tipos de medidas de segurança
+
+É importante entender que existem **três tipos principais de medidas de segurança**:
+
+- **Físicas**
+- **Técnicas**
+- **Organizacionais/Burocráticas**
+
+Na norma **ISO/IEC 27002**, encontramos diversas estratégias para lidar com riscos, e essas medidas estão basicamente separadas nessas categorias:
+
+#### **Medidas físicas**
+
+Focam na proteção física de um ativo de informação.
+
+- **Exemplo:** Controle de acesso por crachá, câmeras de segurança, portas blindadas, alarmes, barreiras físicas.
+
+#### **Medidas técnicas**
+
+São estruturas implementadas no ambiente de TI e seus respectivos sistemas.
+
+- **Exemplo:** Firewalls, antivírus, criptografia, autenticação multifator, sistemas de detecção de intrusão.
+
+#### **Medidas organizacionais**
+
+Relacionadas a políticas, processos, pessoas e parceiros.
+
+- **Exemplo:** Políticas de segurança da informação, treinamentos de conscientização, contratos de confidencialidade, procedimentos internos.
+
+Cada tipo de medida deve ser escolhido conforme a necessidade e o contexto da organização, garantindo uma abordagem completa e eficaz para a proteção dos ativos.
 
 ---
+
 ### Aula 75 - Em Breve
 
 ---
