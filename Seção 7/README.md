@@ -458,7 +458,26 @@ Todos devem saber identificar, relatar e para onde encaminhar os eventos de segu
 
 ---
 
-### Aula 65 - Em Breve
+### Aula 65 - Formulário de incidentes
+
+Não importa se a notificação de um incidente chega por e-mail, ligação, SMS, carta, etc. O importante é que, ao registrar o incidente, algumas informações são pré-requisitos para que o registro seja efetivo.
+
+Segundo o livro base, o incidente deve ser reportado por meio de um ``formulário``, que deve conter, no mínimo, as seguintes informações:
+
+- Data e hora
+- Nome da pessoa que reportou
+- Localização do incidente
+- Descrição do incidente
+- Efeito do incidente
+- Como o incidente foi descoberto
+
+Se ``possível``, também incluir:
+
+- Tipo de sistema
+- Número e nome do sistema
+- Quem mais foi informado
+
+É fundamental que um incidente seja notificado com o máximo de informações relevantes, para que a equipe responsável possa analisar e tratar o caso de forma adequada e eficiente.
 
 ---
 
