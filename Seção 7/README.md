@@ -561,7 +561,22 @@ Para cada etapa do ciclo de vida de um incidente, é necessário agir com medida
 
 ---
 
-### Aula 69 - Em Breve
+### Aula 69 - Divulgação autorizada de vulnerabilidade
+
+Atualmente, fala-se muito sobre o hacker ético, profissional que testa sistemas de empresas para encontrar vulnerabilidades. Inclusive, já existe um mercado formal para essa atividade.
+
+Quando uma vulnerabilidade é encontrada, o procedimento correto é dar um prazo para que o fabricante ou responsável pelo sistema corrija o problema antes de qualquer divulgação pública. Após a correção, a empresa ou profissional que encontrou a vulnerabilidade pode divulgar o ocorrido, mas **somente depois que a falha for corrigida**.
+
+**Segundo o livro base:**
+
+- **Divulgação responsável** é diferente de divulgação completa.  
+- Na divulgação responsável, as partes interessadas (empresa, fabricante, etc.) têm tempo para corrigir seus sistemas, pois é acordado um período de não divulgação da vulnerabilidade.
+- Só após esse prazo e a correção, a vulnerabilidade pode ser divulgada publicamente.
+
+Esse processo protege tanto a empresa quanto os usuários, evitando que a falha seja explorada antes de ser corrigida.
+
+**Resumo:**  
+A divulgação responsável de vulnerabilidades garante que as falhas sejam corrigidas antes de serem tornadas públicas, promovendo a segurança de todos os envolvidos.
 
 ---
 
