@@ -481,7 +481,26 @@ Se ``possível``, também incluir:
 
 ---
 
-### Aula 66 - Em Breve
+### Aula 66 - Modelo de procedimentos de segurança
+
+Durante o processo de gerenciamento de incidentes, é fundamental saber como lidar com cada tipo de incidente. Um bom exemplo é o treinamento de pilotos de avião, que são capacitados para agir em diferentes situações de emergência, como a parada de uma turbina ou outros incidentes críticos.
+
+Esse procedimento de saber lidar com cada tipo de incidente deve ser estruturado ainda na fase de criação e estabelecimento do processo de gerenciamento. É essencial, durante esse planejamento, identificar previamente como agir diante dos diferentes incidentes.
+
+**Segundo o livro base, o procedimento deve contemplar:**
+
+- Análise do incidente, descrevendo a causa.
+- Quais medidas devem ser tomadas para minimizar as consequências do incidente.
+- Determinar se são necessárias medidas corretivas para evitar que o incidente ocorra novamente e, em caso afirmativo, quais são essas medidas.
+- Quais partes devem ser informadas em caso de incidente (podendo ser afetados ou quem irá ajudar na resolução).
+- O que deve ser relatado sobre o incidente e para quem.
+- Procedimento de escalonamento caso a situação se agrave ou não seja resolvida em tempo hábil.
+
+**Sobre o escalonamento:**  
+Se a equipe de suporte inicia o registro e investigação do incidente, mas não consegue resolver em determinado tempo, é necessário encaminhar para uma equipe mais especializada. Em alguns casos, dependendo da gravidade, o incidente pode ser direcionado diretamente para o time especializado, sem passar pelo primeiro nível de suporte.
+
+**Resumo:**  
+Ter procedimentos claros para cada tipo de incidente garante respostas rápidas, minimiza impactos e contribui para a melhoria contínua do processo de segurança da informação.
 
 ---
 
