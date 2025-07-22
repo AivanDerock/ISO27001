@@ -432,7 +432,29 @@ Apesar de ser um processo genérico, o gerenciamento de incidentes da ITIL pode 
 
 ---
 
-### Aula 64 - Em Breve
+### Aula 64 - Notificando eventos de segurança
+
+Segundo a norma ``ISO/IEC 27002``:
+
+- Convém que todos os funcionários e partes externas sejam alertados sobre sua responsabilidade de notificar qualquer evento de segurança da informação o mais rapidamente possível.
+- Convém que todos estejam cientes do procedimento para notificar eventos de segurança e do ponto de contato correto para o relato.
+
+É fundamental que cada colaborador saiba ``como`` e ``onde`` relatar um incidente. Não adianta, por exemplo, ter um incidente com o computador corporativo e procurar o RH; o correto é acionar o canal de suporte de TI. Assim, o incidente será tratado por pessoas capacitadas.
+
+**Exemplos de eventos que devem ser notificados (segundo a norma):**
+
+- Controle de segurança ineficaz
+- Violação da disponibilidade, confidencialidade ou integridade da informação
+- Erros humanos
+- Não conformidade com políticas ou diretrizes
+- Mudança não autorizada ou descontrolada de sistemas
+- Mau funcionamento de software ou hardware
+- Violação de acesso
+
+Outros tipos de incidentes também podem ocorrer e devem ser relatados.
+
+**Resumo:**  
+Todos devem saber identificar, relatar e para onde encaminhar os eventos de segurança da informação, garantindo que sejam tratados de forma adequada e eficiente.
 
 ---
 
