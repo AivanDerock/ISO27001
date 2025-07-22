@@ -107,11 +107,11 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 
 ### Seção 8
 
-- [Aula 70 - Em Breve](./Seção%208/README.md)
-- [Aula 71 - Em Breve](./Seção%208/README.md)
-- [Aula 72 - Em Breve](./Seção%208/README.md)
-- [Aula 73 - Em Breve](./Seção%208/README.md)
-- [Aula 74 - Em Breve](./Seção%208/README.md)
+- [Aula 70 - Visão geral da seção](./Seção%208/README.md#aula-70---visão-geral-da-seção)
+- [Aula 71 - Importância das medidas de segurança](./Seção%208/README.md#aula-71---importância-das-medidas-de-segurança)
+- [Aula 72 - Seleção de medidas de segurança](./Seção%208/README.md#aula-72---seleção-de-medidas-de-segurança)
+- [Aula 73 - Categorias de medidas de segurançae](./Seção%208/README.md#aula-73---categorias-de-medidas-de-segurança)
+- [Aula 74 - Tipos de medidas de segurança](./Seção%208/README.md#aula-74---tipos-de-medidas-de-segurança)
 - [Aula 75 - Em Breve](./Seção%208/README.md)
 - [Aula 76 - Em Breve](./Seção%208/README.md)
 - [Aula 77 - Em Breve](./Seção%208/README.md)

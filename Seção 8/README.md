@@ -22,11 +22,11 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 
 ### Seção 8
 
-- [Aula 70 - Em Breve]()
-- [Aula 71 - Em Breve]()
-- [Aula 72 - Em Breve]()
-- [Aula 73 - Em Breve]()
-- [Aula 74 - Em Breve]()
+- [Aula 70 - Visão geral da seção](#aula-70---visão-geral-da-seção)
+- [Aula 71 - Importância das medidas de segurança](#aula-71---importância-das-medidas-de-segurança)
+- [Aula 72 - Seleção de medidas de segurança](#aula-72---seleção-de-medidas-de-segurança)
+- [Aula 73 - Categorias de medidas de segurança](#aula-73---categorias-de-medidas-de-segurança)
+- [Aula 74 - Tipos de medidas de segurança](#aula-74---tipos-de-medidas-de-segurança)
 - [Aula 75 - Em Breve]()
 - [Aula 76 - Em Breve]()
 - [Aula 77 - Em Breve]()
@@ -176,18 +176,23 @@ Cada tipo de medida deve ser escolhido conforme a necessidade e o contexto da or
 ### Aula 75 - Em Breve
 
 ---
+
 ### Aula 76 - Em Breve
 
 ---
+
 ### Aula 77 - Em Breve
 
 ---
+
 ### Aula 78 - Em Breve
 
 ---
+
 ### Aula 79 - Em Breve
 
 ---
+
 ### Aula 80 - Em Breve
 
 ---
@@ -199,4 +204,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 18/07/25 por Ivan Rocha_
+> _Última atualização: 21/07/25 por Ivan Rocha_
