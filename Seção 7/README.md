@@ -504,7 +504,24 @@ Ter procedimentos claros para cada tipo de incidente garante respostas rápidas,
 
 ---
 
-### Aula 67 - Em Breve
+### Aula 67 - Escalação de incidentes
+
+Primeiramente, é importante entender o que é escalada (ou escalação) de incidentes.
+
+Existem dois tipos principais de ``escalada``:
+
+- **Escalação funcional (horizontal):**  
+  Ocorre quando o incidente é transferido entre pessoas ou áreas do mesmo nível de responsabilidade, como do primeiro para o segundo ou terceiro nível de suporte. Exemplo: o suporte de primeiro nível não resolve, então encaminha para o segundo nível, e assim por diante.
+
+- **Escalação hierárquica (vertical):**  
+  Acontece quando, mesmo após passar por todos os níveis funcionais, o incidente não é resolvido ou exige uma decisão de maior autoridade. Nesse caso, o chamado/incidente é encaminhado para alguém com cargo superior, como gerentes ou diretores.
+
+**Resumo:**
+
+- **Funcional:** Entre áreas ou pessoas do mesmo nível (horizontal).
+- **Hierárquica:** Para cargos superiores (vertical).
+
+A escalação garante que incidentes críticos sejam tratados com a devida prioridade e por pessoas com autoridade para tomar decisões mais complexas.
 
 ---
 
