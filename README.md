@@ -98,12 +98,12 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 - [Aula 61 - Gerenciando incidentes de segurança da informação](./Seção%207/README.md#aula-61---gerenciando-incidentes-de-segurança-da-informação)
 - [Aula 62 - Tipos de incidentes de segurança da informação](./Seção%207/README.md#aula-62---tipos-de-incidentes-de-segurança-da-informação)
 - [Aula 63 - Processo de gerenciamento de segurança da informação](./Seção%207/README.md#aula-63---processo-de-gerenciamento-de-segurança-da-informação)
-- [Aula 64 - Em Breve](./Seção%207/README.md)
-- [Aula 65 - Em Breve](./Seção%207/README.md)
-- [Aula 66 - Em Breve](./Seção%207/README.md)
-- [Aula 67 - Em Breve](./Seção%207/README.md)
-- [Aula 68 - Em Breve](./Seção%207/README.md)
-- [Aula 69 - Em Breve](./Seção%207/README.md)
+- [Aula 64 - Notificando eventos de segurança](./Seção%207/README.md#aula-64---notificando-eventos-de-segurança)
+- [Aula 65 - Formulário de incidentes](./Seção%207/README.md#aula-65---formulário-de-incidentes)
+- [Aula 66 - Modelo de procedimentos de segurança](./Seção%207/README.md#aula-66---modelo-de-procedimentos-de-segurança)
+- [Aula 67 - Escalação de incidentes](./Seção%207/README.md#aula-67---escalação-de-incidentes)
+- [Aula 68 - O ciclo de vida do incidente](./Seção%207/README.md#aula-68---o-ciclo-de-vida-do-incidente)
+- [Aula 69 - Divulgação autorizada de vulnerabilidade](./Seção%207/README.md#aula-69---divulgação-autorizada-de-vulnerabilidade)
 
 ### Seção 8
 

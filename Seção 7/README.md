@@ -34,12 +34,12 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 61 - Gerenciando incidentes de segurança da informação](#aula-61---gerenciando-incidentes-de-segurança-da-informação)
 - [Aula 62 - Tipos de incidentes de segurança da informação](#aula-62---tipos-de-incidentes-de-segurança-da-informação)
 - [Aula 63 - Processo de gerenciamento de segurança da informação](#aula-63---processo-de-gerenciamento-de-segurança-da-informação)
-- [Aula 64 - Em Breve]()
-- [Aula 65 - Em Breve]()
-- [Aula 66 - Em Breve]()
-- [Aula 67 - Em Breve]()
-- [Aula 68 - Em Breve]()
-- [Aula 69 - Em Breve]()
+- [Aula 64 - Notificando eventos de segurança](#aula-64---notificando-eventos-de-segurança)
+- [Aula 65 - Formulário de incidentes](#aula-65---formulário-de-incidentes)
+- [Aula 66 - Modelo de procedimentos de segurança](#aula-66---modelo-de-procedimentos-de-segurança)
+- [Aula 67 - Escalação de incidentes](#aula-67---escalação-de-incidentes)
+- [Aula 68 - O ciclo de vida do incidente](#aula-68---o-ciclo-de-vida-do-incidente)
+- [Aula 69 - Divulgação autorizada de vulnerabilidade](#aula-69---divulgação-autorizada-de-vulnerabilidade)
 
 ---
 
@@ -587,4 +587,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 18/07/25 por Ivan Rocha_
+> _Última atualização: 21/07/25 por Ivan Rocha_
