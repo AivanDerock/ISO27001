@@ -89,9 +89,58 @@ Mesmo que a empresa não busque a certificação ISO/IEC 27001, é possível uti
 
 ---
 
-### Aula 73 - Em Breve
+### Aula 73 - Categorias de medidas de segurança
+
+As medidas de segurança podem ser classificadas em diferentes categorias, cada uma com um objetivo específico dentro da gestão de riscos. Veja as principais:
+
+#### **Preventivas**
+
+- **Objetivo:** Prevenir incidentes de segurança antes que aconteçam.
+- **Exemplo:** Uso de firewall, políticas de senha forte, treinamento de usuários.
+
+#### **Redutivas**
+
+- **Objetivo:** Reduzir a probabilidade de uma ameaça ocorrer.
+- **Exemplo:** Atualização de sistemas, segmentação de rede, controle de acesso.
+
+#### **Detectivas**
+
+- **Objetivo:** Detectar incidentes de segurança rapidamente.
+- **Exemplo:** Sistemas de monitoramento, logs de auditoria, alarmes.
+
+#### **Repressivas**
+
+- **Objetivo:** Limitar ou conter um incidente em andamento.
+- **Exemplo:** Bloqueio automático de contas suspeitas, isolamento de máquinas infectadas.
+
+#### **Corretivas**
+
+- **Objetivo:** Recuperar-se do prejuízo causado pelo incidente.
+- **Exemplo:** Planos de recuperação de desastres, restauração de backups.
+
+#### **Contratar seguro**
+
+- **Objetivo:** Minimizar os impactos financeiros que envolvam perdas de ativos.
+- **Exemplo:** Seguro contra roubo de dados, seguro cibernético.
+
+#### **Aceitação**
+
+- **Objetivo:** Aceitar o risco quando não há razão ou motivo para investir em medidas adicionais.
+- **Exemplo:** Decidir não investir em proteção extra para um ativo de baixo valor.
 
 ---
+
+#### Estratégias de risco relacionadas:
+
+- **Evitar** → Preventivas
+- **Neutralizar** → Redutivas
+- **Transferir** → Contratar seguro
+- **Aceitar** → Aceitação
+
+Cada categoria deve ser escolhida de acordo com o contexto, o risco e a necessidade da organização.
+
+---
+
 ### Aula 74 - Em Breve
 
 ---
