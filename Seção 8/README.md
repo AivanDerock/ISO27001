@@ -71,9 +71,24 @@ Medidas de segurança são essenciais para proteger ativos, reduzir riscos e gar
 
 ---
 
-### Aula 72 - Em Breve
+### Aula 72 - Seleção de medidas de segurança
+
+Existem vários tipos de vulnerabilidades e, para cada uma delas, é possível encontrar possíveis soluções na **ISO/IEC 27002**, que traz controles e recomendações para diferentes cenários.
+
+Por exemplo, ao identificar uma vulnerabilidade, você pode consultar a ISO/IEC 27002 e buscar, pela categoria ou pelo tipo de vulnerabilidade, uma medida de segurança adequada para aplicar na sua organização.
+
+Essas medidas devem ser selecionadas de acordo com os requisitos e as necessidades do negócio. O objetivo da seleção de medidas é garantir que os riscos estejam sempre dentro de um nível aceitável para a organização.
+
+**Exemplo prático:**  
+Se você compra uma casa sem porta, de acordo com sua necessidade, pode optar por instalar uma porta simples de madeira. Em outros casos, pode ser necessário instalar uma porta de metal blindada. A escolha depende do risco e da necessidade de proteção.
+
+Além disso, a seleção de medidas de segurança também visa garantir que a empresa esteja em conformidade com legislações e regulamentos, como a **LGPD** (Lei Geral de Proteção de Dados Pessoais). Muitas empresas precisaram se adaptar para atender a essa nova lei.
+
+**Importante:**  
+Mesmo que a empresa não busque a certificação ISO/IEC 27001, é possível utilizar a ISO/IEC 27002 como referência para selecionar e implementar medidas de segurança adequadas para cada vulnerabilidade identificada.
 
 ---
+
 ### Aula 73 - Em Breve
 
 ---
