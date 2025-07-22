@@ -203,7 +203,42 @@ Ao classificar uma informação, também é necessário definir quem é o propri
 
 ---
 
-### Aula 76 - Em Breve
+### Aula 76 - Medidas físicas para manter áreas seguras
+
+De acordo com o livro base:
+
+- A segurança física faz parte da segurança da informação.
+- As medidas devem ser criadas conforme a necessidade do negócio.
+- Não se deve exagerar nas medidas físicas de segurança.
+
+**Exemplos de medidas físicas:**
+
+- Sensores
+- Câmeras de segurança
+- Sensores infravermelhos
+- Detectores de vibração
+- Sensores de quebra de vidro
+- Contatos magnéticos
+- Segurança humana (vigilantes)
+- Detectores de metais
+
+Um exemplo prático é um banco, que utiliza diversas câmeras, detectores de metais e seguranças para proteger suas áreas.
+
+#### Anéis de proteção
+
+A área que tentamos proteger é chamada de ``anel de proteção``, que pode ser composta por várias camadas:
+
+- **Cerca:** Anel externo
+- **Prédio:** Área da instalação da organização
+- **Ambiente de trabalho:** Mais um anel de proteção (salas, escritórios)
+- **Objeto:** O alvo final, onde a informação está armazenada (ex: cofre, servidor)
+
+Cada camada exige controles físicos específicos, aumentando a dificuldade de acesso conforme se aproxima do objeto protegido.
+
+> A norma ISO/IEC 27002 traz recomendações sobre esses anéis de proteção e como implementá-los de forma adequada.
+
+**Resumo:**  
+A segurança física deve ser planejada em camadas, protegendo desde o perímetro externo até o objeto de maior valor, sempre considerando o contexto e a real necessidade da organização.
 
 ---
 
