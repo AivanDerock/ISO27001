@@ -455,7 +455,24 @@ Essas medidas organizacionais são fundamentais para manter a segurança das ope
 
 ---
 
-### Aula 84 - Em Breve
+### Aula 84 - Medidas organizacionais: exemplos
+
+As **medidas organizacionais** representam o lado burocrático da segurança da informação. Elas são definidas de cima para baixo, ou seja, partem da alta direção e precisam do comprometimento dos líderes para que a ISO 27001 seja efetivamente implementada na organização.
+
+Na prática, tudo que for criado em termos de políticas, normas, procedimentos e regras — e que deve ser seguido por usuários, colaboradores e clientes — está sob o guarda-chuva das medidas organizacionais. É fundamental que a alta direção aprove, apoie e esteja ciente dessas medidas.
+
+**Exemplos de medidas organizacionais:**
+
+- Políticas de segurança da informação aprovadas pela diretoria
+- Procedimentos internos documentados e divulgados
+- Termos de responsabilidade e confidencialidade assinados por colaboradores
+- Treinamentos de conscientização em segurança da informação
+- Processos de gestão de riscos formalizados
+- Auditorias internas e revisões periódicas das políticas
+- Definição clara de papéis e responsabilidades
+- Planos de resposta a incidentes e continuidade de negócios
+
+Todos os processos operacionais e técnicos precisam estar alinhados e subordinados a essas medidas organizacionais, garantindo que a segurança da informação seja uma responsabilidade de toda a organização, com apoio e liderança da alta direção.
 
 ---
 
