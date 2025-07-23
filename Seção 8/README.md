@@ -346,7 +346,22 @@ A criptografia simétrica é mais simples e rápida, mas depende do segredo da c
 
 ---
 
-### Aula 80 - Em Breve
+### Aula 80 - Conceitos de Assinatura Digital
+
+A assinatura digital é um procedimento que utiliza a criptografia, especificamente a **criptografia assimétrica** (com chave pública e chave privada).
+
+Quando o remetente assina digitalmente uma mensagem, ele garante:
+
+- **Autenticidade:** Confirma que a mensagem foi realmente enviada por quem assinou.
+- **Integridade:** Garante que o conteúdo não foi alterado após a assinatura.
+- **Não repúdio:** O remetente não pode negar que enviou a mensagem.
+
+Se a mensagem for alterada ou enviada por engano, as chaves do remetente e do destinatário não irão se "encaixar", indicando que houve violação ou erro.
+
+Atualmente, assinaturas digitais são válidas tanto para pessoas físicas quanto jurídicas. Muitas empresas utilizam assinaturas digitais para validar documentos eletrônicos.
+
+**Importante:**  
+A assinatura digital possui valor jurídico, sendo reconhecida legalmente em diversos processos e contratos.
 
 ---
 
