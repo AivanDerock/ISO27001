@@ -365,7 +365,22 @@ A assinatura digital possui valor jurídico, sendo reconhecida legalmente em div
 
 ---
 
-### Aula 81 - Em Breve
+### Aula 81 - Conceitos de criptografia HASH
+
+Quando falamos de ``HASH``, estamos nos referindo a um identificador único que cada arquivo ou mensagem possui. Esse identificador é gerado por meio de uma função hash e, em condições normais, não se altera com o tempo.
+
+O hash garante que o arquivo **não foi alterado** desde a última vez que foi gerado.  
+Ou seja, uma vez que um arquivo ou mídia é criado, ele recebe um hash único. Ao ser compartilhado, o destinatário pode calcular o hash novamente para verificar se o arquivo foi modificado.
+
+Se o arquivo for alterado (por exemplo, por um vírus), o hash muda, indicando que a ``integridade`` foi comprometida. Isso afeta diretamente os princípios de ``CID`` (Confidencialidade, Integridade e Disponibilidade), pois o arquivo deixa de ser íntegro.
+
+**Exemplo prático:**  
+
+- Um vírus pode modificar um arquivo e alterar seu hash, fazendo com que ele pareça um arquivo comum.  
+- Ferramentas de verificação de integridade comparam o hash atual com o hash original para identificar alterações.
+
+**Resumo:**  
+O hash é fundamental para garantir a integridade das informações, permitindo identificar rapidamente se um arquivo ou mensagem foi alterado de forma não autorizada.
 
 ---
 
