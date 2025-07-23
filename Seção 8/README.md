@@ -32,11 +32,11 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 77 - Medidas físicas para equipamentos](#aula-77---medidas-físicas-para-equipamentos)
 - [Aula 78 - Medidas técnicas](#aula-78---medidas-técnicas)
 - [Aula 79 - Conceitos de criptografia](#aula-79---conceitos-de-criptografia)
-- [Aula 80 - Em Breve]()
-- [Aula 81 - Em Breve]()
-- [Aula 82 - Em Breve]()
-- [Aula 83 - Em Breve]()
-- [Aula 84 - Em Breve]()
+- [Aula 80 - Conceitos de Assinatura Digital](#aula-80---conceitos-de-assinatura-digital)
+- [Aula 81 - Conceitos de criptografia HASH](#aula-81---conceitos-de-criptografia-hash)
+- [Aula 82 - Tipos de softwares maliciosos e medidas de proteção](#aula-82---tipos-de-softwares-maliciosos-e-medidas-de-proteção)
+- [Aula 83 - Medidas organizacionais](#aula-83---medidas-organizacionais)
+- [Aula 84 - Medidas organizacionais: exemplos](#aula-84---medidas-organizacionais-exemplos)
 - [Aula 85 - Em Breve]()
 - [Aula 86 - Em Breve]()
 - [Aula 87 - Em Breve]()
@@ -507,4 +507,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 22/07/25 por Ivan Rocha_
+> _Última atualização: 23/07/25 por Ivan Rocha_
