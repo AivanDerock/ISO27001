@@ -420,7 +420,38 @@ A prevenção e a conscientização são as melhores formas de proteção contra
 
 ---
 
-### Aula 83 - Em Breve
+### Aula 83 - Medidas organizacionais
+
+Quando falamos de segurança de operações, estamos nos referindo a práticas e controles que garantem que tudo que está em operação (computadores, servidores, notebooks, etc.) esteja seguro e funcionando corretamente.
+
+Segundo a norma ISO/IEC 27002, destacam-se os seguintes controles:
+
+#### 12. Segurança de operações
+
+- **12.1 Procedimentos e responsabilidades operacionais**  
+  *Objetivo:* Garantir operações corretas e seguras das instalações de processamento de informações.
+
+- **12.2 Proteção contra malware**  
+  *Objetivo:* Garantir que as instalações e informações estejam protegidas contra softwares maliciosos.
+
+- **12.3 Backup**  
+  *Objetivo:* Proteger contra a perda de dados.
+
+- **12.4 Logging e monitoramento**  
+  *Objetivo:* Registrar eventos e gerar evidências para auditoria e análise.
+
+- **12.5 Controle do software operacional**  
+  *Objetivo:* Garantir a integridade dos sistemas operacionais.
+
+- **12.6 Gestão de vulnerabilidades técnicas**  
+  *Objetivo:* Prevenir a exploração de vulnerabilidades técnicas.
+
+- **12.7 Considerações sobre auditoria de sistemas de informação**  
+  *Objetivo:* Minimizar o impacto das atividades de auditoria nos sistemas operacionais.
+
+---
+
+Essas medidas organizacionais são fundamentais para manter a segurança das operações e garantir a continuidade dos serviços, protegendo os ativos de informação da organização.
 
 ---
 
