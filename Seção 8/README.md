@@ -384,7 +384,39 @@ O hash é fundamental para garantir a integridade das informações, permitindo 
 
 ---
 
-### Aula 82 - Em Breve
+### Aula 82 - Tipos de softwares maliciosos e medidas de proteção
+
+Todo software malicioso deve ser considerado um ``malware``. Antigamente, era comum chamar tudo de vírus, mas hoje o termo correto é **malware**.
+
+**Malware** (do inglês "malicious software") é um código, programa ou software criado para infiltrar-se em sistemas de forma ilícita, com o objetivo de causar danos, alterações ou roubo de informações.
+
+#### Exemplos de malware e ameaças associadas:
+
+- **Phishing:** Tentativa de enganar o usuário para obter credenciais ou informações sensíveis, geralmente por e-mail falso.
+- **Spam:** Envio e recebimento de mensagens indesejadas, normalmente em massa.
+- **Hoax:** Boatos, fofocas ou fake news, geralmente para enganar ou alarmar usuários.
+- **Vírus:** Se espalha pelo sistema e por máquinas, como um vírus biológico.
+- **Worm:** "Larva" digital que se propaga sozinha, consumindo recursos e danificando sistemas.
+- **Trojan (Cavalo de Troia):** Programa disfarçado de legítimo, mas que executa ações maliciosas. Pode trazer bombas-relógio.
+- **Bomba-relógio:** Software que permanece inativo até ser ativado em determinado momento, causando danos.
+- **Botnet:** Rede de máquinas "zumbis" controladas remotamente para executar ataques coordenados.
+- **Rootkit:** Ferramenta que explora vulnerabilidades para obter acesso privilegiado e ocultar atividades maliciosas.
+- **Spyware:** Programa espião que monitora e registra as atividades do usuário, como teclas digitadas e sites acessados.
+
+**Resumo:**  
+Todos esses exemplos são tipos de malware, cada um com uma função específica, mas todos são softwares mal-intencionados.
+
+#### Medidas de proteção recomendadas:
+
+- Utilizar antivírus e mantê-lo sempre atualizado.
+- Manter o sistema operacional e aplicativos atualizados.
+- Não clicar em links ou anexos suspeitos.
+- Desconfiar de e-mails e mensagens de remetentes desconhecidos.
+- Utilizar firewalls e filtros de conteúdo.
+- Realizar backups regulares das informações.
+- Treinar usuários para reconhecer ameaças e golpes.
+
+A prevenção e a conscientização são as melhores formas de proteção contra malwares.
 
 ---
 
