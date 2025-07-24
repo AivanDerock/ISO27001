@@ -503,7 +503,28 @@ O SGSI é implementado e mantido com base no ciclo PDCA, começando pela anális
 
 ---
 
-### Aula 86 - Em Breve
+### Aula 86 - Segurança de recursos humanos
+
+Qualquer pessoa que usa, manipula ou armazena dados é responsável, direta ou indiretamente, pela segurança dessas informações. Não é possível transferir totalmente a responsabilidade de uma informação para outra pessoa ou setor.
+
+Por exemplo, se uma informação pertence ao setor de RH, o departamento de TI também é responsável por garantir sua proteção. Se você cria uma informação, seu colega que tem acesso também compartilha essa responsabilidade.
+
+Até mesmo uma simples conversa de elevador sobre assuntos internos pode se tornar uma falha de segurança da informação.
+
+Segundo o livro base, ``todos os funcionários são responsáveis pela segurança da informação``.
+
+A empresa deve ter processos rigorosos de contratação e desligamento de colaboradores, pois não basta apenas o RH desligar o funcionário e a TI desativar o acesso dias depois. Ambos os setores precisam atuar juntos para evitar riscos, como ações mal-intencionadas de ex-colaboradores.
+
+É fundamental que a empresa tenha processos definidos para:
+
+- Antes da contratação
+- Durante o vínculo empregatício
+- Após o encerramento do contrato
+
+Outro ponto importante é o controle de acesso dos colaboradores: saber o que está sendo acessado, como os recursos estão sendo utilizados e monitorar possíveis comportamentos suspeitos.
+
+**Resumo:**  
+A segurança de recursos humanos envolve todos os colaboradores e exige processos claros e integrados entre os setores, desde a contratação até o desligamento, além de monitoramento contínuo dos acessos e atividades.
 
 ---
 
