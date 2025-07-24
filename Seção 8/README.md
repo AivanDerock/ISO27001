@@ -37,12 +37,15 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 82 - Tipos de softwares maliciosos e medidas de proteção](#aula-82---tipos-de-softwares-maliciosos-e-medidas-de-proteção)
 - [Aula 83 - Medidas organizacionais](#aula-83---medidas-organizacionais)
 - [Aula 84 - Medidas organizacionais: exemplos](#aula-84---medidas-organizacionais-exemplos)
-- [Aula 85 - Em Breve]()
-- [Aula 86 - Em Breve]()
-- [Aula 87 - Em Breve]()
-- [Aula 88 - Em Breve]()
-- [Aula 89 - Em Breve]()
+- [Aula 85 - Sistema de Gestão de Segurança da Informação (SGSI)](#aula-85---sistema-de-gestão-de-segurança-da-informação-sgsi)
+- [Aula 86 - Segurança de recursos humanos](#aula-86---segurança-de-recursos-humanos)
+- [Aula 87 - Gestão de acesso](#aula-87---gestão-de-acesso)
+- [Aula 88 - Conceitos de gestão de acesso](#aula-88---conceitos-de-gestão-de-acesso)
+- [Aula 89 - Responsabilidades do usuário](#aula-89---responsabilidades-do-usuário)
 - [Aula 90 - Em Breve]()
+- [Aula 91 - Em Breve]()
+- [Aula 92 - Em Breve]()
+- [Aula 93 - Em Breve]()
 
 ---
 
@@ -528,7 +531,7 @@ A segurança de recursos humanos envolve todos os colaboradores e exige processo
 
 ---
 
-### Aula 87 - Conceitos de gestão de acesso
+### Aula 87 - Gestão de acesso
 
 A ``gestão de acesso`` tem como objetivo impedir ou autorizar o acesso de pessoas a sistemas, informações e recursos da organização. É fundamental que o sistema esteja preparado para monitorar as atividades dos usuários, identificando tentativas de invasão, cópia de arquivos ou outras ações suspeitas.
 
@@ -595,6 +598,18 @@ O usuário é responsável por criar e manter senhas seguras, seguindo as orient
 
 ---
 
+### Aula 91 - Em Breve
+
+---
+
+### Aula 92 - Em Breve
+
+---
+
+### Aula 93 - Em Breve
+
+---
+
 ## 💡 Considerações Finais
 
 Essas anotações refletem o que considerei mais importante e interessante durante as aulas do curso.  
@@ -602,4 +617,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 23/07/25 por Ivan Rocha_
+> _Última atualização: 24/07/25 por Ivan Rocha_

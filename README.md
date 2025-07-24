@@ -122,12 +122,15 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 - [Aula 82 - Tipos de softwares maliciosos e medidas de proteção](./Seção%208/README.md#aula-82---tipos-de-softwares-maliciosos-e-medidas-de-proteção)
 - [Aula 83 - Medidas organizacionais](./Seção%208/README.md#aula-83---medidas-organizacionais)
 - [Aula 84 - Medidas organizacionais: exemplos](./Seção%208/README.md#aula-84---medidas-organizacionais-exemplos)
-- [Aula 85 - Em Breve](./Seção%208/README.md)
-- [Aula 86 - Em Breve](./Seção%208/README.md)
-- [Aula 87 - Em Breve](./Seção%208/README.md)
-- [Aula 88 - Em Breve](./Seção%208/README.md)
-- [Aula 89 - Em Breve](./Seção%208/README.md)
+- [Aula 85 - Sistema de Gestão de Segurança da Informação (SGSI)](./Seção%208/README.md#aula-85---sistema-de-gestão-de-segurança-da-informação-sgsi)
+- [Aula 86 - Segurança de recursos humanos](./Seção%208/README.md#aula-86---segurança-de-recursos-humanos)
+- [Aula 87 - Gestão de acesso](./Seção%208/README.md#aula-87---gestão-de-acesso)
+- [Aula 88 - Conceitos de gestão de acesso](./Seção%208/README.md#aula-88---conceitos-de-gestão-de-acesso)
+- [Aula 89 - Responsabilidades do usuário](./Seção%208/README.md#aula-89---responsabilidades-do-usuário)
 - [Aula 90 - Em Breve](./Seção%208/README.md)
+- [Aula 91 - Em Breve](./Seção%208/README.md)
+- [Aula 92 - Em Breve](./Seção%208/README.md)
+- [Aula 93 - Em Breve](./Seção%208/README.md)
 
 ---
 
