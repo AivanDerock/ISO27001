@@ -561,7 +561,33 @@ A gestão de acesso eficiente depende da correta aplicação dos processos de id
 
 ---
 
-### Aula 89 - Em Breve
+### Aula 89 - Responsabilidades do usuário
+
+Na ISO/IEC 27002, existem recomendações importantes sobre a criação e o gerenciamento de senhas, especialmente no controle:
+
+#### 9. Controle de acesso
+
+##### 9.4 Controle de acesso ao sistema e à aplicação
+
+##### 9.4.3 Sistema de gerenciamento de senha
+
+**Controle:**  
+Convém que sistemas para gerenciamento de senhas sejam interativos e assegurem senhas de qualidade.
+
+Ou seja, o sistema deve orientar o usuário durante a criação da senha, indicando se ela está fraca ou forte, e exigir padrões mínimos de segurança.
+
+**Diretrizes para criação de senhas seguras:**
+
+- Utilizar senhas com comprimento mínimo (ex: 8 caracteres ou mais)
+- Misturar letras maiúsculas, minúsculas, números e caracteres especiais
+- Evitar senhas óbvias, como datas de nascimento, nomes ou sequências simples
+- Não reutilizar senhas em diferentes sistemas
+- Alterar senhas periodicamente, conforme política da organização
+- Não compartilhar senhas com outras pessoas
+- Utilizar, sempre que possível, autenticação multifator (MFA)
+
+**Resumo:**  
+O usuário é responsável por criar e manter senhas seguras, seguindo as orientações do sistema e as políticas da organização. Sistemas de gerenciamento de senha devem ser interativos, ajudando o usuário a escolher senhas fortes e protegendo o acesso às informações.
 
 ---
 
