@@ -543,7 +543,21 @@ Esses procedimentos garantem que apenas pessoas autorizadas tenham acesso às in
 
 ---
 
-### Aula 88 - Em Breve
+### Aula 88 - Conceitos de gestão de acesso
+
+Dar acesso a uma pessoa a determinada informação envolve três etapas principais:
+
+1. ``Identificação:`` O usuário informa quem é (por exemplo, login, número de matrícula, cartão).
+2. ``Autenticação:`` O usuário comprova sua identidade (senha, biometria, token, etc.).
+3. ``Autorização:`` O sistema verifica se o usuário tem permissão para acessar a informação ou recurso solicitado.
+
+Um bom exemplo é o funcionamento de um caixa eletrônico:  
+Primeiro, você se identifica inserindo o cartão; depois, autentica sua identidade com a senha ou biometria; por fim, o sistema autoriza (ou não) o acesso às funções bancárias.
+
+Em muitas empresas, as informações ainda estão facilmente acessíveis, sem um processo claro de autorização e verificação. Isso representa um risco, pois o acesso deve sempre passar por essas três etapas para garantir a segurança das informações.
+
+**Resumo:**  
+A gestão de acesso eficiente depende da correta aplicação dos processos de identificação, autenticação e autorização, garantindo que apenas pessoas autorizadas possam acessar informações sensíveis.
 
 ---
 
