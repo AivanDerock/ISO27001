@@ -476,7 +476,30 @@ Todos os processos operacionais e técnicos precisam estar alinhados e subordina
 
 ---
 
-### Aula 85 - Em Breve
+### Aula 85 - Sistema de Gestão de Segurança da Informação (SGSI)
+
+Para estabelecer um ``SGSI`` (Sistema de Gestão de Segurança da Informação), é necessário seguir um ciclo contínuo de melhoria, garantindo que a segurança da informação seja:
+
+- Estabelecida
+- Implementada
+- Operada
+- Monitorada
+- Revisada
+- Mantida
+- Melhorada
+
+O SGSI utiliza como base o ciclo ``PDCA``:
+
+- ``P`` (Plan / Planejar): Planejar as ações, começando pela análise e gestão de riscos. Identificar pontos de falha e definir as medidas necessárias (físicas, técnicas e organizacionais).
+- ``D`` (Do / Executar): Implementar as ações planejadas, colocando em prática as medidas de segurança.
+- ``C`` (Check / Verificar): Monitorar e verificar se as ações implementadas estão funcionando conforme o esperado, por meio de auditorias e revisões.
+- ``A`` (Act / Agir): Caso algo não esteja funcionando, agir para corrigir e melhorar continuamente o sistema.
+
+O ciclo PDCA é uma lógica de gestão que garante a melhoria contínua do SGSI.  
+Independentemente do ponto de partida, sempre se inicia com a ``análise de risco``, que direciona todas as ações seguintes.
+
+**Resumo:**  
+O SGSI é implementado e mantido com base no ciclo PDCA, começando pela análise de riscos e utilizando medidas físicas, técnicas e organizacionais para proteger a informação. O processo é contínuo, sempre buscando aprimorar a segurança da organização.
 
 ---
 
