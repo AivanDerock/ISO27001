@@ -528,7 +528,18 @@ A segurança de recursos humanos envolve todos os colaboradores e exige processo
 
 ---
 
-### Aula 87 - Em Breve
+### Aula 87 - Conceitos de gestão de acesso
+
+A ``gestão de acesso`` tem como objetivo impedir ou autorizar o acesso de pessoas a sistemas, informações e recursos da organização. É fundamental que o sistema esteja preparado para monitorar as atividades dos usuários, identificando tentativas de invasão, cópia de arquivos ou outras ações suspeitas.
+
+O gerenciamento de acesso envolve:
+
+- **Registro e cancelamento de usuários:** Controle de criação, alteração e exclusão de contas em serviços ou aplicações.
+- **Provisionamento de acesso:** Definir quais permissões cada usuário deve ter, de acordo com sua função.
+- **Revisão periódica de acessos:** Verificar regularmente quem tem acesso às aplicações, identificando colaboradores desligados ou mudanças de função.
+- **Gestão da informação de autenticação secreta:** Gerenciar senhas, tokens e outros métodos de autenticação para garantir que apenas pessoas autorizadas acessem os recursos.
+
+Esses procedimentos garantem que apenas pessoas autorizadas tenham acesso às informações e recursos necessários, reduzindo riscos e fortalecendo a segurança da organizaçã``
 
 ---
 
