@@ -660,7 +660,34 @@ O gerenciamento da continuidade de negócio vai além do backup. Envolve identif
 
 ---
 
-### Aula 93 - Em Breve
+### Aula 93 - Desastres e recuperação
+
+Primeiro ocorre o desastre, depois aplicamos o plano de continuidade de negócio.
+
+Um desastre pode ser natural (como enchentes, incêndios, terremotos) ou causado por ação humana (falhas, sabotagens, ataques cibernéticos). Os desastres naturais são imprevisíveis, mas os humanos podem ser previstos e mitigados com planejamento.
+
+Segundo a ``ISO 27031``, que trata especificamente de planos de continuidade em TI, existem diferentes tipos de planos:
+
+- **Plano de continuidade**
+- **Plano de recuperação de desastres**
+- **Plano de continuidade de negócio**
+
+Quando falamos em continuidade, também devemos considerar os planos de continuidade dos serviços de TI, pois atualmente nenhuma empresa sobrevive sem uma área de tecnologia funcionando.
+
+Não adianta ter um plano de continuidade de negócio sem garantir a continuidade dos serviços de TI. Ambos devem estar alinhados para garantir a sobrevivência e a retomada das operações.
+
+Após um desastre, o objetivo é acionar o plano de continuidade e, em seguida, aplicar o plano de recuperação para sair do cenário de desastre e retornar ao estado normal de operação.
+
+**Ações que contribuem para a continuidade dos serviços de TI:**
+
+- Redundâncias (de sistemas, links, equipamentos)
+- Locais redundantes (sites alternativos)
+- Hot site sob demanda (infraestrutura pronta para uso imediato)
+- Locais de trabalho alternativos para equipes
+- Medidas relacionadas ao pessoal (treinamento, equipes de resposta)
+
+**Resumo:**  
+A recuperação de desastres envolve sair do cenário de crise e retornar ao normal, com apoio de planos bem estruturados e ações preventivas, especialmente na área de TI, conforme orienta a ISO 27031.
 
 ---
 
