@@ -32,7 +32,13 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 
 ---
 
-### Aula 94 - Em Breve
+### Aula 94 - Visão geral dessa seção
+
+Este é o ``último`` módulo do curso. A partir daqui, estamos prontos para fazer a prova!
+
+Esta seção aborda temas de ``legislação e regulamentação``, que representam cerca de 10% do conteúdo cobrado no exame de certificação.
+
+Prepare-se para revisar os principais conceitos legais e regulatórios relacionados à segurança da informação, fundamentais para garantir conformidade e sucesso na prova.
 
 ---
 
