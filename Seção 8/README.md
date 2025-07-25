@@ -617,7 +617,18 @@ Cada forma de controle de acesso lógico atende a necessidades diferentes de seg
 
 ---
 
-### Aula 91 - Em Breve
+### Aula 91 - Segregação de tarefas
+
+A palavra ``segregação`` significa dividir ou separar funções e responsabilidades dentro de uma organização.
+
+Segundo o livro base:
+
+Convém que tarefas e responsabilidades sejam separadas para evitar o uso indevido, alterações não autorizadas ou não intencionais de ativos.
+
+Na prática, a segregação de tarefas envolve analisar se uma pessoa acumula funções de decisão, execução ou controle. Se uma mesma pessoa tem acesso desnecessário ou exerce múltiplos papéis críticos, o risco de uso indevido, alteração ou destruição de informações aumenta — seja de forma intencional ou acidental.
+
+**Resumo:**  
+Dividir as tarefas entre diferentes pessoas reduz os riscos para a organização, garantindo maior segurança e integridade das informações e processos.
 
 ---
 
