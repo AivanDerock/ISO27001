@@ -127,10 +127,10 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 - [Aula 87 - Gestão de acesso](./Seção%208/README.md#aula-87---gestão-de-acesso)
 - [Aula 88 - Conceitos de gestão de acesso](./Seção%208/README.md#aula-88---conceitos-de-gestão-de-acesso)
 - [Aula 89 - Responsabilidades do usuário](./Seção%208/README.md#aula-89---responsabilidades-do-usuário)
-- [Aula 90 - Em Breve](./Seção%208/README.md)
-- [Aula 91 - Em Breve](./Seção%208/README.md)
-- [Aula 92 - Em Breve](./Seção%208/README.md)
-- [Aula 93 - Em Breve](./Seção%208/README.md)
+- [Aula 90 - Formas de controle de acesso lógico](./Seção%208/README.md#aula-90---formas-de-controle-de-acesso-lógico)
+- [Aula 91 - Segregação de tarefas](./Seção%208/README.md#aula-91---segregação-de-tarefas)
+- [Aula 92 - Gerenciamento da continuidade de negócio](./Seção%208/README.md#aula-92---gerenciamento-da-continuidade-de-negócio)
+- [Aula 93 - Desastres e recuperação](./Seção%208/README.md#aula-93---desastres-e-recuperação)
 
 ---
 

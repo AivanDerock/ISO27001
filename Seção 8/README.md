@@ -42,10 +42,10 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 - [Aula 87 - Gestão de acesso](#aula-87---gestão-de-acesso)
 - [Aula 88 - Conceitos de gestão de acesso](#aula-88---conceitos-de-gestão-de-acesso)
 - [Aula 89 - Responsabilidades do usuário](#aula-89---responsabilidades-do-usuário)
-- [Aula 90 - Em Breve]()
-- [Aula 91 - Em Breve]()
-- [Aula 92 - Em Breve]()
-- [Aula 93 - Em Breve]()
+- [Aula 90 - Formas de controle de acesso lógico](#aula-90---formas-de-controle-de-acesso-lógico)
+- [Aula 91 - Segregação de tarefas](#aula-91---segregação-de-tarefas)
+- [Aula 92 - Gerenciamento da continuidade de negócio](#aula-92---gerenciamento-da-continuidade-de-negócio)
+- [Aula 93 - Desastres e recuperação](#aula-93---desastres-e-recuperação)
 
 ---
 
@@ -698,4 +698,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 24/07/25 por Ivan Rocha_
+> _Última atualização: 25/07/25 por Ivan Rocha_
