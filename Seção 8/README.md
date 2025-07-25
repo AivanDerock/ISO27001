@@ -594,7 +594,26 @@ O usuário é responsável por criar e manter senhas seguras, seguindo as orient
 
 ---
 
-### Aula 90 - Em Breve
+### Aula 90 - Formas de controle de acesso lógico
+
+O ``acesso lógico`` é aquele realizado por meio de sistemas, aplicações, desktops ou notebooks, ou seja, qualquer acesso digital a recursos de informação.
+
+Existem quatro principais formas de controle de acesso lógico:
+
+1. ``Controle de acesso discricionário (DAC)``  
+   O proprietário do recurso define quem pode acessar e quais permissões cada usuário terá. É o modelo mais flexível, mas também o mais suscetível a erros humanos.
+
+2. ``Controle de acesso mandatório (MAC)``  
+   As permissões são definidas por políticas centralizadas da organização, e não podem ser alteradas pelo usuário. Muito utilizado em ambientes de alta segurança, como órgãos governamentais.
+
+3. ``Controle de acesso baseado em papéis (RBAC)``  
+   O acesso é concedido de acordo com o papel ou função do usuário na organização. Exemplo: um gerente tem acesso a determinados recursos que um analista não possui.
+
+4. ``Controle de acesso baseado em requisitos (ou atributos) (ABAC)``  
+   O acesso é concedido com base em requisitos específicos, como horário, localização, tipo de dispositivo, entre outros atributos. Permite regras mais dinâmicas e contextuais.
+
+**Resumo:**  
+Cada forma de controle de acesso lógico atende a necessidades diferentes de segurança e flexibilidade, sendo importante escolher o modelo mais adequado ao contexto da organização.
 
 ---
 
