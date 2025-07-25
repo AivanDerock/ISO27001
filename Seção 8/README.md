@@ -632,7 +632,31 @@ Dividir as tarefas entre diferentes pessoas reduz os riscos para a organização
 
 ---
 
-### Aula 92 - Em Breve
+### Aula 92 - Gerenciamento da continuidade de negócio
+
+A ``continuidade de negócio`` é um dos principais motivos para uma empresa buscar a certificação ISO 27001. Ao pensar em certificação, a organização também está preocupada com sua capacidade de se recuperar após um desastre.
+
+Uma das ações mais conhecidas de continuidade é o uso de **backup**, mas ele não é a única forma de garantir a continuidade das operações. Existem diversas ações e estratégias que podem ser adotadas para manter o negócio funcionando mesmo diante de incidentes graves.
+
+Segundo o livro base, o gerenciamento da continuidade de negócio envolve:
+
+- **Proteção dos processos de negócio**
+- **Buscar a continuidade após um desastre**
+- **Garantir a sobrevivência da empresa**
+- **Evitar publicidade negativa**
+
+O foco não deve ser apenas no backup das informações, mas sim em garantir que, mesmo diante de um cenário de destruição, a empresa consiga reunir sua equipe em outro local e continuar operando, mantendo serviços essenciais como sites, atendimento e recebimento de pedidos.
+
+A continuidade do negócio é alcançada por meio de:
+
+1. **Identificação dos processos e serviços críticos para a organização**
+2. **Avaliação das consequências dos desastres (AIN - Análise de Impacto no Negócio, ou BIA em inglês)**
+3. **Elaboração de um plano de continuidade com base na AIN/BIA**
+
+**AIN:** Análise de Impacto no Negócio (em inglês, BIA - Business Impact Analysis)
+
+**Resumo:**  
+O gerenciamento da continuidade de negócio vai além do backup. Envolve identificar o que é crítico, avaliar impactos e criar planos para garantir que a empresa sobreviva e continue operando mesmo após eventos adversos.
 
 ---
 
