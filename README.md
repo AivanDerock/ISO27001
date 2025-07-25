@@ -132,6 +132,16 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 - [Aula 92 - Gerenciamento da continuidade de negócio](./Seção%208/README.md#aula-92---gerenciamento-da-continuidade-de-negócio)
 - [Aula 93 - Desastres e recuperação](./Seção%208/README.md#aula-93---desastres-e-recuperação)
 
+### Seção 9
+
+- [Aula 94 - Em Breve](./Seção%209/README.md)
+- [Aula 95 - Em Breve](./Seção%209/README.md)
+- [Aula 96 - Em Breve](./Seção%209/README.md)
+- [Aula 97 - Em Breve](./Seção%209/README.md)
+- [Aula 98 - Em Breve](./Seção%209/README.md)
+- [Aula 99 - Em Breve](./Seção%209/README.md)
+- [Aula 100 - Em Breve](./Seção%209/README.md)
+
 ---
 
 ## 💡 Referências
