@@ -22,7 +22,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 
 ### Seção 9
 
-- [Aula 94 - Em Breve]()
+- [Aula 94 - Visão geral dessa seção](#aula-94---visão-geral-dessa-seção)
 - [Aula 95 - Em Breve]()
 - [Aula 96 - Em Breve]()
 - [Aula 97 - Em Breve]()
