@@ -151,7 +151,21 @@ Tudo que é produzido pela empresa tem um prazo de retenção e deve ser protegi
 
 ---
 
-### Aula 99 - Em Breve
+### Aula 99 - Privacidade das informações pessoais
+
+Países como Brasil, Estados Unidos e membros da União Europeia já possuem legislações específicas sobre a privacidade de informações de identificação pessoal.
+
+No Brasil, a **LGPD (Lei Geral de Proteção de Dados Pessoais)** segue padrões semelhantes aos das normas europeias, mas é aplicada no contexto brasileiro. Qualquer empresa estrangeira que deseje atuar no Brasil precisa cumprir a LGPD, assim como empresas brasileiras que atuam fora devem atender às normas locais.
+
+Segundo o livro base:
+
+- Toda organização deve ter uma **política para proteção dos dados pessoais**, e essa política deve ser conhecida por todos que lidam com esses dados.
+- Uma boa prática é nomear uma pessoa responsável pela proteção dos dados pessoais, que dará apoio a gestores, usuários e prestadores de serviços.
+- Devem existir **medidas técnicas e organizacionais** em vigor para proteger os dados pessoais.
+- É fundamental garantir que o cidadão tenha o direito de inspecionar seus dados registrados. Por isso, as organizações devem possuir políticas e procedimentos que permitam esse acesso.
+
+**Resumo:**  
+A privacidade das informações pessoais é protegida por lei e exige políticas claras, responsáveis definidos e controles técnicos e organizacionais para garantir a segurança e o direito de acesso aos dados pelos titulares.
 
 ---
 
