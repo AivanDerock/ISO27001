@@ -65,7 +65,39 @@ Cada organização deve identificar e cumprir as legislações e regulamentaçõ
 
 ---
 
-### Aula 96 - Em Breve
+### Aula 96 - Conformidade (Compliance)
+
+Em algumas empresas, existe uma área específica de **compliance**, geralmente ligada ao setor jurídico. No entanto, compliance não é responsabilidade exclusiva de advogados ou do departamento jurídico — é uma obrigação de todos os setores da empresa.
+
+**Compliance** significa atender a uma obrigação legal, estatutária, regulatória ou contratual, assim como aos requisitos de segurança interna.
+
+Quando falamos de compliance, não estamos tratando apenas de legislação ou direitos, mas sim de obrigações que devem ser respeitadas por todas as partes envolvidas.
+
+Segundo o livro base:
+
+- Toda empresa precisa observar a legislação local, regulamentos e obrigações contratuais aplicáveis ao seu negócio.
+- A criação de políticas internas é uma forma de garantir conformidade.
+- Procedimentos práticos devem ser desenvolvidos para orientar os funcionários.
+- Recomenda-se buscar aconselhamento jurídico para garantir o correto atendimento às obrigações.
+
+**Empresas que atuam internacionalmente** devem observar tanto as leis locais quanto as internacionais. Se uma organização transfere dados para outros países, precisa estar atenta às legislações de ambos os lados. Por isso, muitas empresas contam com uma área de compliance dedicada a essas questões.
+
+Conformidade não é apenas olhar para a legislação do país onde está a sede, mas também considerar as obrigações em outros países, especialmente na era digital e dos serviços em nuvem, onde os dados podem estar armazenados em diferentes partes do mundo.
+
+Muitos provedores de serviços oferecem a opção de escolher o país onde os dados ficarão armazenados, justamente para atender às exigências de conformidade.
+
+**Algumas leis importantes para ficar atento:**
+
+- Lei Geral de Proteção de Dados Pessoais (LGPD)
+- Lei de Registro Público
+- Lei de Crimes Cibernéticos
+- Lei de Acesso à Informação Governamental
+- Lei Sarbanes-Oxley
+
+Essas leis podem ser nacionais ou internacionais, e é fundamental conhecê-las para garantir a conformidade da organização.
+
+**Resumo:**  
+Compliance é o compromisso de atender a todas as obrigações legais, regulatórias e contratuais, tanto no Brasil quanto no exterior, garantindo que a empresa opere de acordo com as normas e evite riscos jurídicos e reputacionais.
 
 ---
 
