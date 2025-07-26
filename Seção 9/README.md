@@ -169,7 +169,19 @@ A privacidade das informações pessoais é protegida por lei e exige políticas
 
 ---
 
-### Aula 100 - Em Breve
+### Aula 100 - Uso indevido de recursos de TI
+
+O uso indevido de recursos de TI pode ser controlado por meio de políticas claras, que devem ser apresentadas e assinadas pelos colaboradores, muitas vezes já no momento da contratação.
+
+Segundo o livro base:
+
+- É fundamental estabelecer, na política de segurança da organização, as regras sobre como os colaboradores podem utilizar os recursos de TI.
+- Um **código de conduta** pode ser acordado com os funcionários, definindo o uso adequado dos recursos tecnológicos.
+- Atividades não autorizadas podem ser identificadas por meio de monitoramento, permitindo que os gestores tomem medidas disciplinares ou legais, se necessário.
+- O uso dos recursos pode ser monitorado, incluindo o e-mail corporativo, desde que o colaborador seja informado sobre essa possibilidade.
+
+**Resumo:**  
+O controle do uso indevido de recursos de TI depende de políticas bem definidas, comunicação clara com os colaboradores e monitoramento adequado, sempre respeitando a transparência e os direitos dos funcionários.
 
 ---
 
@@ -180,4 +192,4 @@ Organizei os principais conceitos e exemplos para facilitar a revisão e a fixa�
 
 Vamos continuar estudando e evoluindo! 🚀
 
-> _Última atualização: 25/07/25 por Ivan Rocha_
+> _Última atualização: 26/07/25 por Ivan Rocha_
