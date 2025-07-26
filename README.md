@@ -6,6 +6,12 @@ Este repositório contém minhas anotações pessoais sobre a norma **ISO/IEC 27
 
 ---
 
+## 🗓️ Status
+
+- Curso finalizado em 26/07/2025.
+
+---
+
 ## ⚠️ AVISO IMPORTANTE ⚠️
 
 Essas anotações são pessoais e baseadas no que aprendi durante meus estudos da norma ISO/IEC 27001, incluindo cursos que realizei e materiais de domínio público. Não representam nem substituem o conteúdo original de nenhum curso específico.
@@ -146,12 +152,12 @@ A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sist
 ### Seção 9
 
 - [Aula 94 - Visão geral dessa seção](./Seção%209/README.md#aula-94---visão-geral-dessa-seção)
-- [Aula 95 - Em Breve](./Seção%209/README.md)
-- [Aula 96 - Em Breve](./Seção%209/README.md)
-- [Aula 97 - Em Breve](./Seção%209/README.md)
-- [Aula 98 - Em Breve](./Seção%209/README.md)
-- [Aula 99 - Em Breve](./Seção%209/README.md)
-- [Aula 100 - Em Breve](./Seção%209/README.md)
+- [Aula 95 - Legislação e regulamentaçãoe](./Seção%209/README.md#aula-95---legislação-e-regulamentação)
+- [Aula 96 - Conformidade (Compliance)](./Seção%209/README.md#aula-96---conformidade-compliance)
+- [Aula 97 - Propriedade intelectual](./Seção%209/README.md#aula-97---propriedade-intelectual)
+- [Aula 98 - Registros da organização](./Seção%209/README.md#aula-98---registros-da-organização)
+- [Aula 99 - Privacidade das informações pessoais](./Seção%209/README.md#aula-99---privacidade-das-informações-pessoais)
+- [Aula 100 - Uso indevido de recursos de TI](./Seção%209/README.md#aula-100---uso-indevido-de-recursos-de-ti)
 
 ---
 

@@ -23,12 +23,12 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 ### Seção 9
 
 - [Aula 94 - Visão geral dessa seção](#aula-94---visão-geral-dessa-seção)
-- [Aula 95 - Em Breve]()
-- [Aula 96 - Em Breve]()
-- [Aula 97 - Em Breve]()
-- [Aula 98 - Em Breve]()
-- [Aula 99 - Em Breve]()
-- [Aula 100 - Em Breve]()
+- [Aula 95 - Legislação e regulamentaçãoe](#aula-95---legislação-e-regulamentação)
+- [Aula 96 - Conformidade (Compliance)](#aula-96---conformidade-compliance)
+- [Aula 97 - Propriedade intelectual](#aula-97---propriedade-intelectual)
+- [Aula 98 - Registros da organização](#aula-98---registros-da-organização)
+- [Aula 99 - Privacidade das informações pessoais](#aula-99---privacidade-das-informações-pessoais)
+- [Aula 100 - Uso indevido de recursos de TI](#aula-100---uso-indevido-de-recursos-de-ti)
 
 ---
 
