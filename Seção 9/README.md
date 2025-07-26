@@ -126,7 +126,28 @@ Convém que procedimentos apropriados sejam implementados para garantir a confor
 
 ---
 
-### Aula 98 - Em Breve
+### Aula 98 - Registros da organização
+
+Tudo que é processado, armazenado ou criado pela empresa deve ter medidas e controles adequados para evitar o vazamento ou a perda de informações.
+
+Quando falamos de vazamento, devemos considerar a **CID** (Confidencialidade, Integridade e Disponibilidade).
+
+Segundo o livro base:
+
+- Registros e documentos importantes da organização precisam ser protegidos contra perda, destruição e falsificação, de acordo com requisitos estatutários e regulatórios.
+- Os registros devem ser classificados por tipo.
+
+É fundamental considerar estratégias e políticas para:
+
+- **Retenção de dados:** Definir por quanto tempo cada tipo de registro deve ser mantido.
+- **Armazenamento:** Garantir que os registros estejam armazenados de forma segura e acessível.
+- **Processamento:** Controlar quem pode acessar, alterar ou processar os registros.
+- **Descarte:** Definir procedimentos seguros para o descarte de registros que não são mais necessários.
+
+As políticas relacionadas aos registros devem ser comunicadas a todos os funcionários da organização.
+
+**Resumo:**  
+Tudo que é produzido pela empresa tem um prazo de retenção e deve ser protegido conforme as exigências legais e regulatórias, garantindo a segurança e a integridade das informações.
 
 ---
 
