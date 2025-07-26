@@ -6,6 +6,17 @@ Este repositório contém minhas anotações pessoais sobre a norma **ISO/IEC 27
 
 ---
 
+## ⚠️ AVISO IMPORTANTE ⚠️
+
+Essas anotações são pessoais e baseadas no que aprendi durante meus estudos da norma ISO/IEC 27001, incluindo cursos que realizei e materiais de domínio público. Não representam nem substituem o conteúdo original de nenhum curso específico.
+
+> Caso você seja o autor de algum dos conteúdos referenciados e queira que algo seja alterado ou removido, entre em contato que será feito imediatamente. O intuito aqui é apenas registrar meu aprendizado e ajudar outros profissionais da área.
+
+### Contatos: 
+
+ - [Email](mailto:aivanderock@gmail.com)
+ - [Linkedin](https://www.linkedin.com/in/ivan-rocha-419562360/)
+
 ## 📌 Sobre a ISO/IEC 27001
 
 A ISO/IEC 27001 é uma norma internacional que define os requisitos para um Sistema de Gestão de Segurança da Informação (SGSI). Seu objetivo é proteger a confidencialidade, integridade e disponibilidade das informações de uma organização.
