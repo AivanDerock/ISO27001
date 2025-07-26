@@ -101,7 +101,28 @@ Compliance é o compromisso de atender a todas as obrigações legais, regulató
 
 ---
 
-### Aula 97 - Em Breve
+### Aula 97 - Propriedade intelectual
+
+Propriedade intelectual é tudo aquilo que é produzido por uma pessoa e é de domínio exclusivo dela. Para divulgar ou utilizar esses domínios exclusivos, é necessário solicitar acesso por meio de cartas, licenças ou contratos.
+
+Por exemplo, ao adquirir um curso na Udemy, você recebe apenas a licença de uso, ou seja, somente você deve ter acesso ao conteúdo.
+
+Segundo a ISO/IEC 27001:
+
+#### 18.1.2 Direitos de propriedade intelectual
+
+**Controle:**  
+Convém que procedimentos apropriados sejam implementados para garantir a conformidade com os requisitos legislativos, regulamentares e contratuais relacionados aos direitos de propriedade intelectual, incluindo o uso de produtos de software proprietários.
+
+**Diretrizes para proteger a propriedade intelectual:**
+
+1. Divulgar uma política de conformidade com os direitos de propriedade intelectual, definindo o uso legal de softwares e informações.
+2. Adquirir softwares apenas de fontes conhecidas e confiáveis, para evitar violação de direitos autorais.
+3. Manter a conscientização sobre as políticas de proteção à propriedade intelectual e notificar sobre possíveis ações disciplinares em caso de violação.
+4. Manter registros adequados de ativos, identificando aqueles que exigem proteção de direitos de propriedade intelectual.
+5. Guardar provas e evidências de propriedade, como licenças, discos mestre, manuais, etc.
+6. Implementar controles para garantir que o número máximo de usuários permitidos pela licença não seja excedido.
+7. Realizar verificações para garantir que apenas softwares autorizados e licenciados sejam instalados.
 
 ---
 
