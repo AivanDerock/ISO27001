@@ -42,7 +42,26 @@ Prepare-se para revisar os principais conceitos legais e regulatórios relaciona
 
 ---
 
-### Aula 95 - Em Breve
+### Aula 95 - Legislação e regulamentação
+
+Segundo a ISO/IEC 27001, é fundamental que as organizações estejam atentas às principais áreas de legislação e regulamentação que impactam a segurança da informação.
+
+**Principais áreas de legislação e regulamentos:**
+
+- **Legislação geral**
+- **Privacidade dos dados** (ex: LGPD, GDPR)
+- **Fiscal**
+- **Financeira**
+- **Regulamentos específicos**
+  - Para bancos
+  - Para empresas que negociam em bolsa de valores
+
+Se sua empresa é pública, ela precisa atender a medidas fiscais e, muitas vezes, regulamentos ambientais. Empresas que negociam na bolsa de valores também devem cumprir legislações e regulamentações específicas do mercado financeiro.
+
+Já empresas privadas, mesmo que tenham poucos sócios e não negociem ações, ainda assim devem cumprir legislações e regulamentos fiscais e financeiros aplicáveis.
+
+**Resumo:**  
+Cada organização deve identificar e cumprir as legislações e regulamentações pertinentes ao seu setor e porte, garantindo conformidade e segurança das informações.
 
 ---
 
